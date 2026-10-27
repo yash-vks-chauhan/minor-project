@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "states": 22,
+  "audited_outer_fits": 352,
+  "inner_folds_audited": 1408,
+  "prediction_groups": 18,
+  "original_science_files_preserved": 45,
+  "checks": [
+    "source anchors",
+    "population units",
+    "actual min-max normalization",
+    "no income term in descriptive indices",
+    "explicit missing-state exclusion",
+    "outer holdout isolation",
+    "disjoint inner splits",
+    "finite tuning scores",
+    "one prediction per state",
+    "metrics recomputation",
+    "training-mean baseline",
+    "held-out SHAP additivity",
+    "unchanged original scientific files"
+  ]
+}

@@ -1,0 +1,23 @@
+# macOS and local editor/agent state
+.DS_Store
+.claude/
+.playwright-cli/
+.qlpreview/
+.qlpreview_build/
+
+# Python environments and caches
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local build and scratch directories
+.texbuild/
+tmp/
+
+# Office temporary files
+~$*

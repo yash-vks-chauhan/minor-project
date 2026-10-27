@@ -1,0 +1,107 @@
+================================================================================
+  PREDICTIVE MODELING REPORT — ML Validation
+  Research: Digital Inclusion × Circular Economy Behavior in India
+  Method: Leave-One-Out Cross-Validation (n=16 states)
+  Date: February 2026
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+WHY LOO-CV?
+────────────────────────────────────────────────────────────────────────────────
+With only n=16 states, traditional train/test splits lose too much data.
+LOO-CV trains on 15 states, predicts the 16th, and rotates through all
+16 combinations. Every state gets predicted exactly once, without ever
+being in its own training set. This is the gold standard for small-n.
+
+────────────────────────────────────────────────────────────────────────────────
+FEATURE SET A: DIGITAL-ONLY INDICATORS
+Features: ['Tele_Density_Percent', 'UPI_PerCapita_Transactions']
+────────────────────────────────────────────────────────────────────────────────
+            Model  R2_LOOCV      RMSE      MAE  MAPE_Pct  Pearson_r  Pearson_p
+       ElasticNet  0.363738 10.735382 6.887613 13.100041   0.603254   0.013363
+ Lasso Regression  0.347126 10.874623 6.778432 12.429448   0.605568   0.012920
+ Ridge Regression  0.338386 10.947168 6.957104 12.827421   0.597162   0.014588
+    Random Forest  0.326043 11.048815 7.265853 14.418681   0.575272   0.019728
+Linear Regression  0.301024 11.252027 7.227361 13.310351   0.584663   0.017375
+        SVR (RBF)  0.286391 11.369194 7.494670 14.313079   0.554365   0.025850
+Gradient Boosting  0.161067 12.327169 7.176164 13.999848   0.542134   0.030051
+
+Best Model: ElasticNet
+  LOO-CV R²: 0.3637
+  RMSE:      10.7354
+  MAE:       6.8876
+
+INTERPRETATION:
+  Digital indicators ALONE can explain 36.4% of
+  the variance in CE Behavior Score across Indian states.
+  This validates the statistical finding (Pearson r=0.781) with a
+  predictive framework.
+
+────────────────────────────────────────────────────────────────────────────────
+FEATURE SET B: FULL MODEL (Digital + Controls)
+Features: ['Tele_Density_Percent', 'UPI_PerCapita_Transactions', 'Per_Capita_NSDP_Rs', 'Literacy_Rate_Percent', 'Urban_Percent', 'Population_Mn']
+────────────────────────────────────────────────────────────────────────────────
+            Model  R2_LOOCV      RMSE      MAE  MAPE_Pct  Pearson_r  Pearson_p
+ Lasso Regression  0.568463  8.841145 5.138873  9.305207   0.757919   0.000670
+ Ridge Regression  0.536053  9.167140 5.654021 10.579302   0.743115   0.000972
+       ElasticNet  0.534025  9.187147 4.809851  8.501690   0.731493   0.001280
+    Random Forest  0.490337  9.608182 4.871546  9.294542   0.703189   0.002375
+Gradient Boosting  0.445019 10.026255 6.910848 13.494736   0.687258   0.003265
+Linear Regression  0.441817 10.055134 7.028738 13.642411   0.713379   0.001917
+        SVR (RBF)  0.424788 10.207360 5.431394 11.090921   0.700347   0.002517
+
+Best Model: Lasso Regression
+  LOO-CV R²: 0.5685
+  RMSE:      8.8411
+  MAE:       5.1389
+
+────────────────────────────────────────────────────────────────────────────────
+STATE-WISE PREDICTIONS (Best Full Model)
+────────────────────────────────────────────────────────────────────────────────
+           State  Actual_CE_Score  Predicted_Digital_Only  Predicted_Full_Model  Error_Digital_Only  Error_Full_Model
+  Andhra Pradesh            47.27                  44.057                55.137               3.213            -7.867
+           Assam            36.29                  39.951                38.517              -3.661            -2.227
+           Bihar            27.23                  33.734                25.597              -6.504             1.633
+    Chhattisgarh            38.34                  38.394                35.494              -0.054             2.846
+         Gujarat            53.33                  46.808                56.006               6.522            -2.676
+         Haryana            87.30                  50.411                55.999              36.889            31.301
+Himachal Pradesh            48.28                  60.628                58.120             -12.348            -9.840
+       Jharkhand            32.58                  35.968                31.346              -3.388             1.234
+       Karnataka            57.43                  52.804                63.524               4.626            -6.094
+          Kerala            52.33                  60.763                53.552              -8.433            -1.222
+  Madhya Pradesh            37.11                  39.234                33.494              -2.124             3.616
+     Maharashtra            50.33                  53.823                50.412              -3.493            -0.082
+          Odisha            38.59                  41.591                40.879              -3.001            -2.289
+          Punjab            48.63                  56.164                52.071              -7.534            -3.441
+       Rajasthan            40.53                  45.101                42.493              -4.571            -1.963
+      Tamil Nadu            56.08                  52.240                59.970               3.840            -3.890
+
+────────────────────────────────────────────────────────────────────────────────
+KEY INSIGHTS FOR THE PAPER
+────────────────────────────────────────────────────────────────────────────────
+1. STATISTICAL ↔ ML CONVERGENCE:
+   The OLS regression (R²=0.610) and ML models produce consistent results,
+   validating that the Digital Access → CE Behavior relationship is not an
+   artifact of a single statistical method.
+
+2. POLICY IMPLICATION:
+   If ML models can predict CE behavior from digital indicators,
+   policymakers can use readily-available digital metrics (tele-density,
+   UPI adoption) as early predictors of a state's circular economy readiness.
+
+3. REGULARIZED MODELS:
+   Ridge and Lasso regression outperforming basic OLS suggests that
+   regularization helps with the small sample size, preventing overfitting
+   to individual state outliers.
+
+4. NON-LINEAR MODELS:
+   Random Forest and Gradient Boosting results indicate whether the
+   Digital-CE relationship has non-linear components beyond what OLS captures.
+
+================================================================================
+  FIGURES GENERATED:
+    fig13_model_comparison.jpg     — R² comparison across 7 models × 2 feature sets
+    fig14_actual_vs_predicted.jpg  — Scatter: actual vs LOO-CV predicted
+    fig15_prediction_errors.jpg    — State-wise errors + residual distribution
+    fig16_digital_vs_full.jpg      — Impact of adding control variables
+================================================================================

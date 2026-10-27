@@ -1,0 +1,36 @@
+ANALYSIS 1: OLS Regression — Primary Hypothesis
+============================================================
+100% VERIFIED REAL DATA | 16 states
+
+Sources: TRAI Q2 2024, RBI HoS Table 9, NITI Aayog SDG 2023-24,
+         NPCI/Dataful UPI 2024-25, CPCB E-Waste 2021-22, Census 2011
+
+                  Results: Ordinary least squares
+===================================================================
+Model:               OLS               Adj. R-squared:     0.583   
+Dependent Variable:  CE_Behavior_Score AIC:                117.5113
+Date:                2026-03-11 20:08  BIC:                119.0565
+No. Observations:    16                Log-Likelihood:     -56.756 
+Df Model:            1                 F-statistic:        21.94   
+Df Residuals:        14                Prob (F-statistic): 0.000352
+R-squared:           0.610             Scale:              80.649  
+-------------------------------------------------------------------
+                      Coef.  Std.Err.   t    P>|t|   [0.025  0.975]
+-------------------------------------------------------------------
+const                11.1583   7.9708 1.3999 0.1833 -5.9374 28.2540
+Digital_Access_Score  0.5515   0.1178 4.6835 0.0004  0.2989  0.8040
+-------------------------------------------------------------------
+Omnibus:              31.589        Durbin-Watson:           2.025 
+Prob(Omnibus):        0.000         Jarque-Bera (JB):        55.635
+Skew:                 2.720         Prob(JB):                0.000 
+Kurtosis:             10.338        Condition No.:           240   
+===================================================================
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors
+is correctly specified.
+
+Pearson r:  0.7813
+R-squared:  0.6104
+Adj R²:     0.5826
+β₁:         0.5515
+p-value:    0.000352

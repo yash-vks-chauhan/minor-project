@@ -1,0 +1,227 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "Log_EWaste_Per_Million",
+  "features": "digital",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions"
+  ],
+  "model": "XGBoost",
+  "fold": 1,
+  "test_index": 1,
+  "test_state": "Assam",
+  "outer_train_indices": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__learning_rate": 0.05,
+    "model__max_depth": 1,
+    "model__n_estimators": 100
+  },
+  "best_inner_negative_mse": -5.653319556128123,
+  "inner_scores": [
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 1,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -5.653319556128123
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 1,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -6.230867372411293
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 2,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -5.8993932725568055
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 2,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -6.5889559911414
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 1,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -6.187208873760983
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 1,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -6.898250201966137
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 2,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -6.5445327703655725
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 2,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -7.272805593730902
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        3,
+        8,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        2,
+        4,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        6,
+        7,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 1.06672441204,
+  "prediction": 3.0961649417877197,
+  "shap": {
+    "base": 4.368495464324951,
+    "values": {
+      "Tele_Density_Percent": -1.1349517107009888,
+      "UPI_PerCapita_Transactions": -0.13738010823726654
+    }
+  }
+}

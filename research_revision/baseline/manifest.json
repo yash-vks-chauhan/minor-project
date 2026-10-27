@@ -1,0 +1,232 @@
+[
+  {
+    "path": "199fa936-e1d8-48bd-801c-3b116ba3c949.pdf",
+    "sha256": "9b40302a973fec15a292963955c7036d6d112764a9083957676b75d001843ab6",
+    "bytes": 84976
+  },
+  {
+    "path": "Bajaj_Finserv_DS_Interview_Prep.md.pdf",
+    "sha256": "d0ba87aad5330c44385cf8f23ca3a2dfc289824d8400f41a5cdfbb062ca00220",
+    "bytes": 810046
+  },
+  {
+    "path": "CPCB_EWaste_and_City_Mapping.xlsx",
+    "sha256": "00e361128dd032c22d628cc27798a45b4aa5ba0373df33b0c18dc77f99cfe93d",
+    "bytes": 6471
+  },
+  {
+    "path": "Minor_project (2) (1).pdf",
+    "sha256": "c461f05b20d517535989863956e93e66c06c369126567eb037fb987c63a634a5",
+    "bytes": 1750523
+  },
+  {
+    "path": "Minor_project_overleaf/main.tex",
+    "sha256": "b095c7e6b2c45d387077fdeee70d87b734f2bb8f31aa63acb6da375470a9d78d",
+    "bytes": 33149
+  },
+  {
+    "path": "Minor_project_overleaf/review_manuscript_blind.pdf",
+    "sha256": "07914342741995a6151247815c586a62e68fc5a8a9fd0df19b4bf89e6e9a08b3",
+    "bytes": 1528972
+  },
+  {
+    "path": "NPCI_UPI_Monthly_2024_25.xlsx",
+    "sha256": "7e4ff4f19d2aedba00107e64cc7e64dd9018772d0cd5a236460eade37add3653",
+    "bytes": 18164
+  },
+  {
+    "path": "NPCI_UPI_Monthly_2025_26.xlsx",
+    "sha256": "86336b81b4855ba1c60deda0cead7c2cd0c89f9816c545320f62c1e25c987977",
+    "bytes": 18161
+  },
+  {
+    "path": "data/correlation_matrix.csv",
+    "sha256": "35aedb5b502e89fa7a914c72fd3c3e066da8b8d90543ef72a5931e2270ec6bda",
+    "bytes": 1409
+  },
+  {
+    "path": "data/descriptive_statistics.csv",
+    "sha256": "60da34b139d4e2be298f9141b508ba3400754d786b9ce9c29751e8d625e6ace7",
+    "bytes": 887
+  },
+  {
+    "path": "data/extended_state_dataset.csv",
+    "sha256": "e5ad155b9b0d800ef43aea73571b16bf1e12c95cdcd186f9c6d814410de91af2",
+    "bytes": 1396
+  },
+  {
+    "path": "data/raw/niti_sdg_index_2023_24.csv",
+    "sha256": "01850a3b32129b6e6f2685da5d6129e372c4f2998cbd1de601d813e46b6693b2",
+    "bytes": 1453
+  },
+  {
+    "path": "data/raw/rbi_per_capita_nsdp_2023_24.csv",
+    "sha256": "8fad9c8816ef23c88c451e15628a8a96498c46bfe38dd31a5911197b94eca353",
+    "bytes": 1865
+  },
+  {
+    "path": "data/raw/trai_teledensity_q2_2024.csv",
+    "sha256": "65cb27a7390b53a7d7e1316d216dc02382a531f553f0bbdc49289500d56bd6c4",
+    "bytes": 1412
+  },
+  {
+    "path": "data/unified_state_dataset.csv",
+    "sha256": "531b0b6b2b00b45d448d5986ba5711ffc7953f73b402919b29d2084ca6d5718d",
+    "bytes": 1791
+  },
+  {
+    "path": "data/upi_monthly_trends.csv",
+    "sha256": "b70c710b8472f06432d1c6b660d09ec559dca75330c59322390487c4ef81a214",
+    "bytes": 2486
+  },
+  {
+    "path": "output/research/venue-review-2026-10-26.md",
+    "sha256": "17de0ffe33d98584716f6c08359388be08951b691349cb14f738babcf6a78476",
+    "bytes": 22646
+  },
+  {
+    "path": "paper.tex",
+    "sha256": "16a8466e58c859b6b5fbac7aeb63f151de78a0bb40b3474e879548f2db957323",
+    "bytes": 32508
+  },
+  {
+    "path": "paper24.pdf",
+    "sha256": "ec49a62bfab68013026d50f34f27325bcc6218626b0dfef8ecd227865b69d17e",
+    "bytes": 966859
+  },
+  {
+    "path": "paper24.tex",
+    "sha256": "5445e94f9825b275d983a98f5331022f2e181e03872b0e20d865695f477c3997",
+    "bytes": 23843
+  },
+  {
+    "path": "results/advanced_ml_report.txt",
+    "sha256": "1277a735603f9f48fc4076870693f43a405bc3a2db1fbeef3e2ce2d80f78895d",
+    "bytes": 6248
+  },
+  {
+    "path": "results/feature_importance.txt",
+    "sha256": "564e97d6c2a6dcba4e941bda78c24d5dc0cc8a51a4ecebfa18b2382023249c1b",
+    "bytes": 556
+  },
+  {
+    "path": "results/mediation_analysis.txt",
+    "sha256": "e6b57d1ef53a695ea8aad8326f7546063a811854af19876b57982c63ae15c9fa",
+    "bytes": 511
+  },
+  {
+    "path": "results/ml_model_comparison_digital_only.csv",
+    "sha256": "8f34350dadd1f7b9fb77acd38a2b8916d299f53b12d4bbb7aa472674c55ff0b5",
+    "bytes": 957
+  },
+  {
+    "path": "results/ml_model_comparison_full.csv",
+    "sha256": "ecc1dede9eb378045d9a48bfc99903defb55519e32721c24117c22853592ff15",
+    "bytes": 952
+  },
+  {
+    "path": "results/ml_state_predictions.csv",
+    "sha256": "6bb2f9420bb99d3ba458464b5e984247af3b79fbab1d9234f84baa57d1e2f301",
+    "bytes": 794
+  },
+  {
+    "path": "results/model_comparison.csv",
+    "sha256": "3c538a7bf997e25b3e64e68932f31d13b24d6659dcd29e1a7c331a09a6d42d25",
+    "bytes": 472
+  },
+  {
+    "path": "results/multiple_regression_results.txt",
+    "sha256": "0a5f4efa1cc6743ad4a274ba0ba47ed73d8873c01ca200701d799fbd309a874d",
+    "bytes": 2305
+  },
+  {
+    "path": "results/nested_cv_results.csv",
+    "sha256": "1f38e8c197a2f25ef99274fa67319350d3b02d89cd05f2e650d153133cb28463",
+    "bytes": 675
+  },
+  {
+    "path": "results/ols_primary_results.txt",
+    "sha256": "80e8e1db113b2d01cd49809ce729f09c9b1e6583a2924019ae5bd991d38a3bd8",
+    "bytes": 1825
+  },
+  {
+    "path": "results/predictive_modeling_report.txt",
+    "sha256": "82770fe6c82785c36479ea5df36c6be9aa9e7870b69e158fac9c883e5e0818a7",
+    "bytes": 8435
+  },
+  {
+    "path": "results/repeated_kfold_stability.csv",
+    "sha256": "9d098a1573865a38dcfdabc7866c9784bc99ad4136b94134859403c418709274",
+    "bytes": 777
+  },
+  {
+    "path": "results/reviewer_defense_report.txt",
+    "sha256": "b80322fca61e115a3b034d8356e772a3b7e325367b32a75c38c37c00fc5f4859",
+    "bytes": 6557
+  },
+  {
+    "path": "results/robustness_checks.txt",
+    "sha256": "149ff196b461a52a114f2c4764c85d6a042672cd592c36d7925354ae573b9250",
+    "bytes": 309
+  },
+  {
+    "path": "results/shap_values_per_state.csv",
+    "sha256": "fd86bc85fac5fda14322ff05c889ce216e5a264c325d88b3c87dc1c187f1a3fb",
+    "bytes": 894
+  },
+  {
+    "path": "results/state_clusters.csv",
+    "sha256": "5b15ed30ea909d5e33e788a4d51e094996e5b89d14de39af11fe9c464c8e2ee9",
+    "bytes": 803
+  },
+  {
+    "path": "results/threshold_analysis.txt",
+    "sha256": "f287df0d03a66469b726ac6a2f7c9830a0977c274a6c6d0f7a8e1cb75128da2c",
+    "bytes": 1697
+  },
+  {
+    "path": "results/weight_sensitivity.csv",
+    "sha256": "56396dd44207e2561cecf452e6cf1930dd880ff2dad2235ec3a10bb763a029b8",
+    "bytes": 843
+  },
+  {
+    "path": "src/01_data_engineering.py",
+    "sha256": "3e589c829b63c4e03fb77c9ea205d2c8f45d6e7fe428ff3d873d0a8325f9c217",
+    "bytes": 16273
+  },
+  {
+    "path": "src/02_eda_visualizations.py",
+    "sha256": "dc6ae575f5a803f508f47548b6e71ea02009bad676c4193a041e9a0de32967f0",
+    "bytes": 16702
+  },
+  {
+    "path": "src/03_statistical_analysis.py",
+    "sha256": "0f1d10b16b38307d0918eeff2204fc08923bc4cf67c11191b52d00ad85229af4",
+    "bytes": 16983
+  },
+  {
+    "path": "src/04_reviewer_defense.py",
+    "sha256": "8762d10fddd61148aaa1d7cc4980c41afcea6fc9bf035e8417686b041c470d01",
+    "bytes": 28759
+  },
+  {
+    "path": "src/05_predictive_modeling.py",
+    "sha256": "e83975a58cea299ef0273761c5173c0cc45a5f24786ff468027d5d77720fa78f",
+    "bytes": 26589
+  },
+  {
+    "path": "src/06_advanced_ml.py",
+    "sha256": "38524e23caf73f4895ae16d0c4d4aaeffd21acb9c12e30bb4f5a33032fa58ee9",
+    "bytes": 36786
+  },
+  {
+    "path": "src/07_generate_project_management_report.py",
+    "sha256": "e39852cd945a3bc2e38cd169bddb377fac9b8d8e9cc2dedb056539979fb0e5ff",
+    "bytes": 36541
+  },
+  {
+    "path": "src/regen_figures_vertical.py",
+    "sha256": "4f5e70d7b430b956aacc1a31cc0ad747bbf759429a4de13879c983f9d9406254",
+    "bytes": 17415
+  }
+]

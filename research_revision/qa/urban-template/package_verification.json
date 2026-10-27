@@ -1,0 +1,15 @@
+{
+  "reference_sha256": "3e225aaae896eed4b5602ade9a9844f092adc1e7ac7ab088e44c99cb9851df1a",
+  "output_sha256": "98e2db621f3818d5e480f3173f9ab6e16c41f20d3c6ac11ce44fc2bb5822a2fe",
+  "changed_package_parts": [
+    "word/document.xml"
+  ],
+  "preserved_package_parts": true,
+  "preserved_outside_editable_cells_and_documented_pagination_repair": true,
+  "pagination_repair": "Position row 7 cantSplit prevents its label and authors being divided across pages",
+  "abstract_words": 206,
+  "bio_words": 99,
+  "positions_source": "User confirmed Yash and Shreya undergraduate students and Suresh assistant professor on 26 October 2026",
+  "institutional_email_confirmed_active": "yc0810@srmist.edu.in",
+  "output": "/Users/yashchauhan/Desktop/minor project/research_revision/submissions/04-urban-eplanning2027/Urban_ePlanning_2027_Yash_Chauhan.docx"
+}

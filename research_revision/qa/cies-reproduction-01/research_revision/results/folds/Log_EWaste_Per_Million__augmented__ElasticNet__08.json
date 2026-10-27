@@ -1,0 +1,221 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "Log_EWaste_Per_Million",
+  "features": "augmented",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions",
+    "Log_NSDP",
+    "Urban_Percent_2021",
+    "Log_Population"
+  ],
+  "model": "ElasticNet",
+  "fold": 8,
+  "test_index": 8,
+  "test_state": "Karnataka",
+  "outer_train_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__alpha": 1.0,
+    "model__l1_ratio": 0.2
+  },
+  "best_inner_negative_mse": -4.353109703580554,
+  "inner_scores": [
+    {
+      "params": {
+        "model__alpha": 0.01,
+        "model__l1_ratio": 0.2
+      },
+      "mean_negative_mse": -5.1134144223372715
+    },
+    {
+      "params": {
+        "model__alpha": 0.01,
+        "model__l1_ratio": 0.5
+      },
+      "mean_negative_mse": -5.175062618034005
+    },
+    {
+      "params": {
+        "model__alpha": 0.01,
+        "model__l1_ratio": 0.8
+      },
+      "mean_negative_mse": -5.241121562403722
+    },
+    {
+      "params": {
+        "model__alpha": 0.1,
+        "model__l1_ratio": 0.2
+      },
+      "mean_negative_mse": -4.412741553442697
+    },
+    {
+      "params": {
+        "model__alpha": 0.1,
+        "model__l1_ratio": 0.5
+      },
+      "mean_negative_mse": -4.656881375855421
+    },
+    {
+      "params": {
+        "model__alpha": 0.1,
+        "model__l1_ratio": 0.8
+      },
+      "mean_negative_mse": -5.053264774214921
+    },
+    {
+      "params": {
+        "model__alpha": 1.0,
+        "model__l1_ratio": 0.2
+      },
+      "mean_negative_mse": -4.353109703580554
+    },
+    {
+      "params": {
+        "model__alpha": 1.0,
+        "model__l1_ratio": 0.5
+      },
+      "mean_negative_mse": -4.761731918685599
+    },
+    {
+      "params": {
+        "model__alpha": 1.0,
+        "model__l1_ratio": 0.8
+      },
+      "mean_negative_mse": -5.214347399227154
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        2,
+        7,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        4,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        1,
+        3,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        6,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 6.37239767026,
+  "prediction": 5.565599547245082
+}

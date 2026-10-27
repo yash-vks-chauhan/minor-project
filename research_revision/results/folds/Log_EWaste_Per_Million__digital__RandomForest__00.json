@@ -1,0 +1,183 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "Log_EWaste_Per_Million",
+  "features": "digital",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions"
+  ],
+  "model": "RandomForest",
+  "fold": 0,
+  "test_index": 0,
+  "test_state": "Andhra Pradesh",
+  "outer_train_indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__max_depth": 2,
+    "model__min_samples_leaf": 4
+  },
+  "best_inner_negative_mse": -5.543144333611149,
+  "inner_scores": [
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__min_samples_leaf": 2
+      },
+      "mean_negative_mse": -6.089177264927035
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__min_samples_leaf": 4
+      },
+      "mean_negative_mse": -5.543144333611149
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 2
+      },
+      "mean_negative_mse": -5.836528378273241
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 4
+      },
+      "mean_negative_mse": -5.543144333611149
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        3,
+        8,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        1,
+        2,
+        4,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        6,
+        7,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 3.66981440219,
+  "prediction": 4.896385263222968
+}

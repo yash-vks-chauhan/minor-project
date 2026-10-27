@@ -1,0 +1,221 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "SDG_Index_Score",
+  "features": "augmented",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions",
+    "Log_NSDP",
+    "Urban_Percent_2021",
+    "Log_Population"
+  ],
+  "model": "ElasticNet",
+  "fold": 13,
+  "test_index": 13,
+  "test_state": "Odisha",
+  "outer_train_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__alpha": 0.1,
+    "model__l1_ratio": 0.2
+  },
+  "best_inner_negative_mse": -11.352087805783409,
+  "inner_scores": [
+    {
+      "params": {
+        "model__alpha": 0.01,
+        "model__l1_ratio": 0.2
+      },
+      "mean_negative_mse": -11.939317841924446
+    },
+    {
+      "params": {
+        "model__alpha": 0.01,
+        "model__l1_ratio": 0.5
+      },
+      "mean_negative_mse": -12.061519516938377
+    },
+    {
+      "params": {
+        "model__alpha": 0.01,
+        "model__l1_ratio": 0.8
+      },
+      "mean_negative_mse": -12.195567791813676
+    },
+    {
+      "params": {
+        "model__alpha": 0.1,
+        "model__l1_ratio": 0.2
+      },
+      "mean_negative_mse": -11.352087805783409
+    },
+    {
+      "params": {
+        "model__alpha": 0.1,
+        "model__l1_ratio": 0.5
+      },
+      "mean_negative_mse": -11.795198435008727
+    },
+    {
+      "params": {
+        "model__alpha": 0.1,
+        "model__l1_ratio": 0.8
+      },
+      "mean_negative_mse": -12.632842747990738
+    },
+    {
+      "params": {
+        "model__alpha": 1.0,
+        "model__l1_ratio": 0.2
+      },
+      "mean_negative_mse": -13.134036601844802
+    },
+    {
+      "params": {
+        "model__alpha": 1.0,
+        "model__l1_ratio": 0.5
+      },
+      "mean_negative_mse": -12.707150620063913
+    },
+    {
+      "params": {
+        "model__alpha": 1.0,
+        "model__l1_ratio": 0.8
+      },
+      "mean_negative_mse": -12.709761469274836
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        2,
+        7,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        10,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        4,
+        9,
+        11,
+        12,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        1,
+        3,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        6,
+        8,
+        10,
+        19
+      ]
+    }
+  ],
+  "actual": 66.0,
+  "prediction": 67.25547512299022
+}

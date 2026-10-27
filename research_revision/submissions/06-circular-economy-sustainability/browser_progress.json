@@ -1,0 +1,45 @@
+{
+  "status": "PDF built; Needs Approval; final submission not complete",
+  "current_step": "Access journal-generated PDF for review",
+  "account_status": "Author Main Menu verified; signed into existing journal account",
+  "browser_tab_id": "13",
+  "browser_id": "2",
+  "article_type": "Original Paper",
+  "journal_specific_coauthor_approval": true,
+  "manuscript_uploaded": true,
+  "supplement_uploaded": "ESM_1.7z contains byte-identical approved ESM_1.zip; portal-downloaded transport hash verified",
+  "transport_manifest": "portal_upload/transport_manifest.json",
+  "editor_comments_file": "portal_upload/editor_comments.txt",
+  "editor_comments_sha256": "5b866b412874c417dff9e39ec02f81195a61048633d7e8b9323fc3717ae81944",
+  "author_order": [
+    "Yash Chauhan",
+    "Suresh Kumar Chelliah",
+    "Shreya Srivastava"
+  ],
+  "corresponding_author": "Yash Chauhan",
+  "author_fields_complete": true,
+  "funding": "No funding received",
+  "special_issue": false,
+  "opposed_reviewers": [],
+  "classifications_currently_selected": [
+    "10: Business Level",
+    "20: Businesses cooperation level",
+    "30: Overall market and society"
+  ],
+  "pending_consents": {},
+  "portal_pdf_built": true,
+  "observed_build_error": "You cannot complete your submission until ... Required information is missing from the Additional Information step.",
+  "final_submission_complete": false,
+  "next_step": "Obtain the actual portal-generated PDF, inspect pages and metadata, then Approve Submission within existing user authorization and verify receipt. Both portal consents already completed; do not ask again.",
+  "proof_screenshot": "../../qa/cies-pdf-review-handoff.jpg",
+  "consents": {
+    "Research Square": "Explicitly authorized in chat; selected radio verified",
+    "publishing terms": "User completed checkbox directly in portal after request; both Additional Information completed and checked publishing-terms checkbox verified on follow-up look at it now"
+  },
+  "portal_pdf_reviewed": false,
+  "portal_draft_reference": "CIES-S-26-01756",
+  "portal_document_id": 5556,
+  "manuscript_number": null,
+  "observed_message": "Submissions Waiting for Approval by Author: Needs Approval",
+  "pdf_access_issue": "View Submission did not open a connected browser tab after keyboard and mouse activation; direct download timed out. User reports PDF open and saved in Downloads, but fresh filesystem checks found no new PDF in Downloads or project. Need exact file path or attachment."
+}

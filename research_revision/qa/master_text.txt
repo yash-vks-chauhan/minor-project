@@ -1,0 +1,448 @@
+     Digital Access, Sustainability Indicators and Formal E-Waste
+                      Processing in Indian States
+
+                               Authors withheld in this review copy
+
+                                 Revised analysis: 26 October 2026
+
+
+                                                 Abstract
+         Digital inclusion and circular economy policies can share an interest in information access
+     and service coordination, but their association is sensitive to how development indicators are con-
+     structed. This study assembles seven traceable input tables for 22 Indian states, covering telecom-
+     munications, digital payments, income, sustainability, formal e-waste processing, and projected
+     population characteristics. Digital access and a circularity-related proxy are constructed without
+     a shared income component. We combine descriptive association, state resampling, income-
+     adjusted regression, and nested cross-validation of separate sustainability and e-waste outcomes.
+     The unadjusted index association is positive (Pearson r = 0.779, Spearman ρ = 0.810), but the
+     digital-access coeﬃcient is uncertain after adjustment for log per-capita income (HC3 p = 0.162).
+     Digital-only ElasticNet achieves outer leave-one-state-out R2 = 0.658 for the SDG composite,
+     compared with 0.292 for log e-waste processing intensity. XGBoost does not outperform the
+     regularized linear models. The pattern therefore supports a descriptive connection between dig-
+     ital access and broader development capacity, while providing more limited evidence for formal
+     circular material processing. Mixed reference years, ecological measurement, rounded secondary
+     UPI data, missing-state selection, and the small sample prevent causal or prospective forecast-
+     ing claims. Policy use should distinguish broad sustainability indicators from direct evidence of
+     circular activity.
+
+Keywords: digital inclusion; circular economy; sustainability indicators; e-waste; Indian states;
+nested cross-validation.
+
+
+1    Introduction
+Digital connectivity can support information exchange, digital payments, and coordination across
+public and private services. These functions are potentially useful for waste collection, repair, reuse,
+and material recovery. The circular economy, however, is not interchangeable with broad economic or
+sustainability performance. Its measurement requires attention to resource loops and the activities
+through which materials remain in use [1].
+This distinction matters in regional empirical research. A digitally connected state may also have
+higher income, a stronger administrative system, or more formal industrial activity. An associa-
+tion between a digital index and an environmental index can therefore reﬂect common development
+conditions. If income enters both indices directly, part of the relationship is built into their deﬁni-
+tions. A transparent analysis must distinguish an observed association from mathematical overlap,
+confounding, and predictive performance.
+This study examines that problem across Indian states. It uses tele-density and Uniﬁed Payments
+Interface (UPI) activity as broad indicators of digital access and use. Formal e-waste collected and
+processed provides a narrower administrative measure of material-processing activity, while the SDG
+India Index composite supplies a wider development benchmark. The study asks: (i) how strongly
+digital access is associated with an explicitly deﬁned circularity-related proxy; (ii) whether the
+
+
+                                                     1
+Digital access and circularity-related indicators                                      Author review draft
+
+
+association persists after income adjustment and changes of speciﬁcation; and (iii) whether digital
+indicators predict the two underlying outcomes equally well in held-out states.
+The contribution is a reproducible state comparison with separate outcome validation. It is not a
+claim to invent the Digital Circularity Index name or to identify a causal eﬀect of digital inclusion.
+Giraldi, Rossi, and Olivieri already develop a Digital Circularity Index for 14 Italian metropolitan
+cities using platform-adoption measures and partial least squares path modelling [2]. The present
+study instead examines broad access and payment indicators at Indian state scale and explicitly
+tests the gap between composite sustainability performance and formal e-waste activity.
+
+
+2     Conceptual framework
+Digital infrastructure may lower information and coordination costs, but general telephone subscrip-
+tions and payment transactions do not directly measure the use of repair or recycling platforms.
+Likewise, tonnes processed by registered facilities need not originate from the residents of the pro-
+cessing state. Material transfers, industrial concentration, and unrecorded informal processing can
+separate a state’s processing footprint from its citizens’ behavior.
+Composite indicators help summarize heterogeneous measures but require explicit choices about
+normalization, weights, and interpretation [3]. Here the combined proxy is a descriptive device.
+Its SDG component covers development beyond circularity, and its e-waste component covers one
+formal material stream. It should not be interpreted as an observed household behavior score or
+as a validated complete measure of a circular economy. Results for its components are therefore
+reported separately.
+
+
+3     Data and methods
+
+3.1     Sources and sample construction
+
+Table 1 summarizes the seven analytical inputs. Source documents, extraction locators, and ﬁle
+hashes are retained in the accompanying reproducibility package. UPI values are secondary estimates
+published by Dataful using NPCI transaction data; they are not described as a directly obtained
+primary NPCI per-capita series. The public map reports whole-number values, which are used
+without invented precision [4].
+
+                             Table 1: Analytical inputs and reference periods.
+    Input                         Source / locator                       Reference period
+    Tele-density (subscriptions   TRAI, parliamentary reply via PIB,     30 June 2024
+    per 100 people)               annexure [5]
+    UPI transactions per          Dataful article and state-map popups   FY2024–25
+    person                        [4]
+    Per-capita NSDP, current      Economic Survey, Table 1.11A [6]       FY2023–24; vintage 1 August
+    INR                                                                  2025
+    SDG composite (0–100)         NITI Aayog, state ranking [7]          2023–24 edition
+    Formal e-waste collected      MoEFCC/CPCB, PIB Annexure 1 [8]        FY2021–22
+    and processed, tonnes
+    Projected population          MoHFW Technical Group, Table 11 [9]    1 July 2021
+    Projected urban share         Same report, Table 13 [9]              1 July 2021
+
+All 28 states were considered; Union Territories were excluded for a consistent administrative com-
+parison. Complete cases were retained without imputation. Arunachal Pradesh, Goa, Manipur,
+Meghalaya, Nagaland, and Uttar Pradesh had absent or dashed FY2021–22 e-waste entries in the
+
+
+                                                      2
+Digital access and circularity-related indicators                                     Author review draft
+
+
+cited source and were excluded. Missing entries were not coded as zero processing. The resulting
+sample contains 22 states. Inclusion is driven by recorded coverage, not representativeness of all
+Indian states.
+The population denominator is a published projection, not a 2021 census enumeration. The min-
+istry’s 2020 population report was retrieved from a public mirror because the original URL was
+unavailable. PDF page and table references accompany the extracted values. Projected urban
+shares use the same date. Outdated literacy observations are not included in the revised models.
+E-waste intensity is deﬁned as tonnes collected and processed divided by projected population in
+millions, giving tonnes per million residents. The log outcome is Li = log(1 + Ei ), where Ei is this
+intensity. Income and population enter augmented models as natural logarithms. The sources span
+several years: the digital measures occur after the e-waste reference period. Prediction in this study
+is retrospective cross-state prediction, not a forecast or a test that later digital access caused earlier
+processing.
+
+3.2    Descriptive index construction
+
+For the observed cohort, each component is min–max normalized:
+                                                        xi − minj xj
+                                       zi (x) = 100                     .                              (1)
+                                                      maxj xj − minj xj
+The digital access score Di , circularity-related proxy Ci , and descriptive DCI are
+                                                 4zi (T ) + 3zi (U )
+                                            Di =                     ,                                 (2)
+                                                           7
+                                                 7zi (E) + 8zi (S)
+                                            Ci =                     ,                                 (3)
+                                                          15
+                                          DCIi = Di Ci /100,                                           (4)
+where T is tele-density, U is UPI transactions/person, E is e-waste intensity, and S is the SDG
+composite. These weights retain the relative non-income weights of the project’s earlier speciﬁcation
+after removing NSDP from both indices. They were documented before executing this revised
+analysis; they were not learned to maximize its correlations. The reanalysis is exploratory and was
+not preregistered.
+All components now use the displayed normalization formula. The DCI has a sample-relative 0–100
+scale. A zero indicates the cohort minimum under the chosen construction, not an absence of real
+digital access or environmental activity. DCI is used for descriptive comparison only. Predictive
+validation does not use a target constructed from full-sample extrema.
+
+3.3    Association, adjustment, and sensitivity
+
+We report Pearson and Spearman coeﬃcients, a two-sided 19,999-permutation test, and a 10,000-
+resample state bootstrap percentile interval for Pearson correlation. These procedures treat states
+as exchangeable and do not resolve spatial dependence or selection. OLS models estimate the change
+per ten DAS points, with and without log NSDP as a covariate. Inference uses HC3 standard errors
+with t-based intervals. Additional speciﬁcations change component weights, remove Haryana, delete
+each state in turn, and isolate e-waste and SDG outcomes. These analyses are sensitivity checks,
+not independent conﬁrmations. P-values are exploratory and not adjusted for a family of multiple
+comparisons.
+
+3.4    Nested predictive evaluation
+
+The predictive outcomes are Li and the original SDG composite, evaluated separately. The digital
+feature set has two variables: tele-density and UPI/person. The augmented set adds log NSDP, pro-
+
+                                                         3
+Digital access and circularity-related indicators                                Author review draft
+
+
+jected urban share, and log projected population. Ridge, ElasticNet, Random Forest, and XGBoost
+[10] are compared with small predeﬁned parameter grids.
+An outer leave-one-state-out loop produces one prediction for every state. Each outer training set
+uses shuﬄed four-fold inner cross-validation, seed 20261026, to select parameters by negative mean
+squared error. Scaling for the linear models is ﬁtted inside the pipeline at every inner and outer
+training stage. Inner validation folds contain multiple observations, and no held-out outer state
+enters tuning. This separation addresses tuning optimism [11]; it does not remove limitations of a
+small, correlated ecological sample.
+For observed outcomes yi and pooled outer predictions ŷ−i ,
+                                                     ∑
+                                                       (yi − ŷ−i )2
+                                         2
+                                        Router =1−   ∑i              .                           (5)
+                                                         i (yi − ȳ)
+                                                                 2
+
+RMSE and MAE are reported alongside an outer-training-mean baseline. R2 is computed after
+pooling held-out predictions; it is not computed separately for one-observation LOO test folds. All
+inner scores, selected parameters, indices, and outer predictions are recorded. SHAP values [12] for
+XGBoost are calculated only for each outer model’s held-out state; they explain the ﬁtted prediction
+and are not causal eﬀects.
+
+
+4     Results
+
+4.1    Association and income adjustment
+
+Digital access and the combined proxy are positively associated: Pearson r = 0.779 (p = 0.000020),
+Spearman ρ = 0.810, permutation p = 0.00005, with a state-bootstrap percentile interval of
+[0.617, 0.901]. The association is descriptive; the broad SDG component is part of its interpreta-
+tion. Figure 1 contrasts the proxy and the direct processing outcome.
+
+
+
+
+Figure 1: Digital access against the combined proxy (left) and log formal e-waste intensity (right).
+Colour denotes log per-capita NSDP. Each point is a state; selected labels show inﬂuential or sub-
+stantively relevant observations.
+
+Table 2 shows why the association should not be interpreted as an independent digital eﬀect. After
+log NSDP adjustment, the DAS coeﬃcient for the proxy is 3.961 per ten points (95% HC3 interval
+[−1.742, 9.665], p = 0.162). The estimate is imprecise and does not exclude zero. Income adjustment
+also leaves the digital coeﬃcient uncertain for the separately analyzed e-waste and SDG outcomes.
+This does not prove there is no relationship; it limits claims about an independent association in
+this sample.
+
+                                                     4
+Digital access and circularity-related indicators                                           Author review draft
+
+
+
+      Table 2: DAS association per ten points, with HC3 standard errors and t-based inference.
+             Outcome                  Log income control     Coeﬃcient     95% interval          p
+             Combined proxy           No                         6.068     [3.240, 8.896]   0.0002
+             Combined proxy           Yes                        3.961    [-1.742, 9.665]   0.1624
+             Log e-waste intensity    No                         0.636     [0.312, 0.960]   0.0006
+             Log e-waste intensity    Yes                        0.602    [-0.423, 1.627]   0.2341
+             SDG composite            No                         1.847     [0.950, 2.745]   0.0004
+             SDG composite            Yes                        0.686    [-0.882, 2.254]   0.3710
+
+
+4.2    Sensitivity and descriptive rankings
+
+Without Haryana, the Pearson association is 0.778. Across all one-state deletions it ranges from
+0.734 to 0.819. Equal component weights produce r = 0.741. The unlogged e-waste-only association
+is weaker (r = 0.365, p = 0.095); the rank association is 0.677. For log e-waste intensity, Pearson
+r = 0.642. The DAS/SDG correlation is 0.802. Thus the pattern depends on whether the outcome
+represents broad development, ranked processing activity, or its highly skewed magnitude.
+Under this descriptive DCI, Haryana ranks highest, followed by Uttarakhand and Telangana. The
+rankings are not performance targets, eﬃciency scores, or population behavior estimates. Their
+meaning depends on the selected measures and reference cohort. The state-level table in Appendix A
+provides the corresponding values.
+
+
+4.3    Held-out prediction
+
+Table 3 reports every model/feature combination. Digital-only ElasticNet yields R2 = 0.658 for
+SDG scores and R2 = 0.292 for log e-waste intensity. Their RMSE values are 3.290 SDG points and
+2.036 log units, respectively. The outer-training-mean baseline has R2 = −0.098 for either outcome.
+Its negative value is retained rather than replacing it with a full-sample-mean benchmark that would
+use held-out information.
+XGBoost’s digital-only scores are 0.555 and 0.078 for SDG and log e-waste, respectively. Its ad-
+ditional ﬂexibility does not improve the observed outer predictions over the regularized linear al-
+ternatives. Augmented features do not consistently improve performance. The distinction between
+outcomes is more consequential than the use of a particular nonlinear algorithm. Comparisons across
+algorithms share the same states and should not be interpreted as independent replications or formal
+evidence of superiority.
+
+   Table 3: Pooled outer leave-one-state-out prediction scores. Inner tuning uses negative MSE.
+                                                      Log e-waste        SDG composite
+                      Model             Features       R2 RMSE             R2 RMSE
+                      TrainingMean      none        -0.098      2.535    -0.098    5.890
+                      Ridge             digital      0.284      2.048     0.656    3.296
+                      ElasticNet        digital      0.292      2.036     0.658    3.290
+                      RandomForest      digital      0.105      2.289     0.606    3.527
+                      XGBoost           digital      0.078      2.324     0.555    3.751
+                      Ridge             augmented    0.269      2.069     0.605    3.534
+                      ElasticNet        augmented    0.142      2.241     0.576    3.659
+                      RandomForest      augmented    0.087      2.312     0.603    3.544
+                      XGBoost           augmented    0.083      2.317     0.560    3.731
+
+Held-out SHAP summaries for the augmented XGBoost models are included in the reproducibility
+package. They are conditional on a changing outer training model, a small correlated feature set,
+
+                                                     5
+Digital access and circularity-related indicators                                  Author review draft
+
+
+and the stated target. They are not used to establish that tele-density is a causal driver or that
+payments cannot be a mechanism.
+
+
+5    Discussion
+The strongest evidence is for co-occurrence of digital access and a broader sustainability/development
+benchmark. The formal processing result is less pronounced, sensitive to outcome scale, and uncer-
+tain once income is controlled. This suggests that a composite index can conceal important diﬀer-
+ences between development conditions and direct material-processing activity. A statistically strong
+descriptive index association is not suﬃcient evidence that digital infrastructure independently im-
+proves circular outcomes.
+For policy, digital inclusion and environmental administration can be considered together when
+planning information systems, reporting, and access to public services. The present estimates do
+not identify the return to connectivity investment, establish a telecom threshold, or justify state
+funding allocations. Evaluation should use direct measures of collection, reuse, repair, formal and
+informal recycling, and material ﬂows, with comparable periods and denominators.
+The Indian-state comparison complements the metropolitan platform-focused DCI of Giraldi et al.
+[2]; the measures are not interchangeable. Broad telephone and payment metrics cannot validate
+the eﬀects of particular circular platforms. The present work emphasizes transparent construction
+and outcome-speciﬁc checks rather than universal index novelty. This matters when transferring the
+idea to other regions: source compatibility and the meaning of the outcome should be reassessed
+before reusing weights or rankings.
+
+
+6    Limitations and future research
+First, only 22 states have complete reported inputs. Exclusion may depend on formal recycling
+activity and reporting capacity. Missing-state selection cannot be repaired by assuming zero values.
+Second, mixed reference periods and the timing of digital measures after e-waste activity prevent
+causal interpretation or prospective forecasting. Panel data aligned by year are needed.
+Third, formal processing can include imported material and omit informal activity. It is not a
+waste-generation-adjusted recycling rate. The overall SDG composite contains many non-circularity
+dimensions and may conceptually overlap with digital development. Fourth, UPI estimates are
+rounded secondary values and omit unclassiﬁed state transactions. Tourism and business ﬂows may
+aﬀect transactions per resident. Tele-density counts subscriptions, not unique people with eﬀective
+internet access.
+Fifth, population and urban shares are projections from a 2020 report. They are consistently dated
+but remain uncertain estimates. Sixth, the sample supports only limited multivariable modeling.
+The regressions, bootstrap, permutations, and CV splits assume more exchangeability than may
+hold between neighboring or economically connected states. Spatially structured evaluation, exter-
+nal validation, and comparison with later administrative outcomes remain necessary. Finally, the
+reported analysis is exploratory, with several speciﬁcations and no preregistered primary endpoint.
+Model ranking and p-values should be interpreted accordingly.
+
+
+7    Conclusion
+Across 22 Indian states, digital access is positively associated with a descriptive circularity-related
+proxy. Income-adjusted estimates are uncertain, and predictive performance is considerably stronger
+for the broad SDG composite than for formal e-waste intensity. The ﬁndings support careful joint
+description of digital and sustainability conditions, while limiting claims about circular behavior,
+
+
+                                                    6
+Digital access and circularity-related indicators                                 Author review draft
+
+
+causal infrastructure eﬀects, or AI-driven policy precision. The accompanying source records and
+nested evaluation provide a basis for subsequent analysis with richer, temporally aligned circularity
+data.
+
+
+Data, code, and research statements
+The accompanying local reproducibility package contains the raw transcriptions, source locators
+and hashes, analysis speciﬁcation, executable scripts, environment versions, state inclusion deci-
+sions, outer predictions, and tuning audits. Public deposition and any repository DOI remain pend-
+ing author approval; no public repository is claimed. This study uses public aggregate state-level
+data without recruitment or individual records. Funding and competing-interest statements require
+conﬁrmation by the authors before submission.
+OpenAI Codex assisted source checking, Python implementation, and manuscript preparation. Nu-
+merical statements are linked to executable outputs; source and validation records accompany the
+draft. Human authors remain responsible for verifying the analysis, sources, authorship, and ﬁnal
+submission text.
+
+
+References
+ [1] Geissdoerfer, M., Savaget, P., Bocken, N.M.P., and Hultink, E.J. (2017). The circular economy:
+     A new sustainability paradigm? Journal of Cleaner Production, 143, 757–768. https://doi.
+     org/10.1016/j.jclepro.2016.12.048.
+
+ [2] Giraldi, L., Rossi, L., and Olivieri, M. (2026). Digital platforms and composite measurement of
+     an urban circular economy: Developing the digital circularity index. Technology in Society, 86,
+     103322. https://doi.org/10.1016/j.techsoc.2026.103322.
+
+ [3] OECD/European Union/EC-JRC (2008). Handbook on Constructing Composite Indicators:
+     Methodology and User Guide. OECD Publishing. https://doi.org/10.1787/9789264043
+     466-en.
+
+ [4] Matta, A. (2026). Here is how UPI usage diﬀers across Indian states. Dataful Insights, 23
+     January. Article and state map, accessed 26 October 2026. https://insights.dataful.i
+     n/articles/here-is-how-upi-usage-differs-across-indian-states. Map: https:
+     //flo.uri.sh/visualisation/27311082/embed.
+
+ [5] Ministry of Communications (2024). Tele-density and Wi-Fi speed in the country. PIB, 19
+     December, PRID 2086009, Annexure; source TRAI Q2 2024 indicators. https://www.pib.go
+     v.in/Pressreleaseshare.aspx?PRID=2086009.
+
+ [6] Ministry of Finance (2026). Economic Survey 2025-26, Statistical Appendix, Table 1.11A, p. 32;
+     data as on 1 August 2025. https://indiabudget.gov.in/economicsurvey/doc/stat/tab1.
+     11a.pdf.
+
+ [7] NITI Aayog (2024). SDG India Index 2023-24. Overall state scores, reproduced in PIB release
+     PRID 2032857, 12 July. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2032857.
+
+ [8] Ministry of Environment, Forest and Climate Change (2024). Recycling of e-waste. PIB, 8
+     February, PRID 2004015, Annexure 1; CPCB data for FY2021-22. https://www.pib.gov.in
+     /Pressreleaseshare.aspx?PRID=2004015.
+
+ [9] National Commission on Population, Ministry of Health and Family Welfare (2020). Popula-
+     tion Projections for India and States 2011-2036: Report of the Technical Group on Population
+     Projections, July; Tables 11 and 13. Archived copy: https://educationforallinindia.com
+
+                                                    7
+Digital access and circularity-related indicators                               Author review draft
+
+
+     /wp-content/uploads/2023/04/Population-Projection-Report-2011-2036-upload_comp
+     ressed_0-4.pdf.
+
+[10] Chen, T. and Guestrin, C. (2016). XGBoost: A scalable tree boosting system. Proceedings of
+     ACM SIGKDD, 785–794. https://doi.org/10.1145/2939672.2939785.
+
+[11] Varma, S. and Simon, R. (2006). Bias in error estimation when using cross-validation for model
+     selection. BMC Bioinformatics, 7, 91. https://doi.org/10.1186/1471-2105-7-91.
+
+[12] Lundberg, S.M. and Lee, S.-I. (2017). A uniﬁed approach to interpreting model predictions.
+     Advances in Neural Information Processing Systems, 30. https://proceedings.neurips.cc
+     /paper/7062-a-unified-approach-tointerpreting-model-predictions.pdf.
+
+
+
+
+                                                    8
+Digital access and circularity-related indicators                                       Author review draft
+
+
+A     State-level descriptive results
+These scores use the revised 22-state reference cohort. They should not be compared numeri-
+cally with the old 16-state scores, which used diﬀerent inputs, deﬁnitions, and normalization. E-
+waste is collected/processed tonnes per million projected residents; UPI values are rounded transac-
+tions/person.
+
+                             Table 4: Revised cohort and descriptive indices.
+
+             State                   UPI/person     E-waste/million   DAS     Proxy      DCI
+             Andhra Pradesh                   122            38.24    41.44     41.43   17.17
+             Assam                             61             1.91    21.17     19.40    4.11
+             Bihar                             44             0.33     1.96      0.00    0.00
+             Chhattisgarh                      53           140.77    15.58     25.03    3.90
+             Gujarat                           76           436.24    38.88     43.67   16.98
+             Haryana                          136          8276.44    73.56     83.03   61.08
+             Himachal Pradesh                  86            50.39    65.59     48.77   31.98
+             Jharkhand                         50             9.49     9.01     12.17    1.10
+             Karnataka                        203           584.46    72.51     46.93   34.03
+             Kerala                           112            35.16    71.19     53.53   38.11
+             Madhya Pradesh                    72             6.52    18.84     24.28    4.57
+             Maharashtra                      185           148.76    67.69     39.62   26.82
+             Mizoram                           77            12.18    60.12     36.43   21.90
+             Odisha                            81            10.43    28.06     21.88    6.14
+             Punjab                            72           933.27    55.86     51.32   28.67
+             Rajasthan                         87           351.87    33.17     26.22    8.70
+             Sikkim                           110            12.49    66.05     46.13   30.47
+             Tamil Nadu                       107           407.21    55.70     53.20   29.64
+             Telangana                        274          1119.85    91.31     47.52   43.40
+             Tripura                           33             3.35    20.51     33.96    6.97
+             Uttarakhand                      106          4505.74    58.17     78.74   45.81
+             West Bengal                       51             3.26    26.05     31.53    8.21
+
+
+
+
+                                                     9
+

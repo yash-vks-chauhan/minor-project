@@ -1,0 +1,38 @@
+{
+  "0": [
+    "Digital Access and Circularity-Related Regional Indicators in Indian States"
+  ],
+  "1": [
+    "Digital tools can inform regional environmental planning, but broad sustainability benchmarks may conceal differences in direct material-processing activity. This exploratory study compares digital access, sustainability, and formal e-waste processing across 22 Indian states with complete public-data coverage. Seven input tables combine tele-density, secondary UPI transactions per person, income, SDG scores, formal e-waste collected and processed, and population projections. Reference periods span 2021-22 to 2024-25.",
+    "A digital access score and a circularity-related proxy exclude shared income components. State resampling, HC3 regressions, and nested predictive evaluation test sensitivity and outcome separability. Digital access and the combined proxy are positively associated (Pearson r=0.779; Spearman rho=0.810), but the digital coefficient is uncertain after income adjustment (HC3 p=0.162). Digital-only ElasticNet achieves pooled outer leave-one-state-out R-squared of 0.658 for SDG scores and 0.292 for log e-waste processing intensity. XGBoost does not improve this comparison.",
+    "For regional planning, the findings support distinguishing general development capacity from direct evidence of circular material flows. They do not validate a city planning system, identify a causal digital infrastructure effect, or justify allocating resources from composite rankings alone. Mixed reference years, secondary payment estimates, projected denominators, state-level aggregation, and incomplete reporting constrain interpretation. Future urban applications require city-specific collection, repair, reuse, and recovery data aligned by year."
+  ],
+  "2": [
+    "Digital access; regional planning; circular economy; sustainability indicators; e-waste"
+  ],
+  "4": [
+    "Yash Chauhan; Suresh Kumar Chelliah; Shreya Srivastava"
+  ],
+  "5": [
+    "Yash Chauhan — online presenter and corresponding author"
+  ],
+  "6": [
+    "Department of Computational Intelligence, SRM Institute of Science & Technology, Kattankulathur, Tamil Nadu, India"
+  ],
+  "7": [
+    "Yash Chauhan — Undergraduate student",
+    "Suresh Kumar Chelliah — Assistant professor",
+    "Shreya Srivastava — Undergraduate student"
+  ],
+  "8": [
+    "SRM Institute of Science & Technology, SRM Nagar, Kattankulathur 603203, Chengalpattu District, Tamil Nadu, India"
+  ],
+  "9": [
+    "Yash Chauhan: yc0810@srmist.edu.in",
+    "Suresh Kumar Chelliah: sureshkc@srmist.edu.in",
+    "Shreya Srivastava: ss1371@srmist.edu.in"
+  ],
+  "10": [
+    "Yash Chauhan and Shreya Srivastava are undergraduate students, and Suresh Kumar Chelliah is an assistant professor in the Department of Computational Intelligence at SRM Institute of Science & Technology, Kattankulathur, India. For this study, Yash led conceptualization, methodology, software, data curation, formal analysis, validation, visualization, and manuscript drafting and revision. Suresh provided supervision. Shreya contributed to investigation and manuscript review and editing. Yash is the corresponding author and proposed online presenter. Their collaborative work examines digital access, sustainability indicators, and formal e-waste processing across Indian states, with attention to public-data provenance, statistical uncertainty, and the limits of regional measurement."
+  ]
+}

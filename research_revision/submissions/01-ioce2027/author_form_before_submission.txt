@@ -1,0 +1,220 @@
+- banner:
+  - generic "Go to dashboard or home":
+    - img "Sciforum"
+  - button:
+  - button "avatar":
+    - img "avatar"
+  - button "Open navigation menu":
+    - generic: Open navigation menu
+  - navigation:
+    - list:
+      - link "Find Events":
+        - /url: /events
+      - button "Help":
+        - generic: Help
+  - button "Organize Event":
+    - generic: Organize Event
+  - button "Log out":
+    - generic: Log out
+- heading "New submission" [level=4]
+- generic: "Step 2/2:"
+- generic: Author information
+- text: "* * * * *"
+- generic: Please ensure that all co-authors information is provided correctly here.
+- generic: Author 1
+- button "Add me as an author":
+  - generic: Add me as an author
+- generic: Email*
+- textbox "Email*":
+  - /placeholder: ""
+  - text: yash.vks.chauhan@gmail.com
+- generic: First name*
+- textbox "First name*":
+  - /placeholder: ""
+  - text: Yash
+- generic: Middle name
+- textbox "Middle name":
+  - /placeholder: ""
+- generic: Last name*
+- textbox "Last name*":
+  - /placeholder: ""
+  - text: Chauhan
+- heading "Affiliation 1 *" [level=3]
+- generic: Department*
+- textbox "Department*":
+  - /placeholder: ""
+  - text: Department of Computational Intelligence
+- generic: University/Company*
+- textbox "University/Company*":
+  - /placeholder: ""
+  - text: SRM Institute of Science & Technology
+- generic: Country/ region*
+- generic "Country/ region* India":
+  - combobox "Country/ region*": India
+- generic: City
+- textbox "City":
+  - /placeholder: ""
+  - text: Kattankulathur
+- generic: Zip/Post Code
+- textbox "Zip/Post Code":
+  - /placeholder: ""
+- button "Add affiliation":
+  - generic: Add affiliation
+- generic: Author contribution
+- button "Author contribution 9 Selected":
+  - generic: 9 Selected
+- checkbox "Corresponding author" [checked]
+- generic: Corresponding author
+- checkbox "Presenter" [checked]
+- generic: Presenter
+- generic: Author 2
+- generic: Email*
+- textbox "Email*":
+  - /placeholder: ""
+  - text: sureshkc@srmist.edu.in
+- generic: First name*
+- textbox "First name*":
+  - /placeholder: ""
+  - text: Suresh Kumar
+- generic: Middle name
+- textbox "Middle name":
+  - /placeholder: ""
+- generic: Last name*
+- textbox "Last name*":
+  - /placeholder: ""
+  - text: Chelliah
+- heading "Affiliation 1 *" [level=3]
+- generic: Department*
+- textbox "Department*":
+  - /placeholder: ""
+  - text: Department of Computational Intelligence
+- generic: University/Company*
+- textbox "University/Company*":
+  - /placeholder: ""
+  - text: SRM Institute of Science & Technology
+- generic: Country/ region*
+- generic "Country/ region* India":
+  - combobox "Country/ region*": India
+- generic: City
+- textbox "City":
+  - /placeholder: ""
+  - text: Kattankulathur
+- generic: Zip/Post Code
+- textbox "Zip/Post Code":
+  - /placeholder: ""
+- button "Add affiliation":
+  - generic: Add affiliation
+- generic: Author contribution
+- button "Author contribution 1 Selected":
+  - generic: 1 Selected
+- checkbox "Corresponding author"
+- generic: Corresponding author
+- checkbox "Presenter"
+- generic: Presenter
+- generic: Author 3
+- generic: Email*
+- textbox "Email*":
+  - /placeholder: ""
+  - text: ss1371@srmist.edu.in
+- generic: First name*
+- textbox "First name*":
+  - /placeholder: ""
+  - text: Shreya
+- generic: Middle name
+- textbox "Middle name":
+  - /placeholder: ""
+- generic: Last name*
+- textbox "Last name*":
+  - /placeholder: ""
+  - text: Srivastava
+- heading "Affiliation 1 *" [level=3]
+- generic: Department*
+- textbox "Department*":
+  - /placeholder: ""
+  - text: Department of Computational Intelligence
+- generic: University/Company*
+- textbox "University/Company*":
+  - /placeholder: ""
+  - text: SRM Institute of Science & Technology
+- generic: Country/ region*
+- generic "Country/ region* India":
+  - combobox "Country/ region*": India
+- generic: City
+- textbox "City":
+  - /placeholder: ""
+  - text: Kattankulathur
+- generic: Zip/Post Code
+- textbox "Zip/Post Code":
+  - /placeholder: ""
+- button "Add affiliation":
+  - generic: Add affiliation
+- generic: Author contribution
+- button "Author contribution 2 Selected" [active]:
+  - generic: 2 Selected
+- checkbox "Corresponding author"
+- generic: Corresponding author
+- checkbox "Presenter"
+- generic: Presenter
+- button "Add new author":
+  - text: Add new author
+- button "Back":
+  - generic: Back
+- button "Save draft":
+  - generic: Save draft
+- button "Submit":
+  - generic: Submit
+- contentinfo:
+  - generic "Go to dashboard or home":
+    - img "Sciforum"
+  - heading "Further Information" [level=3]
+  - list:
+    - link "Find events":
+      - /url: /events
+    - link "Pricing":
+      - /url: /pricing
+  - heading "Resources" [level=3]
+  - list:
+    - link "Contact":
+      - /url: /contact?topic=technical_and_product_support
+    - link "FAQs":
+      - /url: /help
+  - heading "Follow Sciforum" [level=3]
+  - list:
+    - link "Twitter":
+      - /url: https://twitter.com/sciforum
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/showcase/mdpisciforum/
+    - link "Facebook":
+      - /url: https://www.facebook.com/mdpisciforum/info?tab=overview
+  - heading "MDPI Initiatives" [level=3]
+  - list:
+    - link "MDPI Books":
+      - /url: https://www.mdpi.com/books/
+    - link "Preprints":
+      - /url: https://www.preprints.org/
+    - link "Scilit":
+      - /url: https://www.scilit.com/
+    - link "SciProfiles":
+      - /url: https://sciprofiles.com/
+  - list:
+    - link "Encyclopedia":
+      - /url: https://encyclopedia.pub/
+    - link "JAMS":
+      - /url: https://jams.pub/
+    - link "Proceedings Series":
+      - /url: https://www.mdpi.com/about/proceedings
+    - link "Author Services":
+      - /url: https://www.mdpi.com/authors/english
+  - separator
+  - text: © 2026
+  - link "MDPI":
+    - /url: https://www.mdpi.com/
+  - text: (Basel, Switzerland) unless otherwise stated
+  - generic: Disclaimer
+  - link "Terms and Conditions":
+    - /url: /terms-of-use
+  - link "Privacy Policy":
+    - /url: /privacy
+  - button "Privacy Settings"
+  - link "Accessibility":
+    - /url: https://www.mdpi.com/accessibility

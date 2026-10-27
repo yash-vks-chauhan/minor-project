@@ -1,0 +1,178 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "Log_EWaste_Per_Million",
+  "features": "digital",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions"
+  ],
+  "model": "Ridge",
+  "fold": 4,
+  "test_index": 4,
+  "test_state": "Gujarat",
+  "outer_train_indices": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__alpha": 1.0
+  },
+  "best_inner_negative_mse": -3.980638955763698,
+  "inner_scores": [
+    {
+      "params": {
+        "model__alpha": 0.1
+      },
+      "mean_negative_mse": -4.01592805819342
+    },
+    {
+      "params": {
+        "model__alpha": 1.0
+      },
+      "mean_negative_mse": -3.980638955763698
+    },
+    {
+      "params": {
+        "model__alpha": 10.0
+      },
+      "mean_negative_mse": -4.000825990619457
+    },
+    {
+      "params": {
+        "model__alpha": 100.0
+      },
+      "mean_negative_mse": -5.240627028791512
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        2,
+        8,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        1,
+        3,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        6,
+        7,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 6.08047578118,
+  "prediction": 3.644438311118346
+}

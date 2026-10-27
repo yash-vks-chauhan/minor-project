@@ -1,0 +1,31 @@
+ANALYSIS 4: Threshold/Piecewise Regression
+============================================================
+100% VERIFIED REAL DATA | 16 states
+
+Best threshold: 118.77% tele-density
+R² at threshold: 0.7225
+
+                 Results: Ordinary least squares
+==================================================================
+Model:              OLS               Adj. R-squared:     0.680   
+Dependent Variable: CE_Behavior_Score AIC:                114.0827
+Date:               2026-03-11 20:08  BIC:                116.4004
+No. Observations:   16                Log-Likelihood:     -54.041 
+Df Model:           2                 F-statistic:        16.92   
+Df Residuals:       13                Prob (F-statistic): 0.000241
+R-squared:          0.723             Scale:              61.863  
+-------------------------------------------------------------------
+               Coef.   Std.Err.     t     P>|t|    [0.025    0.975]
+-------------------------------------------------------------------
+const         -8.6583    9.7760  -0.8857  0.3919  -29.7782  12.4615
+TD_Below       0.6345    0.1099   5.7723  0.0001    0.3971   0.8720
+TD_Above      -8.7377    3.9903  -2.1897  0.0474  -17.3583  -0.1172
+------------------------------------------------------------------
+Omnibus:               9.311        Durbin-Watson:           2.056
+Prob(Omnibus):         0.010        Jarque-Bera (JB):        6.591
+Skew:                  0.946        Prob(JB):                0.037
+Kurtosis:              5.511        Condition No.:           469  
+==================================================================
+Notes:
+[1] Standard Errors assume that the covariance matrix of the
+errors is correctly specified.

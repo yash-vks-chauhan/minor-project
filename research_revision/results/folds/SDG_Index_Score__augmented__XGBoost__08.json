@@ -1,0 +1,233 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "SDG_Index_Score",
+  "features": "augmented",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions",
+    "Log_NSDP",
+    "Urban_Percent_2021",
+    "Log_Population"
+  ],
+  "model": "XGBoost",
+  "fold": 8,
+  "test_index": 8,
+  "test_state": "Karnataka",
+  "outer_train_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__learning_rate": 0.05,
+    "model__max_depth": 2,
+    "model__n_estimators": 100
+  },
+  "best_inner_negative_mse": -12.864765465259552,
+  "inner_scores": [
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 1,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -13.84397006034851
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 1,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -14.757040023803711
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 2,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -12.864765465259552
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 2,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -13.807129263877869
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 1,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -14.955403685569763
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 1,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -16.37221932411194
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 2,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -14.079052448272705
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 2,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -14.344661951065063
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        2,
+        7,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        4,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        1,
+        3,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        6,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 75.0,
+  "prediction": 73.2112045288086,
+  "shap": {
+    "base": 71.29662322998047,
+    "values": {
+      "Tele_Density_Percent": 0.6663205623626709,
+      "UPI_PerCapita_Transactions": -0.6499351263046265,
+      "Log_NSDP": 1.0542017221450806,
+      "Urban_Percent_2021": 0.6832528710365295,
+      "Log_Population": 0.16074103116989136
+    }
+  }
+}

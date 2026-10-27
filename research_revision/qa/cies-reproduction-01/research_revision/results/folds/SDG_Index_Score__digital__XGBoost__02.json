@@ -1,0 +1,227 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "SDG_Index_Score",
+  "features": "digital",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions"
+  ],
+  "model": "XGBoost",
+  "fold": 2,
+  "test_index": 2,
+  "test_state": "Bihar",
+  "outer_train_indices": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__learning_rate": 0.1,
+    "model__max_depth": 1,
+    "model__n_estimators": 100
+  },
+  "best_inner_negative_mse": -10.83766770362854,
+  "inner_scores": [
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 1,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -11.176597356796265
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 1,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -11.44527518749237
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 2,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -11.74334168434143
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 2,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -12.038121223449707
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 1,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -10.83766770362854
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 1,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -11.301730513572693
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 2,
+        "model__n_estimators": 100
+      },
+      "mean_negative_mse": -11.422277569770813
+    },
+    {
+      "params": {
+        "model__learning_rate": 0.1,
+        "model__max_depth": 2,
+        "model__n_estimators": 200
+      },
+      "mean_negative_mse": -11.616310119628906
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        3,
+        8,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        1,
+        4,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        6,
+        7,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 57.0,
+  "prediction": 65.50025177001953,
+  "shap": {
+    "base": 71.78528594970703,
+    "values": {
+      "Tele_Density_Percent": -5.471651554107666,
+      "UPI_PerCapita_Transactions": -0.8133860230445862
+    }
+  }
+}

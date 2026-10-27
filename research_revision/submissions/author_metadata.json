@@ -1,0 +1,229 @@
+{
+  "status": "Confirmed and submitted to IOCE 2027 on 26 October 2026",
+  "authors_in_existing_order": [
+    {
+      "name": "Suresh Kumar Chelliah",
+      "email": "sureshkc@srmist.edu.in"
+    },
+    {
+      "name": "Shreya Srivastava",
+      "email": "ss1371@srmist.edu.in"
+    },
+    {
+      "name": "Yash Chauhan",
+      "email": "yash.vks.chauhan@gmail.com",
+      "orcid": "0009-0005-4077-5446"
+    }
+  ],
+  "affiliation": "Department of Computational Intelligence, SRM Institute of Science & Technology, Kattankulathur, Tamil Nadu, India",
+  "proposed_presenter": "Yash Chauhan",
+  "participation_mode": "Online",
+  "prior_submission_status": "IOCE 2027 Sciforum-217212 is pending MDPI check; WEAVE 2027 and Urban e-Planning 2027 submission emails were sent on 26 October 2026 and await organizer confirmation. No acceptance or publication has been verified.",
+  "all_coauthors_approved_revised_analysis_and_text": true,
+  "approval_evidence": "On 26 October 2026 the user replied yes they do to the question asking whether all three authors approved the revised analysis, abstract and existing author order.",
+  "funding_statement": "This research received no external funding.",
+  "competing_interests_statement": "The authors declare no conflicts of interest.",
+  "orcid": null,
+  "ai_assistance_for_author_review": "OpenAI Codex assisted with source checking, Python analysis implementation, manuscript revision, and submission text preparation. The authors remain responsible for verifying and approving the sources, analysis, and final text.",
+  "orcid_evidence": "Signed-in ORCID authorization screen displayed Yash Chauhan and this ORCID iD on 26 October 2026.",
+  "presenter_contact_confirmed": true,
+  "declarations_evidence": "On 26 October 2026 the user replied yes to the explicitly quoted facts: Never submitted; no funding; no conflicts; Yash will present using that email.",
+  "orcid_access_authorization": "The user explicitly approved the listed MDPI access on 26 October 2026. Subsequent browser state showed a signed-in Sciforum session with yash.vks.chauhan@gmail.com.",
+  "author_list_clarification": "The user clarified that the two coauthors to include are Suresh and Shreya already in the paper. Their full names, order, emails and common affiliation were rechecked against the existing LaTeX sources. No fourth author was requested.",
+  "authors_in_submission_order": [
+    {
+      "name": "Yash Chauhan",
+      "email": "yash.vks.chauhan@gmail.com",
+      "orcid": "0009-0005-4077-5446"
+    },
+    {
+      "name": "Suresh Kumar Chelliah",
+      "email": "sureshkc@srmist.edu.in"
+    },
+    {
+      "name": "Shreya Srivastava",
+      "email": "ss1371@srmist.edu.in"
+    }
+  ],
+  "corresponding_author": "Yash Chauhan",
+  "confirmed_presenter": "Yash Chauhan",
+  "author_order_confirmation": "User selected Yash Chauhan, Suresh Kumar Chelliah, Shreya Srivastava when asked which order all authors had agreed to use.",
+  "contribution_roles": [
+    {
+      "author": "Yash Chauhan",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Software",
+        "Validation",
+        "Formal analysis",
+        "Data curation",
+        "Writing - original draft",
+        "Writing - review and editing",
+        "Visualization"
+      ]
+    },
+    {
+      "author": "Suresh Kumar Chelliah",
+      "roles": [
+        "Supervision"
+      ]
+    },
+    {
+      "author": "Shreya Srivastava",
+      "roles": [
+        "Investigation",
+        "Writing - review and editing"
+      ]
+    }
+  ],
+  "contributions_confirmation": "User answered Yes, this accurately describes our work to the full role allocation for all three authors.",
+  "public_display_consent": "After the explicit request to accept the IOCE open-access/public-display agreement, user instructed now submit it. The checkbox was then accepted and submission completed.",
+  "pre_ioce_prior_submission_declaration": "Never submitted, accepted or published elsewhere",
+  "active_submissions": [
+    {
+      "venue": "IOCE 2027",
+      "id": "Sciforum-217212",
+      "status": "Pending MDPI check",
+      "submitted_on": "2026-10-26"
+    },
+    {
+      "venue": "WEAVE 2027",
+      "status": "submission email sent; organizer receipt confirmation pending",
+      "sent_at": "2026-10-26T17:12:23.000Z",
+      "message_id": "1a17932f192eff47",
+      "thread_id": "1a17932f192eff47",
+      "gmail_labels": [
+        "SENT"
+      ],
+      "to": "weave@hs-bremen.de",
+      "from": "yash.vks.chauhan@gmail.com",
+      "subject": "WEAVE 2027 extended abstract - Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States",
+      "attachment": {
+        "filename": "extended_abstract_blind.pdf",
+        "bytes": 88878,
+        "sha256": "68fd42b9672208610bac453562e51b9a734c89303ce3dc148807848623dea6cf"
+      },
+      "requested_mode": "fully online session",
+      "presenter": "Yash Chauhan",
+      "author_order": [
+        "Yash Chauhan",
+        "Suresh Kumar Chelliah",
+        "Shreya Srivastava"
+      ],
+      "related_submission_disclosed": "IOCE 2027 Sciforum-217212, pending MDPI check",
+      "verification": "Read back from Gmail with SENT label, correct recipient/body and PDF attachment. No acceptance or organizer receipt has been verified."
+    },
+    {
+      "venue": "Urban e-Planning 2027",
+      "status": "submission email sent; organizer receipt confirmation pending",
+      "sent_at": "2026-10-26T17:17:27.000Z",
+      "message_id": "1a1793793543aa3b",
+      "thread_id": "1a1793793543aa3b",
+      "gmail_labels": [
+        "SENT"
+      ],
+      "to": "ijepr.conference@gmail.com",
+      "from": "yash.vks.chauhan@gmail.com",
+      "reply_to": "yc0810@srmist.edu.in",
+      "subject": "Urban e-Planning 2027 abstract submission - Digital Access and Circularity-Related Regional Indicators in Indian States",
+      "attachment": {
+        "filename": "Urban_ePlanning_2027_Yash_Chauhan.docx",
+        "bytes": 23430,
+        "sha256": "98e2db621f3818d5e480f3173f9ab6e16c41f20d3c6ac11ce44fc2bb5822a2fe"
+      },
+      "requested_track": "Track 1. Smart Urban Governance and e-Planning",
+      "requested_mode": "online",
+      "presenter": "Yash Chauhan",
+      "corresponding_author": "Yash Chauhan",
+      "author_order": [
+        "Yash Chauhan",
+        "Suresh Kumar Chelliah",
+        "Shreya Srivastava"
+      ],
+      "abstract_words": 206,
+      "bio_words": 99,
+      "related_submissions_disclosed": [
+        "IOCE 2027 Sciforum-217212, pending MDPI check",
+        "WEAVE 2027 submission email sent; organizer confirmation pending"
+      ],
+      "verification": "Read back from Gmail with SENT label, correct recipient, institutional Reply-To, matching email body and official DOCX attachment. Organizer receipt and acceptance have not been verified.",
+      "attendance_condition": "Full attendance is required 5-9 April 2027; confirm availability before registration."
+    }
+  ],
+  "urban_eplanning_institutional_email": {
+    "email": "yc0810@srmist.edu.in",
+    "active_confirmed_by_user": true,
+    "confirmed_on": "2026-10-26",
+    "academic_positions": "confirmed by user"
+  },
+  "academic_positions": {
+    "Yash Chauhan": "Undergraduate student",
+    "Suresh Kumar Chelliah": "Assistant professor",
+    "Shreya Srivastava": "Undergraduate student"
+  },
+  "academic_positions_confirmation": "User: i and shreya are undergraduate student and is asistant professor; interpreted Suresh as the remaining named author, 26 October 2026.",
+  "organizer_inquiries": [
+    {
+      "venue": "CIC / CORE 2027",
+      "record_type": "eligibility and submission-link inquiry; not a paper submission",
+      "status": "inquiry sent; organizer response pending",
+      "sent_at": "2026-10-26T17:24:04.000Z",
+      "message_id": "1a1793da3e7d6a7d",
+      "thread_id": "1a1793da3e7d6a7d",
+      "to": "info@coreindonesia.org",
+      "subject": "CIC 2027 submission links and eligibility of a full paper with related conference abstracts",
+      "gmail_labels": [
+        "SENT"
+      ],
+      "attachments": [],
+      "requested_clarifications": [
+        "Official Word template and working submission link",
+        "Whether pending abstracts at IOCE, WEAVE and Urban e-Planning permit full-paper consideration"
+      ],
+      "source_url": "https://core-indonesia.com/cic-2027/call-for-papers/",
+      "browser_observation": {
+        "template": {
+          "tag": "SPAN",
+          "aria_disabled": "true",
+          "href": null
+        },
+        "submission": {
+          "tag": "SPAN",
+          "aria_disabled": "true",
+          "href": null
+        }
+      },
+      "application_submitted": false
+    }
+  ],
+  "planned_journal_submission": {
+    "journal": "Circular Economy and Sustainability",
+    "publication_route": "subscription; no APC",
+    "status": "PDF built; Needs Approval; final submission not complete",
+    "selected_by_user": true,
+    "prepared_manuscript_sha256": "6c063bf6e21c95aa29ed2552826e0a69536170011232aa952103fd39763b871e",
+    "journal_specific_coauthor_approval": true,
+    "account_access": "Signed in; existing Author Main Menu verified",
+    "portal_draft_created": true,
+    "final_submission_complete": false,
+    "pending_action_time_consents": [],
+    "research_square_sharing_authorization": "User replied I authorize this Research Square sharing; portal selection verified.",
+    "publishing_terms": "User completed portal consent directly; checked checkbox verified after look at it now.",
+    "portal_draft_reference": "CIES-S-26-01756",
+    "portal_pdf_reviewed": false
+  },
+  "journal_version_approval": {
+    "confirmed_on": "2026-10-26",
+    "user_confirmation": "All three authors approve",
+    "scope": "journal-specific manuscript, supplementary resource and submission to Circular Economy and Sustainability",
+    "author_order": [
+      "Yash Chauhan",
+      "Suresh Kumar Chelliah",
+      "Shreya Srivastava"
+    ],
+    "corresponding_author": "Yash Chauhan",
+    "manuscript_sha256": "6c063bf6e21c95aa29ed2552826e0a69536170011232aa952103fd39763b871e",
+    "supplement_sha256": "ae35a3948b5f4a8e52fbec6f8f9babf276416507b73ecda8901e5a199a20aab7"
+  }
+}

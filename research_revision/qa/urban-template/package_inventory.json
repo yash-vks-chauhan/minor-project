@@ -1,0 +1,116 @@
+[
+  {
+    "path": "[Content_Types].xml",
+    "bytes": 2344,
+    "sha256": "2ee7d6083c1ffea78bc0e4cead1c54a702a23be991b4e61f8ddd37abe14f4c2f",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "_rels/.rels",
+    "bytes": 590,
+    "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/document.xml",
+    "bytes": 36078,
+    "sha256": "d1b2536f0b61d68d58e611355b3e6e78436cd3042abb7080b3e06fe2afc0b2e8",
+    "scope": "editable right table cells only"
+  },
+  {
+    "path": "word/_rels/document.xml.rels",
+    "bytes": 1853,
+    "sha256": "f8501ab92431b085c50fdbc80a961922ce16f9e3c40c66b67bc086924983f452",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/footnotes.xml",
+    "bytes": 3056,
+    "sha256": "00fca256d27e175b2bafd87c0bf498ae422d087dd2038a8b9797f593dc18cb9c",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/endnotes.xml",
+    "bytes": 3050,
+    "sha256": "2317c5d9623563043e8d62ba1cdf4cbf039097ab18f841dbd80f82e29565f103",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/header1.xml",
+    "bytes": 4428,
+    "sha256": "640510efd9cf610e12c1beb4191a12914ec86369f29a56f445716b5c481ee325",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/header2.xml",
+    "bytes": 4428,
+    "sha256": "1f3ac7e987873003f45ca3e1a4b4a518ad2e03f60c8f31421b4a992d1e9ab57e",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/footer1.xml",
+    "bytes": 2995,
+    "sha256": "b4e8864544c9cb190f35f771d4a96b9e6c51528d8b8c265484928a03bc5e69e6",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/footer2.xml",
+    "bytes": 2995,
+    "sha256": "d24014dffb9952dab3e86d4b981c9394a16eb645be61c6de55ffaef33efc9c15",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/header3.xml",
+    "bytes": 4428,
+    "sha256": "634ac7804585cc45852d0892cfb5e2910b5950e577c8b865f1265299948ece40",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/footer3.xml",
+    "bytes": 2995,
+    "sha256": "b03c7c2f2f6483583368745381d91bd281918a012eedc2208014a7854f73b5b8",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/theme/theme1.xml",
+    "bytes": 6994,
+    "sha256": "c788a01b0b0a4745b7eb8dd6e76c6dfb58bf61bd5d9961a276e20fa69ab339c1",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/settings.xml",
+    "bytes": 3633,
+    "sha256": "fa0d8aba07e7f1e8c89873c7b8504b833e4962673d0876807376b9ed43512d72",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/styles.xml",
+    "bytes": 36074,
+    "sha256": "611d935c885c1f1f68b81281f641f37b96192368dcaf66acab475010edf7d6d4",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/webSettings.xml",
+    "bytes": 1018,
+    "sha256": "3346314c93078070b454a95d0485bf9721dade13d89cfaa579cc32645fa7edef",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "word/fontTable.xml",
+    "bytes": 2624,
+    "sha256": "e714a1d9a2ec86373ebdb52f4efead2f3582cffce5c53daaf472c71b83151a4b",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "docProps/core.xml",
+    "bytes": 596,
+    "sha256": "e4ec469bcfbdcee4d102454d9f766692108c284fcd10fcae90e19d9477c35d20",
+    "scope": "preserve-only"
+  },
+  {
+    "path": "docProps/app.xml",
+    "bytes": 983,
+    "sha256": "79f5597c9799df1f261548f152e546f0abaaa1cca37a2f48b4e9e410c7ca3c47",
+    "scope": "preserve-only"
+  }
+]

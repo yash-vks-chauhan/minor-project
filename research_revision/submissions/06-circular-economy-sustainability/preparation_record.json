@@ -1,0 +1,51 @@
+{
+  "status": "PDF built; Needs Approval; final submission not complete",
+  "journal": "Circular Economy and Sustainability",
+  "publication_route": "subscription; no APC",
+  "abstract_words": 192,
+  "keywords": 6,
+  "jel_codes": [
+    "Q53",
+    "O33",
+    "C52"
+  ],
+  "master_and_science_hashes_unchanged": {
+    "manuscript/main.tex": "795d581dbf98e28c3971314ab4e5f6dfeba035e0fc82ef9020253823ca98c635",
+    "manuscript/main.pdf": "474b18298a10b795033ec26765374040f8d5bcf2babe1536a2d536f82041ac66",
+    "data/revised_state_dataset.csv": "c88029332e6d8ab5e372f365098ceb6288d4da45086b11f7784a06f09c23a945",
+    "src/analyze.py": "95405c995b78f4cb65aa4e212999b56e193175f922377b20d90a1ff37baec80a",
+    "ANALYSIS_PROTOCOL.md": "74a3cf32f21f8da41f5a01219fe2920ae344c6914344b0d9c351c26d3235a0b2"
+  },
+  "supplement_files": 395,
+  "supplement_bytes": 840116,
+  "final_journal_version_coauthor_approval": {
+    "confirmed_on": "2026-10-26",
+    "user_confirmation": "All three authors approve",
+    "scope": "journal-specific manuscript, supplementary resource and submission to Circular Economy and Sustainability",
+    "author_order": [
+      "Yash Chauhan",
+      "Suresh Kumar Chelliah",
+      "Shreya Srivastava"
+    ],
+    "corresponding_author": "Yash Chauhan",
+    "manuscript_sha256": "6c063bf6e21c95aa29ed2552826e0a69536170011232aa952103fd39763b871e",
+    "supplement_sha256": "ae35a3948b5f4a8e52fbec6f8f9babf276416507b73ecda8901e5a199a20aab7"
+  },
+  "sources": {
+    "guidelines": "https://link.springer.com/journal/43615/submission-guidelines",
+    "fees": "https://link.springer.com/journal/43615/how-to-publish-with-us"
+  },
+  "browser_portal": "https://www.editorialmanager.com/cies/default.aspx",
+  "manuscript_pages": 9,
+  "word_count_pdf_including_tables_references": 3677,
+  "automatic_checks": "PASS",
+  "supplement_manifest_verified": true,
+  "reproduction_check": "qa/cies-reproduction-02/reproduction_check.json",
+  "visual_review": "PASS: all nine final manuscript pages, vector figure, one cover-letter page and four related-abstract pages inspected; no clipping, overlap, missing glyphs or blank pages.",
+  "journal_account_status": "Signed in to existing journal account; all author records verified complete",
+  "portal_notice": "The journal portal warns publication may be delayed during technical transitions; peer-review decisions continue within normal timeframes.",
+  "portal_progress_record": "browser_progress.json",
+  "approved_supplement_packaging": "Original ESM_1.zip retained byte-identically inside 7z transport to prevent portal recursive unpacking",
+  "portal_draft_reference": "CIES-S-26-01756",
+  "portal_pdf_reviewed": false
+}

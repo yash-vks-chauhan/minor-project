@@ -1,0 +1,21 @@
+26 October 2026
+Editors-in-Chief
+Circular Economy and Sustainability
+
+Dear Editors,
+Please consider "Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States" as an original research article. All three authors have approved this manuscript, its supplementary resource and submission to this journal.
+
+The study examines a measurement problem relevant to circular-economy assessment: broad sustainability scores and formal material-processing activity can produce different associations with digital access. Using seven source-reconciled public input tables for 22 Indian states, the paper separates descriptive index association, income adjustment, and outcome-specific nested predictive evaluation. It connects digital infrastructure and regional development with environmental measurement without claiming causal infrastructure effects or novelty for the Digital Circularity Index name.
+
+The descriptive association is positive (Pearson r=0.779), but the digital coefficient is uncertain after income adjustment (robust p=0.162). Digital-only ElasticNet predicts the broad sustainability composite more strongly than log e-waste processing intensity. Mixed years, projected denominators, incomplete reporting and the small ecological sample constrain interpretation. A self-contained data/code supplement and editable LaTeX source accompany the manuscript.
+
+Related conference abstracts have been submitted to IOCE 2027 (Sciforum-217212, pending MDPI check), WEAVE 2027 and Urban e-Planning 2027 (submission emails sent; organizer confirmations pending). No acceptance or publication has been verified. No full manuscript has been submitted to another venue. Copies of the related abstracts are supplied separately for editorial assessment; they are not part of the proposed journal article or its public supplement. A procedural inquiry to CORE 2027 did not include a manuscript.
+
+The research received no external funding; the authors declare no conflicts of interest. OpenAI Codex assisted source checking, Python analysis implementation, manuscript revision and submission text preparation, as disclosed in Methods. Yash Chauhan is first and corresponding author, followed by Suresh Kumar Chelliah and Shreya Srivastava. We seek the subscription publication route with no APC.
+
+Kind regards,
+Yash Chauhan
+Department of Computational Intelligence
+SRM Institute of Science & Technology, Kattankulathur, India
+yash.vks.chauhan@gmail.com
+ORCID: 0009-0005-4077-5446

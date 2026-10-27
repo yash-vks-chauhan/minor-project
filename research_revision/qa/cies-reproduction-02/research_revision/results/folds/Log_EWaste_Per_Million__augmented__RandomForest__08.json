@@ -1,0 +1,186 @@
+{
+  "run_hash": "5b42caf2c54e878e5ab03bb856d369b5af8d1b9ce350224f6087dacd6f867935",
+  "target": "Log_EWaste_Per_Million",
+  "features": "augmented",
+  "feature_columns": [
+    "Tele_Density_Percent",
+    "UPI_PerCapita_Transactions",
+    "Log_NSDP",
+    "Urban_Percent_2021",
+    "Log_Population"
+  ],
+  "model": "RandomForest",
+  "fold": 8,
+  "test_index": 8,
+  "test_state": "Karnataka",
+  "outer_train_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "best_params": {
+    "model__max_depth": 2,
+    "model__min_samples_leaf": 4
+  },
+  "best_inner_negative_mse": -5.030255408968513,
+  "inner_scores": [
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__min_samples_leaf": 2
+      },
+      "mean_negative_mse": -5.282345906691548
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__min_samples_leaf": 4
+      },
+      "mean_negative_mse": -5.030255408968513
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 2
+      },
+      "mean_negative_mse": -5.215282681390136
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 4
+      },
+      "mean_negative_mse": -5.030255408968513
+    }
+  ],
+  "inner_splits": [
+    {
+      "train_indices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19
+      ],
+      "validation_indices": [
+        2,
+        7,
+        15,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        4,
+        10,
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "train_indices": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "validation_indices": [
+        0,
+        1,
+        3,
+        14,
+        16
+      ]
+    },
+    {
+      "train_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "validation_indices": [
+        5,
+        6,
+        9,
+        11,
+        19
+      ]
+    }
+  ],
+  "actual": 6.37239767026,
+  "prediction": 5.808122696752255
+}

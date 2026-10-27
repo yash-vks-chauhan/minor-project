@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "package_manifest_verified": true,
+  "dataset_rebuilt_from_supplied_source_extractions": true,
+  "statistics_recomputed": true,
+  "model_results_recomputed_from_352_matching_cached_folds": true,
+  "models_independently_refit": false,
+  "matching_output_files": [
+    "data/revised_state_dataset.csv",
+    "results/statistical_results.json",
+    "results/nested_cv_results.csv",
+    "results/outer_predictions.csv",
+    "results/held_out_shap.csv",
+    "manuscript/generated_results.tex",
+    "manuscript/cv_table.tex",
+    "manuscript/regression_table.tex",
+    "manuscript/state_table.tex"
+  ]
+}

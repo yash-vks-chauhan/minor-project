@@ -1,0 +1,32 @@
+[
+  {
+    "file": "journal_manuscript.pdf",
+    "bytes": 107523,
+    "sha256": "6c063bf6e21c95aa29ed2552826e0a69536170011232aa952103fd39763b871e"
+  },
+  {
+    "file": "journal_source.zip",
+    "bytes": 54806,
+    "sha256": "003ad800b1b7513b925d2c41f96618e74a2f15b5762e50032c0cbe308706714f"
+  },
+  {
+    "file": "ESM_1.zip",
+    "bytes": 840116,
+    "sha256": "ae35a3948b5f4a8e52fbec6f8f9babf276416507b73ecda8901e5a199a20aab7"
+  },
+  {
+    "file": "cover_letter.txt",
+    "bytes": 2499,
+    "sha256": "c2fd7fc4892f90d980ff861178fea52c283c2607884a9b3987ac581e842cbf23"
+  },
+  {
+    "file": "cover_letter.pdf",
+    "bytes": 3562,
+    "sha256": "cbe6a8116d50d86c9c81fc55b7835856e6f926f9af118238ad78649c07b22309"
+  },
+  {
+    "file": "related_abstracts_editor_only.pdf",
+    "bytes": 173865,
+    "sha256": "3e135c79cff1fe889f4cefa5c67b7d12931ef7198533bda137ffce83a149d150"
+  }
+]

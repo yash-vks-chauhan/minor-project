@@ -1,0 +1,32 @@
+{
+  "venue": "CIC / CORE 2027",
+  "record_type": "eligibility and submission-link inquiry; not a paper submission",
+  "status": "inquiry sent; organizer response pending",
+  "sent_at": "2026-10-26T17:24:04.000Z",
+  "message_id": "1a1793da3e7d6a7d",
+  "thread_id": "1a1793da3e7d6a7d",
+  "to": "info@coreindonesia.org",
+  "subject": "CIC 2027 submission links and eligibility of a full paper with related conference abstracts",
+  "gmail_labels": [
+    "SENT"
+  ],
+  "attachments": [],
+  "requested_clarifications": [
+    "Official Word template and working submission link",
+    "Whether pending abstracts at IOCE, WEAVE and Urban e-Planning permit full-paper consideration"
+  ],
+  "source_url": "https://core-indonesia.com/cic-2027/call-for-papers/",
+  "browser_observation": {
+    "template": {
+      "tag": "SPAN",
+      "aria_disabled": "true",
+      "href": null
+    },
+    "submission": {
+      "tag": "SPAN",
+      "aria_disabled": "true",
+      "href": null
+    }
+  },
+  "application_submitted": false
+}

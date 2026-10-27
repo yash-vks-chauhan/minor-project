@@ -1,0 +1,236 @@
+{
+  "seed": 20261026,
+  "main_association": {
+    "n": 22,
+    "pearson_r": 0.7785916672474287,
+    "pearson_p": 1.9739238618048083e-05,
+    "spearman_rho": 0.8102766798418973,
+    "spearman_p": 4.855121973369093e-06,
+    "permutation_p": 5e-05,
+    "bootstrap_percentile_ci": [
+      0.6171478641646873,
+      0.901189542792606
+    ],
+    "bootstrap_resamples": 10000
+  },
+  "regressions": [
+    {
+      "target": "Circularity_Related_Proxy",
+      "controls": [],
+      "n": 22,
+      "r_squared": 0.6062049843071307,
+      "coefficients": [
+        {
+          "term": "const",
+          "coefficient": 11.93533634030886,
+          "hc3_se": 5.11776809516722,
+          "p": 0.030257760908788022,
+          "ci_low": 1.25985916220659,
+          "ci_high": 22.610813518411128
+        },
+        {
+          "term": "Digital_Access_Score",
+          "coefficient": 6.068282276382195,
+          "hc3_se": 1.35569967607188,
+          "p": 0.0002312866053556843,
+          "ci_low": 3.240342306626081,
+          "ci_high": 8.89622224613831
+        }
+      ],
+      "largest_cooks_d": 0.4155406999311363,
+      "influential_state": "Telangana",
+      "shapiro_w": 0.9229138316959837,
+      "shapiro_p": 0.08736848311561002
+    },
+    {
+      "target": "Circularity_Related_Proxy",
+      "controls": [
+        "Log_NSDP"
+      ],
+      "n": 22,
+      "r_squared": 0.6325578464478835,
+      "coefficients": [
+        {
+          "term": "const",
+          "coefficient": -134.03155983798368,
+          "hc3_se": 171.91498427522552,
+          "p": 0.4452072775232485,
+          "ci_low": -493.8537572392569,
+          "ci_high": 225.7906375632895
+        },
+        {
+          "term": "Digital_Access_Score",
+          "coefficient": 3.9612387137518326,
+          "hc3_se": 2.725033990874616,
+          "p": 0.1623630670095873,
+          "ci_low": -1.7423229782290104,
+          "ci_high": 9.664800405732676
+        },
+        {
+          "term": "Log_NSDP",
+          "coefficient": 12.680554935419616,
+          "hc3_se": 14.916132943017656,
+          "p": 0.405842193886577,
+          "ci_low": -18.53927011306854,
+          "ci_high": 43.90037998390777
+        }
+      ],
+      "largest_cooks_d": 0.5911467304531205,
+      "influential_state": "Sikkim",
+      "shapiro_w": 0.8788791261278309,
+      "shapiro_p": 0.01150143905447639
+    },
+    {
+      "target": "Log_EWaste_Per_Million",
+      "controls": [],
+      "n": 22,
+      "r_squared": 0.4121445876371521,
+      "coefficients": [
+        {
+          "term": "const",
+          "coefficient": 1.3603078389701964,
+          "hc3_se": 0.7297234612872051,
+          "p": 0.07704852706907414,
+          "ci_low": -0.16186862788724055,
+          "ci_high": 2.8824843058276333
+        },
+        {
+          "term": "Digital_Access_Score",
+          "coefficient": 0.6360203411981311,
+          "hc3_se": 0.1554277699648522,
+          "p": 0.0005672554116755418,
+          "ci_low": 0.31180369436140226,
+          "ci_high": 0.96023698803486
+        }
+      ],
+      "largest_cooks_d": 0.1578934873859138,
+      "influential_state": "Haryana",
+      "shapiro_w": 0.9444430125120501,
+      "shapiro_p": 0.24414300915311238
+    },
+    {
+      "target": "Log_EWaste_Per_Million",
+      "controls": [
+        "Log_NSDP"
+      ],
+      "n": 22,
+      "r_squared": 0.4125740723546417,
+      "coefficients": [
+        {
+          "term": "const",
+          "coefficient": -1.0083619318120067,
+          "hc3_se": 36.25277786130642,
+          "p": 0.9780999806367427,
+          "ci_low": -76.88629803464734,
+          "ci_high": 74.86957417102333
+        },
+        {
+          "term": "Digital_Access_Score",
+          "coefficient": 0.6018284077995661,
+          "hc3_se": 0.4897471173566464,
+          "p": 0.23412931563218883,
+          "ci_low": -0.42322408940502365,
+          "ci_high": 1.626880905004156
+        },
+        {
+          "term": "Log_NSDP",
+          "coefficient": 0.2057730070219725,
+          "hc3_se": 3.1422230604484356,
+          "p": 0.9484708408832914,
+          "ci_low": -6.370975442813097,
+          "ci_high": 6.782521456857041
+        }
+      ],
+      "largest_cooks_d": 1.0515496263608999,
+      "influential_state": "Sikkim",
+      "shapiro_w": 0.9505953003584264,
+      "shapiro_p": 0.32453344188588895
+    },
+    {
+      "target": "SDG_Index_Score",
+      "controls": [],
+      "n": 22,
+      "r_squared": 0.6438851574179001,
+      "coefficients": [
+        {
+          "term": "const",
+          "coefficient": 63.0768188397182,
+          "hc3_se": 2.056621379207657,
+          "p": 2.721252897285159e-18,
+          "ci_low": 58.78678181782552,
+          "ci_high": 67.36685586161089
+        },
+        {
+          "term": "Digital_Access_Score",
+          "coefficient": 1.8471182723262052,
+          "hc3_se": 0.4302362757149433,
+          "p": 0.00035439754616923755,
+          "ci_low": 0.9496611274970352,
+          "ci_high": 2.7445754171553753
+        }
+      ],
+      "largest_cooks_d": 0.47496318987266745,
+      "influential_state": "Bihar",
+      "shapiro_w": 0.9488374513826234,
+      "shapiro_p": 0.29946082963467513
+    },
+    {
+      "target": "SDG_Index_Score",
+      "controls": [
+        "Log_NSDP"
+      ],
+      "n": 22,
+      "r_squared": 0.7355794084057345,
+      "coefficients": [
+        {
+          "term": "const",
+          "coefficient": -17.339836541612687,
+          "hc3_se": 51.539551640938626,
+          "p": 0.7402283621044914,
+          "ci_low": -125.21335787951645,
+          "ci_high": 90.53368479629108
+        },
+        {
+          "term": "Digital_Access_Score",
+          "coefficient": 0.6862975623858056,
+          "hc3_se": 0.749060732500213,
+          "p": 0.37103951678895236,
+          "ci_low": -0.8815045689498477,
+          "ci_high": 2.254099693721459
+        },
+        {
+          "term": "Log_NSDP",
+          "coefficient": 6.986021097825575,
+          "hc3_se": 4.450929996940261,
+          "p": 0.13302070652214174,
+          "ci_low": -2.329882450257892,
+          "ci_high": 16.301924645909043
+        }
+      ],
+      "largest_cooks_d": 0.7197991247865574,
+      "influential_state": "Sikkim",
+      "shapiro_w": 0.9372777802582432,
+      "shapiro_p": 0.17386259856150188
+    }
+  ],
+  "without_haryana": {
+    "removed": "Haryana",
+    "n": 21,
+    "pearson_r": 0.7780758546137806,
+    "pearson_p": 3.28591525712174e-05,
+    "spearman_rho": 0.7896103896103897,
+    "spearman_p": 2.0778246572780995e-05
+  },
+  "leave_one_state_out_r_range": [
+    0.7343090920083697,
+    0.8192986571124075
+  ],
+  "descriptive_index_definition": "DAS=(4*Tnorm+3*UPInorm)/7; proxy=(7*EWnorm+8*SDGnorm)/15; DCI=DAS*proxy/100",
+  "legacy_baseline_correlation": {
+    "n": 16,
+    "pearson_r": 0.7812867096601195,
+    "pearson_p": 0.0003520149691832814,
+    "spearman_rho": 0.911764705882353,
+    "spearman_p": 8.818985741384046e-07
+  }
+}

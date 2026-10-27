@@ -1,0 +1,8 @@
+Digital Access and Circularity-Related Regional Indicators in Indian States
+
+Digital tools can inform regional environmental planning, but broad sustainability benchmarks may conceal differences in direct material-processing activity. This exploratory study compares digital access, sustainability, and formal e-waste processing across 22 Indian states with complete public-data coverage. Seven input tables combine tele-density, secondary UPI transactions per person, income, SDG scores, formal e-waste collected and processed, and population projections. Reference periods span 2021-22 to 2024-25.
+
+A digital access score and a circularity-related proxy exclude shared income components. State resampling, HC3 regressions, and nested predictive evaluation test sensitivity and outcome separability. Digital access and the combined proxy are positively associated (Pearson r=0.779; Spearman rho=0.810), but the digital coefficient is uncertain after income adjustment (HC3 p=0.162). Digital-only ElasticNet achieves pooled outer leave-one-state-out R-squared of 0.658 for SDG scores and 0.292 for log e-waste processing intensity. XGBoost does not improve this comparison.
+
+For regional planning, the findings support distinguishing general development capacity from direct evidence of circular material flows. They do not validate a city planning system, identify a causal digital infrastructure effect, or justify allocating resources from composite rankings alone. Mixed reference years, secondary payment estimates, projected denominators, state-level aggregation, and incomplete reporting constrain interpretation. Future urban applications require city-specific collection, repair, reuse, and recovery data aligned by year.
+

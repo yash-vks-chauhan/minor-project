@@ -1,0 +1,34 @@
+
+=============================================================================
+ DATA PROVENANCE & SOURCE CITATIONS  (v3 — 100% Verified)
+ Research: Digital Inclusion × Circular Economy Behavior in India
+=============================================================================
+
+ALL RAW DATA FILES STORED IN: data/raw/
+
+FILE                                  | SOURCE                          | YEAR      | HOW VERIFIED
+──────────────────────────────────────|─────────────────────────────────|───────────|─────────────────
+trai_teledensity_q2_2024.csv          | TRAI QPIR Table 1.6             | Q2 2024   | PDF screenshot
+rbi_per_capita_nsdp_2023_24.csv       | RBI HoS Table 9 (Base 2011-12)  | 2023-24P  | Browser extract
+niti_sdg_index_2023_24.csv            | NITI Aayog SDG India Index       | 2023-24   | Browser extract
+dataful_upi_percapita_2024_25.csv     | NPCI via Dataful Insights        | 2024-25   | Browser extract
+CPCB_EWaste_and_City_Mapping.xlsx     | CPCB via PIB/data.gov.in         | 2021-22   | User's file
+NPCI_UPI_Monthly_2024_25.xlsx         | NPCI Product Statistics           | 2024-25   | User's file
+NPCI_UPI_Monthly_2025_26.xlsx         | NPCI Product Statistics           | 2025-26   | User's file
+Census 2011 (hardcoded)               | censusindia.gov.in                | 2011      | Official published
+
+DERIVED VARIABLES:
+EWaste_PerCapita                      | EWaste_Processed / Population_Mn
+Digital_Access_Score                  | 40% Tele-density + 30% UPI/Cap + 30% NSDP
+CE_Behavior_Score                     | 35% EWaste/Cap + 40% SDG + 25% NSDP
+DCI (Digital Circularity Index)       | (Digital_Access × CE_Behavior) / 100
+
+URLS:
+- TRAI:       https://trai.gov.in/release-publication/reports/performance-indicators-reports
+- RBI:        https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook+of+Statistics+on+Indian+Economy
+- NITI Aayog: https://sdgindiaindex.niti.gov.in/
+- Dataful:    https://insights.dataful.in (citing NPCI)
+- CPCB:       https://cpcb.nic.in / data.gov.in
+- Census:     https://censusindia.gov.in
+- NPCI:       https://npci.org.in
+=============================================================================

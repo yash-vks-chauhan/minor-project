@@ -1,0 +1,82 @@
+[
+  {
+    "file": "evidence/cpcb_pib.html",
+    "sha256": "c49ab16a458fb8fdeb03c898385d78e3a784dce7a7c4e9c7d67f4e9ba013f68c",
+    "bytes": 81808
+  },
+  {
+    "file": "evidence/cpcb_pib_table.json",
+    "sha256": "7714c7ccd81ff11b34ddafeff0319d725e493751d9376aa34f61152625c44f91",
+    "bytes": 2003
+  },
+  {
+    "file": "evidence/mohfw_population_projection_2020_mirror.txt",
+    "sha256": "cd435cd630d239b36ca2cc557e9b8b44be17c60ea78cae57705efa119db186b5",
+    "bytes": 965592
+  },
+  {
+    "file": "evidence/nsdp_economic_survey_2025_26.txt",
+    "sha256": "a1da0b85815f8f12944f160f5d96caff476e7c8877fe2d0d8d4a48e77196aa1a",
+    "bytes": 4837
+  },
+  {
+    "file": "evidence/sdg_india_2023_24.txt",
+    "sha256": "f35e36268f47cccefdce2403aba5f15911a3bb156540e526caa500acce415e25",
+    "bytes": 356
+  },
+  {
+    "file": "evidence/sdg_state_ranking_pib.jpeg",
+    "sha256": "4c6c73d69006fb9492007e793dc2f6648a1a6228209b37c2b654752a3e0f256f",
+    "bytes": 91633
+  },
+  {
+    "file": "evidence/source_urls.json",
+    "sha256": "f6ea9fe564493b470f83bf1b3915ba8d8c3fab78f1039fb5ae68a6dd86495c0a",
+    "bytes": 367
+  },
+  {
+    "file": "evidence/trai_pib.html",
+    "sha256": "64755170f2cfea122d055704340cc274de8b23e389ccef0d824f81d309e93d99",
+    "bytes": 77919
+  },
+  {
+    "file": "evidence/trai_pib_table.json",
+    "sha256": "3ab2372a346d86dc155142e6d128360c602b55c2846a1963ac2e26b7b6e4a9f4",
+    "bytes": 1989
+  },
+  {
+    "file": "data/raw/cpcb_ewaste_2021_22.csv",
+    "sha256": "4829d42bc29cc5735977fac4436a55ee1c80d91da4bdfdf8691c298aac37a8d2",
+    "bytes": 1456
+  },
+  {
+    "file": "data/raw/nsdp_2023_24.csv",
+    "sha256": "df333d994040d29b9d2adc634e955976a82bc99637505374e180e1ea80dce175",
+    "bytes": 2117
+  },
+  {
+    "file": "data/raw/population_2021.csv",
+    "sha256": "8394290da1e524651be618efba819c06276eeb149a9385df75d4562dcf921473",
+    "bytes": 1618
+  },
+  {
+    "file": "data/raw/sdg_2023_24.csv",
+    "sha256": "9582c12d629ee18811607b098b269dd0015b9f08e25c6a2490e0772b27db4f40",
+    "bytes": 2495
+  },
+  {
+    "file": "data/raw/trai_teledensity_2024_06.csv",
+    "sha256": "fe072eaffb60a50fa668f92b98abdd17415af58963455d732ef12d3263a15b7c",
+    "bytes": 1711
+  },
+  {
+    "file": "data/raw/upi_percapita_2024_25.csv",
+    "sha256": "85e13aac10a3008427abeeb0dd543e7a1e4646e37da421d1002d82da9cf9d25c",
+    "bytes": 1263
+  },
+  {
+    "file": "data/raw/urban_share_2021.csv",
+    "sha256": "9defbf41b88677677ad44373239fa165dc81a87c53d3b98ac950f5c4e0276f5d",
+    "bytes": 1583
+  }
+]

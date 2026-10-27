@@ -1,0 +1,43 @@
+{
+  "status": "Submitted; Pending MDPI check",
+  "date_local": "2026-10-26",
+  "conference": "IOCE 2027",
+  "orcid_sign_in_verified": true,
+  "mdpi_sign_in_completed": true,
+  "requested_orcid_scopes": [
+    "read-limited",
+    "activities/update",
+    "person/update"
+  ],
+  "access_authorized_by_agent": false,
+  "pending_facts": [],
+  "screenshot": "../../qa/ioce-open-access-consent.jpg",
+  "submission_confirmation": "Sciforum-217212",
+  "draft_id": "Sciforum-217212",
+  "draft_saved_and_dashboard_verified": true,
+  "platform_abstract_word_count": 280,
+  "local_abstract_with_disclosure_words": 267,
+  "session": "S1. Urban Systems vs Rural and Forest Surroundings",
+  "presentation_consideration": [
+    "Poster",
+    "Oral"
+  ],
+  "publication_preference": "I choose none of the above.",
+  "open_access_consent": true,
+  "authors_entered": true,
+  "user_confirmed_declarations": {
+    "prior_submission": "Never submitted, accepted or published elsewhere",
+    "funding": "No external funding",
+    "competing_interests": "None",
+    "presenter": "Yash Chauhan",
+    "presenter_email": "yash.vks.chauhan@gmail.com",
+    "mode": "Online"
+  },
+  "confirmed_author_order": [
+    "Yash Chauhan",
+    "Suresh Kumar Chelliah",
+    "Shreya Srivastava"
+  ],
+  "submission_receipt": "submission_receipt.json",
+  "final_submission_verified": true
+}

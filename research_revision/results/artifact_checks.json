@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "artifacts": [
+    {
+      "file": "manuscript/main.pdf",
+      "pages": 9,
+      "sha256": "474b18298a10b795033ec26765374040f8d5bcf2babe1536a2d536f82041ac66"
+    },
+    {
+      "file": "submissions/01-ioce2027/abstract.pdf",
+      "pages": 1,
+      "sha256": "9355572c89d6fef2ced597dd27f21c478fe92572a801b99398e7ee008b05ee0e"
+    },
+    {
+      "file": "submissions/02-weave2027/extended_abstract_blind.pdf",
+      "pages": 2,
+      "sha256": "68fd42b9672208610bac453562e51b9a734c89303ce3dc148807848623dea6cf"
+    },
+    {
+      "file": "submissions/03-tip2027/extended_abstract.pdf",
+      "pages": 3,
+      "sha256": "91b5e67f8abc74b294da64e245b135937eec115b0d1afe89b26f4f5d6d3ec612"
+    },
+    {
+      "file": "submissions/04-urban-eplanning2027/abstract.pdf",
+      "pages": 1,
+      "sha256": "7af2b8b3d23299197f7a14282a87781edded2e479e29e9cba25fba42f183b148"
+    }
+  ],
+  "required_result_strings": [
+    "0.779",
+    "0.810",
+    "0.162",
+    "0.292",
+    "0.658"
+  ],
+  "checks": [
+    "expected numeric results in every PDF",
+    "no blank PDF pages",
+    "no invalid extracted characters",
+    "anonymous WEAVE content and author metadata",
+    "word limits",
+    "body-only form text",
+    "evidence hashes",
+    "current data/protocol/code model hash",
+    "clean manuscript layout log",
+    "all three authors and confirmed declarations in master",
+    "confirmed author order and Yash correspondence in master"
+  ],
+  "visual_review": "Required separately; automatic checks do not certify page layout.",
+  "submission_status": "Submitted; Pending MDPI check"
+}

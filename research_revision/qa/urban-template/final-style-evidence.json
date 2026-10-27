@@ -1,0 +1,130 @@
+{
+  "input": "/Users/yashchauhan/Desktop/minor project/research_revision/submissions/04-urban-eplanning2027/Urban_ePlanning_2027_Yash_Chauhan.docx",
+  "fonts_by_char_count": {
+    "Candara": 3979
+  },
+  "direct_run_formatting_runs": 66,
+  "direct_paragraph_formatting_paragraphs": 1,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "11th INTERNATIONAL CONFERENCE",
+      "style": "Normal"
+    },
+    {
+      "para_index": 2,
+      "text": "URBAN E-PLANNING",
+      "style": "Normal"
+    },
+    {
+      "para_index": 3,
+      "text": "[Virtual / Online]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 5,
+      "text": "Urban e-Planning Research Network (UEPNET)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 6,
+      "text": "International Journal of E-Planning Research (IJEPR)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 8,
+      "text": "Lisbon, Portugal, 5 - 9 April 2027",
+      "style": "Normal"
+    },
+    {
+      "para_index": 11,
+      "text": "Title ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 13,
+      "text": "Digital Access and Circularity-Related Regional Indicators in Indian States",
+      "style": "Normal"
+    },
+    {
+      "para_index": 14,
+      "text": "Abstract ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 20,
+      "text": "Keywords",
+      "style": "Normal"
+    },
+    {
+      "para_index": 25,
+      "text": "Author(s) name ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 30,
+      "text": "Institutional affiliation",
+      "style": "Normal"
+    },
+    {
+      "para_index": 33,
+      "text": "Position ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 38,
+      "text": "Postal address",
+      "style": "Normal"
+    },
+    {
+      "para_index": 41,
+      "text": "Electronic address",
+      "style": "Normal"
+    },
+    {
+      "para_index": 46,
+      "text": "Author' biographical note",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "11th INTERNATIONAL CONFERENCE",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "1",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "1",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "th",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": " INTERNATIONAL CONFERENCE",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "URBAN E-PLANNING",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

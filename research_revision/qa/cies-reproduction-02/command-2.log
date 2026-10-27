@@ -1,0 +1,7 @@
+STATISTICS {"n": 22, "pearson_r": 0.7785916672474287, "pearson_p": 1.9739238618048083e-05, "spearman_rho": 0.8102766798418973, "spearman_p": 4.855121973369093e-06, "permutation_p": 5e-05, "bootstrap_percentile_ci": [0.6171478641646873, 0.901189542792606], "bootstrap_resamples": 10000}
+REGRESSION Circularity_Related_Proxy controls=[]: b10=6.0683, HC3 p=0.00023
+REGRESSION Circularity_Related_Proxy controls=['Log_NSDP']: b10=3.9612, HC3 p=0.16236
+REGRESSION Log_EWaste_Per_Million controls=[]: b10=0.6360, HC3 p=0.00057
+REGRESSION Log_EWaste_Per_Million controls=['Log_NSDP']: b10=0.6018, HC3 p=0.23413
+REGRESSION SDG_Index_Score controls=[]: b10=1.8471, HC3 p=0.00035
+REGRESSION SDG_Index_Score controls=['Log_NSDP']: b10=0.6863, HC3 p=0.37104

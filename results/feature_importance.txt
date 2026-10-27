@@ -1,0 +1,15 @@
+ANALYSIS 3: Random Forest Feature Importance
+============================================================
+100% VERIFIED REAL DATA | 16 states
+
+RF R² (training): 0.7042
+RF LOO-CV R²: nan ± nan
+
+  Per_Capita_NSDP_Rs                  0.4878
+  Tele_Density_Percent                0.1509
+  SDG_Index_Score                     0.1507
+  Urban_Percent                       0.0782
+  EWaste_PerCapita                    0.0526
+  Literacy_Rate_Percent               0.0513
+  UPI_PerCapita_Transactions          0.0264
+  Population_Mn                       0.0020

@@ -1,0 +1,125 @@
+{
+  "input": "/Users/yashchauhan/Desktop/minor project/research_revision/submissions/04-urban-eplanning2027/template/official_abstract_form.docx",
+  "fonts_by_char_count": {
+    "Candara": 809
+  },
+  "direct_run_formatting_runs": 57,
+  "direct_paragraph_formatting_paragraphs": 1,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "11th INTERNATIONAL CONFERENCE",
+      "style": "Normal"
+    },
+    {
+      "para_index": 2,
+      "text": "URBAN E-PLANNING",
+      "style": "Normal"
+    },
+    {
+      "para_index": 3,
+      "text": "[Virtual / Online]",
+      "style": "Normal"
+    },
+    {
+      "para_index": 5,
+      "text": "Urban e-Planning Research Network (UEPNET)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 6,
+      "text": "International Journal of E-Planning Research (IJEPR)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 8,
+      "text": "Lisbon, Portugal, 5 - 9 April 2027",
+      "style": "Normal"
+    },
+    {
+      "para_index": 11,
+      "text": "Title ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 14,
+      "text": "Abstract ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 18,
+      "text": "Keywords",
+      "style": "Normal"
+    },
+    {
+      "para_index": 23,
+      "text": "Author(s) name ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 28,
+      "text": "Institutional affiliation",
+      "style": "Normal"
+    },
+    {
+      "para_index": 31,
+      "text": "Position ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 34,
+      "text": "Postal address",
+      "style": "Normal"
+    },
+    {
+      "para_index": 37,
+      "text": "Electronic address",
+      "style": "Normal"
+    },
+    {
+      "para_index": 40,
+      "text": "Author' biographical note",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "11th INTERNATIONAL CONFERENCE",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "1",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "1",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "th",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": " INTERNATIONAL CONFERENCE",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "URBAN E-PLANNING",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

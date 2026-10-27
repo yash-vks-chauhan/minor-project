@@ -1,0 +1,6 @@
+Model,R_Squared,Adj_R2_or_CV,Key_Finding
+Simple OLS (DA → CE),0.6104089226915357,0.582580988598074,"β=0.551, p=0.0004"
+Multiple OLS (with controls),0.7629300136901487,0.644395020535223,"Adj R²=0.644, DA p=0.7330"
+Random Forest,0.7042447008921433,,"Top: Per_Capita_NSDP_Rs, LOO-CV=nan"
+Piecewise Regression,0.722502960275545,0.6798111080102442,Threshold=118.8%
+Mediation (Baron & Kenny),0.6096719308058856,0.5496214586221757,"Indirect=-0.025, Sobel z=-0.241, p=0.8095"

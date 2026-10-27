@@ -1,0 +1,14 @@
+\begin{table}[htbp]\centering\small
+\caption{Pooled outer leave-one-state-out prediction scores. Inner tuning uses negative MSE.}\label{tab:cv}
+\begin{tabular}{llrrrr}\toprule & & \multicolumn{2}{c}{Log e-waste} & \multicolumn{2}{c}{SDG composite} \\
+Model & Features & $R^2$ & RMSE & $R^2$ & RMSE \\ \midrule
+TrainingMean & none & -0.098 & 2.535 & -0.098 & 5.890 \\
+Ridge & digital & 0.284 & 2.048 & 0.656 & 3.296 \\
+ElasticNet & digital & 0.292 & 2.036 & 0.658 & 3.290 \\
+RandomForest & digital & 0.105 & 2.289 & 0.606 & 3.527 \\
+XGBoost & digital & 0.078 & 2.324 & 0.555 & 3.751 \\
+Ridge & augmented & 0.269 & 2.069 & 0.605 & 3.534 \\
+ElasticNet & augmented & 0.142 & 2.241 & 0.576 & 3.659 \\
+RandomForest & augmented & 0.087 & 2.312 & 0.603 & 3.544 \\
+XGBoost & augmented & 0.083 & 2.317 & 0.560 & 3.731 \\
+\bottomrule\end{tabular}\end{table}

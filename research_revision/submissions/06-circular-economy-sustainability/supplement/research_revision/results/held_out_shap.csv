@@ -1,0 +1,309 @@
+target,feature_set,State,feature,shap_value,base_value
+Log_EWaste_Per_Million,digital,Andhra Pradesh,Tele_Density_Percent,0.9899477958679199,4.18833065032959
+Log_EWaste_Per_Million,digital,Andhra Pradesh,UPI_PerCapita_Transactions,0.489164263010025,4.18833065032959
+Log_EWaste_Per_Million,digital,Assam,Tele_Density_Percent,-1.1349517107009888,4.368495464324951
+Log_EWaste_Per_Million,digital,Assam,UPI_PerCapita_Transactions,-0.13738010823726654,4.368495464324951
+Log_EWaste_Per_Million,digital,Bihar,Tele_Density_Percent,-1.2220160961151123,4.424077987670898
+Log_EWaste_Per_Million,digital,Bihar,UPI_PerCapita_Transactions,-0.7443174719810486,4.424077987670898
+Log_EWaste_Per_Million,digital,Chhattisgarh,Tele_Density_Percent,-1.391937494277954,4.167389392852783
+Log_EWaste_Per_Million,digital,Chhattisgarh,UPI_PerCapita_Transactions,-0.9960407614707947,4.167389392852783
+Log_EWaste_Per_Million,digital,Gujarat,Tele_Density_Percent,0.16532209515571594,4.131883144378662
+Log_EWaste_Per_Million,digital,Gujarat,UPI_PerCapita_Transactions,-0.43504005670547485,4.131883144378662
+Log_EWaste_Per_Million,digital,Haryana,Tele_Density_Percent,-0.7005508542060852,4.003197193145752
+Log_EWaste_Per_Million,digital,Haryana,UPI_PerCapita_Transactions,-0.22921696305274963,4.003197193145752
+Log_EWaste_Per_Million,digital,Himachal Pradesh,Tele_Density_Percent,0.6937724351882935,4.249860763549805
+Log_EWaste_Per_Million,digital,Himachal Pradesh,UPI_PerCapita_Transactions,-0.09138437360525131,4.249860763549805
+Log_EWaste_Per_Million,digital,Jharkhand,Tele_Density_Percent,-1.3124932050704956,4.304515361785889
+Log_EWaste_Per_Million,digital,Jharkhand,UPI_PerCapita_Transactions,-0.9743368029594421,4.304515361785889
+Log_EWaste_Per_Million,digital,Karnataka,Tele_Density_Percent,0.9987485408782959,4.130483627319336
+Log_EWaste_Per_Million,digital,Karnataka,UPI_PerCapita_Transactions,0.9798135757446289,4.130483627319336
+Log_EWaste_Per_Million,digital,Kerala,Tele_Density_Percent,0.7319315075874329,4.257421493530273
+Log_EWaste_Per_Million,digital,Kerala,UPI_PerCapita_Transactions,0.4066147208213806,4.257421493530273
+Log_EWaste_Per_Million,digital,Madhya Pradesh,Tele_Density_Percent,-1.2496085166931152,4.352431297302246
+Log_EWaste_Per_Million,digital,Madhya Pradesh,UPI_PerCapita_Transactions,-0.1523166447877884,4.352431297302246
+Log_EWaste_Per_Million,digital,Maharashtra,Tele_Density_Percent,1.0406183004379272,4.233061790466309
+Log_EWaste_Per_Million,digital,Maharashtra,UPI_PerCapita_Transactions,1.3142913579940796,4.233061790466309
+Log_EWaste_Per_Million,digital,Mizoram,Tele_Density_Percent,1.0275918245315552,4.354489803314209
+Log_EWaste_Per_Million,digital,Mizoram,UPI_PerCapita_Transactions,-0.10016878694295883,4.354489803314209
+Log_EWaste_Per_Million,digital,Odisha,Tele_Density_Percent,-1.2702187299728394,4.3423686027526855
+Log_EWaste_Per_Million,digital,Odisha,UPI_PerCapita_Transactions,-0.2144761085510254,4.3423686027526855
+Log_EWaste_Per_Million,digital,Punjab,Tele_Density_Percent,0.8271109461784363,4.100435256958008
+Log_EWaste_Per_Million,digital,Punjab,UPI_PerCapita_Transactions,-0.6094618439674377,4.100435256958008
+Log_EWaste_Per_Million,digital,Rajasthan,Tele_Density_Percent,-1.061348557472229,4.132294178009033
+Log_EWaste_Per_Million,digital,Rajasthan,UPI_PerCapita_Transactions,-0.2186317890882492,4.132294178009033
+Log_EWaste_Per_Million,digital,Sikkim,Tele_Density_Percent,0.8310741186141968,4.295914173126221
+Log_EWaste_Per_Million,digital,Sikkim,UPI_PerCapita_Transactions,0.5840718746185303,4.295914173126221
+Log_EWaste_Per_Million,digital,Tamil Nadu,Tele_Density_Percent,0.9687607288360596,4.129528522491455
+Log_EWaste_Per_Million,digital,Tamil Nadu,UPI_PerCapita_Transactions,0.2837761342525482,4.129528522491455
+Log_EWaste_Per_Million,digital,Telangana,Tele_Density_Percent,0.9700388312339783,4.086789608001709
+Log_EWaste_Per_Million,digital,Telangana,UPI_PerCapita_Transactions,0.9236605763435364,4.086789608001709
+Log_EWaste_Per_Million,digital,Tripura,Tele_Density_Percent,-1.3084460496902466,4.344231128692627
+Log_EWaste_Per_Million,digital,Tripura,UPI_PerCapita_Transactions,-0.8321828842163086,4.344231128692627
+Log_EWaste_Per_Million,digital,Uttarakhand,Tele_Density_Percent,0.8522411584854126,4.043160915374756
+Log_EWaste_Per_Million,digital,Uttarakhand,UPI_PerCapita_Transactions,0.026421673595905304,4.043160915374756
+Log_EWaste_Per_Million,digital,West Bengal,Tele_Density_Percent,-0.9438713788986206,4.360347270965576
+Log_EWaste_Per_Million,digital,West Bengal,UPI_PerCapita_Transactions,-0.8915993571281433,4.360347270965576
+Log_EWaste_Per_Million,augmented,Andhra Pradesh,Tele_Density_Percent,0.7958568930625916,4.1698994636535645
+Log_EWaste_Per_Million,augmented,Andhra Pradesh,UPI_PerCapita_Transactions,0.35126328468322754,4.1698994636535645
+Log_EWaste_Per_Million,augmented,Andhra Pradesh,Log_NSDP,-0.11750903725624084,4.1698994636535645
+Log_EWaste_Per_Million,augmented,Andhra Pradesh,Urban_Percent_2021,0.06800320744514465,4.1698994636535645
+Log_EWaste_Per_Million,augmented,Andhra Pradesh,Log_Population,0.05264216661453247,4.1698994636535645
+Log_EWaste_Per_Million,augmented,Assam,Tele_Density_Percent,-0.9097631573677063,4.341801643371582
+Log_EWaste_Per_Million,augmented,Assam,UPI_PerCapita_Transactions,0.0028518009930849075,4.341801643371582
+Log_EWaste_Per_Million,augmented,Assam,Log_NSDP,-0.4044555425643921,4.341801643371582
+Log_EWaste_Per_Million,augmented,Assam,Urban_Percent_2021,-0.003696177154779434,4.341801643371582
+Log_EWaste_Per_Million,augmented,Assam,Log_Population,0.565626323223114,4.341801643371582
+Log_EWaste_Per_Million,augmented,Bihar,Tele_Density_Percent,-0.9705796241760254,4.389453411102295
+Log_EWaste_Per_Million,augmented,Bihar,UPI_PerCapita_Transactions,-0.2625378966331482,4.389453411102295
+Log_EWaste_Per_Million,augmented,Bihar,Log_NSDP,-0.403982937335968,4.389453411102295
+Log_EWaste_Per_Million,augmented,Bihar,Urban_Percent_2021,-0.004437689669430256,4.389453411102295
+Log_EWaste_Per_Million,augmented,Bihar,Log_Population,-0.03428914397954941,4.389453411102295
+Log_EWaste_Per_Million,augmented,Chhattisgarh,Tele_Density_Percent,-1.283409833908081,4.136544704437256
+Log_EWaste_Per_Million,augmented,Chhattisgarh,UPI_PerCapita_Transactions,-0.4763317406177521,4.136544704437256
+Log_EWaste_Per_Million,augmented,Chhattisgarh,Log_NSDP,-0.4236392378807068,4.136544704437256
+Log_EWaste_Per_Million,augmented,Chhattisgarh,Urban_Percent_2021,0.05548883602023125,4.136544704437256
+Log_EWaste_Per_Million,augmented,Chhattisgarh,Log_Population,0.2616705000400543,4.136544704437256
+Log_EWaste_Per_Million,augmented,Gujarat,Tele_Density_Percent,0.3016050159931183,4.11733865737915
+Log_EWaste_Per_Million,augmented,Gujarat,UPI_PerCapita_Transactions,-0.42000022530555725,4.11733865737915
+Log_EWaste_Per_Million,augmented,Gujarat,Log_NSDP,0.23775574564933777,4.11733865737915
+Log_EWaste_Per_Million,augmented,Gujarat,Urban_Percent_2021,-0.04784557223320007,4.11733865737915
+Log_EWaste_Per_Million,augmented,Gujarat,Log_Population,-0.1291498839855194,4.11733865737915
+Log_EWaste_Per_Million,augmented,Haryana,Tele_Density_Percent,-0.25833508372306824,3.994981288909912
+Log_EWaste_Per_Million,augmented,Haryana,UPI_PerCapita_Transactions,0.005638366565108299,3.994981288909912
+Log_EWaste_Per_Million,augmented,Haryana,Log_NSDP,0.31890955567359924,3.994981288909912
+Log_EWaste_Per_Million,augmented,Haryana,Urban_Percent_2021,0.07147654891014099,3.994981288909912
+Log_EWaste_Per_Million,augmented,Haryana,Log_Population,0.520972728729248,3.994981288909912
+Log_EWaste_Per_Million,augmented,Himachal Pradesh,Tele_Density_Percent,0.602790355682373,4.207624912261963
+Log_EWaste_Per_Million,augmented,Himachal Pradesh,UPI_PerCapita_Transactions,-0.16745808720588684,4.207624912261963
+Log_EWaste_Per_Million,augmented,Himachal Pradesh,Log_NSDP,-0.2648822069168091,4.207624912261963
+Log_EWaste_Per_Million,augmented,Himachal Pradesh,Urban_Percent_2021,-0.013422949239611626,4.207624912261963
+Log_EWaste_Per_Million,augmented,Himachal Pradesh,Log_Population,-0.15371644496917725,4.207624912261963
+Log_EWaste_Per_Million,augmented,Jharkhand,Tele_Density_Percent,-1.0905487537384033,4.283204078674316
+Log_EWaste_Per_Million,augmented,Jharkhand,UPI_PerCapita_Transactions,-0.4617542028427124,4.283204078674316
+Log_EWaste_Per_Million,augmented,Jharkhand,Log_NSDP,-0.4084523320198059,4.283204078674316
+Log_EWaste_Per_Million,augmented,Jharkhand,Urban_Percent_2021,-0.03513740748167038,4.283204078674316
+Log_EWaste_Per_Million,augmented,Jharkhand,Log_Population,-0.00923595018684864,4.283204078674316
+Log_EWaste_Per_Million,augmented,Karnataka,Tele_Density_Percent,0.7605315446853638,4.094076156616211
+Log_EWaste_Per_Million,augmented,Karnataka,UPI_PerCapita_Transactions,0.5089320540428162,4.094076156616211
+Log_EWaste_Per_Million,augmented,Karnataka,Log_NSDP,0.6116531491279602,4.094076156616211
+Log_EWaste_Per_Million,augmented,Karnataka,Urban_Percent_2021,0.07635911554098129,4.094076156616211
+Log_EWaste_Per_Million,augmented,Karnataka,Log_Population,-0.06312571465969086,4.094076156616211
+Log_EWaste_Per_Million,augmented,Kerala,Tele_Density_Percent,0.8048079609870911,4.210122585296631
+Log_EWaste_Per_Million,augmented,Kerala,UPI_PerCapita_Transactions,0.22605524957180023,4.210122585296631
+Log_EWaste_Per_Million,augmented,Kerala,Log_NSDP,0.644925594329834,4.210122585296631
+Log_EWaste_Per_Million,augmented,Kerala,Urban_Percent_2021,-0.06331026554107666,4.210122585296631
+Log_EWaste_Per_Million,augmented,Kerala,Log_Population,0.19796611368656158,4.210122585296631
+Log_EWaste_Per_Million,augmented,Madhya Pradesh,Tele_Density_Percent,-1.079014539718628,4.31460428237915
+Log_EWaste_Per_Million,augmented,Madhya Pradesh,UPI_PerCapita_Transactions,-0.17772287130355835,4.31460428237915
+Log_EWaste_Per_Million,augmented,Madhya Pradesh,Log_NSDP,-0.25130513310432434,4.31460428237915
+Log_EWaste_Per_Million,augmented,Madhya Pradesh,Urban_Percent_2021,0.11018718034029007,4.31460428237915
+Log_EWaste_Per_Million,augmented,Madhya Pradesh,Log_Population,-0.024981724098324776,4.31460428237915
+Log_EWaste_Per_Million,augmented,Maharashtra,Tele_Density_Percent,1.0323572158813477,4.254177570343018
+Log_EWaste_Per_Million,augmented,Maharashtra,UPI_PerCapita_Transactions,0.4761173725128174,4.254177570343018
+Log_EWaste_Per_Million,augmented,Maharashtra,Log_NSDP,0.32045778632164,4.254177570343018
+Log_EWaste_Per_Million,augmented,Maharashtra,Urban_Percent_2021,-0.3590351641178131,4.254177570343018
+Log_EWaste_Per_Million,augmented,Maharashtra,Log_Population,-0.09734522551298141,4.254177570343018
+Log_EWaste_Per_Million,augmented,Mizoram,Tele_Density_Percent,0.7890984416007996,4.344779014587402
+Log_EWaste_Per_Million,augmented,Mizoram,UPI_PerCapita_Transactions,-0.11623220890760422,4.344779014587402
+Log_EWaste_Per_Million,augmented,Mizoram,Log_NSDP,-0.06424885988235474,4.344779014587402
+Log_EWaste_Per_Million,augmented,Mizoram,Urban_Percent_2021,0.06936244666576385,4.344779014587402
+Log_EWaste_Per_Million,augmented,Mizoram,Log_Population,-0.04827388375997543,4.344779014587402
+Log_EWaste_Per_Million,augmented,Odisha,Tele_Density_Percent,-1.0201691389083862,4.303156852722168
+Log_EWaste_Per_Million,augmented,Odisha,UPI_PerCapita_Transactions,-0.1517956554889679,4.303156852722168
+Log_EWaste_Per_Million,augmented,Odisha,Log_NSDP,-0.25240135192871094,4.303156852722168
+Log_EWaste_Per_Million,augmented,Odisha,Urban_Percent_2021,-0.011076968163251877,4.303156852722168
+Log_EWaste_Per_Million,augmented,Odisha,Log_Population,0.043876077979803085,4.303156852722168
+Log_EWaste_Per_Million,augmented,Punjab,Tele_Density_Percent,0.4442754089832306,4.088099479675293
+Log_EWaste_Per_Million,augmented,Punjab,UPI_PerCapita_Transactions,-0.3435303270816803,4.088099479675293
+Log_EWaste_Per_Million,augmented,Punjab,Log_NSDP,-0.5502538084983826,4.088099479675293
+Log_EWaste_Per_Million,augmented,Punjab,Urban_Percent_2021,0.09628423303365707,4.088099479675293
+Log_EWaste_Per_Million,augmented,Punjab,Log_Population,0.3546852469444275,4.088099479675293
+Log_EWaste_Per_Million,augmented,Rajasthan,Tele_Density_Percent,-1.0665178298950195,4.2271342277526855
+Log_EWaste_Per_Million,augmented,Rajasthan,UPI_PerCapita_Transactions,-0.0032743094488978386,4.2271342277526855
+Log_EWaste_Per_Million,augmented,Rajasthan,Log_NSDP,-0.6257926821708679,4.2271342277526855
+Log_EWaste_Per_Million,augmented,Rajasthan,Urban_Percent_2021,0.37510842084884644,4.2271342277526855
+Log_EWaste_Per_Million,augmented,Rajasthan,Log_Population,-0.22507160902023315,4.2271342277526855
+Log_EWaste_Per_Million,augmented,Sikkim,Tele_Density_Percent,0.4072625935077667,4.346345901489258
+Log_EWaste_Per_Million,augmented,Sikkim,UPI_PerCapita_Transactions,0.4747893214225769,4.346345901489258
+Log_EWaste_Per_Million,augmented,Sikkim,Log_NSDP,1.3476696014404297,4.346345901489258
+Log_EWaste_Per_Million,augmented,Sikkim,Urban_Percent_2021,0.13795123994350433,4.346345901489258
+Log_EWaste_Per_Million,augmented,Sikkim,Log_Population,0.16009294986724854,4.346345901489258
+Log_EWaste_Per_Million,augmented,Tamil Nadu,Tele_Density_Percent,0.8646253943443298,4.147381782531738
+Log_EWaste_Per_Million,augmented,Tamil Nadu,UPI_PerCapita_Transactions,-0.0957014262676239,4.147381782531738
+Log_EWaste_Per_Million,augmented,Tamil Nadu,Log_NSDP,0.5926310420036316,4.147381782531738
+Log_EWaste_Per_Million,augmented,Tamil Nadu,Urban_Percent_2021,-0.30403730273246765,4.147381782531738
+Log_EWaste_Per_Million,augmented,Tamil Nadu,Log_Population,-0.019775204360485077,4.147381782531738
+Log_EWaste_Per_Million,augmented,Telangana,Tele_Density_Percent,0.7431068420410156,4.042293548583984
+Log_EWaste_Per_Million,augmented,Telangana,UPI_PerCapita_Transactions,0.34894341230392456,4.042293548583984
+Log_EWaste_Per_Million,augmented,Telangana,Log_NSDP,0.5720270276069641,4.042293548583984
+Log_EWaste_Per_Million,augmented,Telangana,Urban_Percent_2021,-0.13491088151931763,4.042293548583984
+Log_EWaste_Per_Million,augmented,Telangana,Log_Population,-0.06066003814339638,4.042293548583984
+Log_EWaste_Per_Million,augmented,Tripura,Tele_Density_Percent,-1.017148494720459,4.316656589508057
+Log_EWaste_Per_Million,augmented,Tripura,UPI_PerCapita_Transactions,-0.2572176158428192,4.316656589508057
+Log_EWaste_Per_Million,augmented,Tripura,Log_NSDP,-0.3338351547718048,4.316656589508057
+Log_EWaste_Per_Million,augmented,Tripura,Urban_Percent_2021,0.17971578240394592,4.316656589508057
+Log_EWaste_Per_Million,augmented,Tripura,Log_Population,0.1093582734465599,4.316656589508057
+Log_EWaste_Per_Million,augmented,Uttarakhand,Tele_Density_Percent,0.5460022687911987,3.999946117401123
+Log_EWaste_Per_Million,augmented,Uttarakhand,UPI_PerCapita_Transactions,-0.16899380087852478,3.999946117401123
+Log_EWaste_Per_Million,augmented,Uttarakhand,Log_NSDP,-0.13808588683605194,3.999946117401123
+Log_EWaste_Per_Million,augmented,Uttarakhand,Urban_Percent_2021,0.009507750160992146,3.999946117401123
+Log_EWaste_Per_Million,augmented,Uttarakhand,Log_Population,0.14450785517692566,3.999946117401123
+Log_EWaste_Per_Million,augmented,West Bengal,Tele_Density_Percent,-0.852180004119873,4.3763203620910645
+Log_EWaste_Per_Million,augmented,West Bengal,UPI_PerCapita_Transactions,-0.32684728503227234,4.3763203620910645
+Log_EWaste_Per_Million,augmented,West Bengal,Log_NSDP,-0.3531074523925781,4.3763203620910645
+Log_EWaste_Per_Million,augmented,West Bengal,Urban_Percent_2021,0.2369452714920044,4.3763203620910645
+Log_EWaste_Per_Million,augmented,West Bengal,Log_Population,-0.18427865207195282,4.3763203620910645
+SDG_Index_Score,digital,Andhra Pradesh,Tele_Density_Percent,-1.0381227731704712,70.89823150634766
+SDG_Index_Score,digital,Andhra Pradesh,UPI_PerCapita_Transactions,1.496342420578003,70.89823150634766
+SDG_Index_Score,digital,Assam,Tele_Density_Percent,-5.304860591888428,71.34272766113281
+SDG_Index_Score,digital,Assam,UPI_PerCapita_Transactions,-0.8121644258499146,71.34272766113281
+SDG_Index_Score,digital,Bihar,Tele_Density_Percent,-5.471651554107666,71.78528594970703
+SDG_Index_Score,digital,Bihar,UPI_PerCapita_Transactions,-0.8133860230445862,71.78528594970703
+SDG_Index_Score,digital,Chhattisgarh,Tele_Density_Percent,-6.7512311935424805,71.25699615478516
+SDG_Index_Score,digital,Chhattisgarh,UPI_PerCapita_Transactions,-1.610049843788147,71.25699615478516
+SDG_Index_Score,digital,Gujarat,Tele_Density_Percent,1.9527479410171509,71.17552947998047
+SDG_Index_Score,digital,Gujarat,UPI_PerCapita_Transactions,-0.047536712139844894,71.17552947998047
+SDG_Index_Score,digital,Haryana,Tele_Density_Percent,3.8636670112609863,71.29949951171875
+SDG_Index_Score,digital,Haryana,UPI_PerCapita_Transactions,0.874197244644165,71.29949951171875
+SDG_Index_Score,digital,Himachal Pradesh,Tele_Density_Percent,2.5945496559143066,71.07238006591797
+SDG_Index_Score,digital,Himachal Pradesh,UPI_PerCapita_Transactions,-1.0786373615264893,71.07238006591797
+SDG_Index_Score,digital,Jharkhand,Tele_Density_Percent,-7.065290451049805,71.67707061767578
+SDG_Index_Score,digital,Jharkhand,UPI_PerCapita_Transactions,-1.277376413345337,71.67707061767578
+SDG_Index_Score,digital,Karnataka,Tele_Density_Percent,2.221447706222534,71.10519409179688
+SDG_Index_Score,digital,Karnataka,UPI_PerCapita_Transactions,-0.13756811618804932,71.10519409179688
+SDG_Index_Score,digital,Kerala,Tele_Density_Percent,2.9253461360931396,71.02149963378906
+SDG_Index_Score,digital,Kerala,UPI_PerCapita_Transactions,1.841675043106079,71.02149963378906
+SDG_Index_Score,digital,Madhya Pradesh,Tele_Density_Percent,-5.632862567901611,71.57586669921875
+SDG_Index_Score,digital,Madhya Pradesh,UPI_PerCapita_Transactions,0.33033332228660583,71.57586669921875
+SDG_Index_Score,digital,Maharashtra,Tele_Density_Percent,2.7194857597351074,71.48979949951172
+SDG_Index_Score,digital,Maharashtra,UPI_PerCapita_Transactions,-0.49489301443099976,71.48979949951172
+SDG_Index_Score,digital,Mizoram,Tele_Density_Percent,3.488347291946411,71.58187103271484
+SDG_Index_Score,digital,Mizoram,UPI_PerCapita_Transactions,0.8246725797653198,71.58187103271484
+SDG_Index_Score,digital,Odisha,Tele_Density_Percent,-4.240194320678711,71.73922729492188
+SDG_Index_Score,digital,Odisha,UPI_PerCapita_Transactions,0.3438003659248352,71.73922729492188
+SDG_Index_Score,digital,Punjab,Tele_Density_Percent,2.929900646209717,71.34976196289062
+SDG_Index_Score,digital,Punjab,UPI_PerCapita_Transactions,-0.4056932032108307,71.34976196289062
+SDG_Index_Score,digital,Rajasthan,Tele_Density_Percent,0.5823913216590881,71.69290161132812
+SDG_Index_Score,digital,Rajasthan,UPI_PerCapita_Transactions,2.5867135524749756,71.69290161132812
+SDG_Index_Score,digital,Sikkim,Tele_Density_Percent,3.37591552734375,71.24368286132812
+SDG_Index_Score,digital,Sikkim,UPI_PerCapita_Transactions,1.9052104949951172,71.24368286132812
+SDG_Index_Score,digital,Tamil Nadu,Tele_Density_Percent,3.009007215499878,71.12227630615234
+SDG_Index_Score,digital,Tamil Nadu,UPI_PerCapita_Transactions,1.6027002334594727,71.12227630615234
+SDG_Index_Score,digital,Telangana,Tele_Density_Percent,3.3503775596618652,71.35738372802734
+SDG_Index_Score,digital,Telangana,UPI_PerCapita_Transactions,0.6622048020362854,71.35738372802734
+SDG_Index_Score,digital,Tripura,Tele_Density_Percent,-4.077495098114014,71.50604248046875
+SDG_Index_Score,digital,Tripura,UPI_PerCapita_Transactions,-2.799520969390869,71.50604248046875
+SDG_Index_Score,digital,Uttarakhand,Tele_Density_Percent,2.747084379196167,71.25371551513672
+SDG_Index_Score,digital,Uttarakhand,UPI_PerCapita_Transactions,0.6671008467674255,71.25371551513672
+SDG_Index_Score,digital,West Bengal,Tele_Density_Percent,-1.9565989971160889,71.63468933105469
+SDG_Index_Score,digital,West Bengal,UPI_PerCapita_Transactions,-2.655809164047241,71.63468933105469
+SDG_Index_Score,augmented,Andhra Pradesh,Tele_Density_Percent,-0.8470918536186218,70.98165130615234
+SDG_Index_Score,augmented,Andhra Pradesh,UPI_PerCapita_Transactions,1.7379399538040161,70.98165130615234
+SDG_Index_Score,augmented,Andhra Pradesh,Log_NSDP,1.3111344575881958,70.98165130615234
+SDG_Index_Score,augmented,Andhra Pradesh,Urban_Percent_2021,1.5432324409484863,70.98165130615234
+SDG_Index_Score,augmented,Andhra Pradesh,Log_Population,0.35852307081222534,70.98165130615234
+SDG_Index_Score,augmented,Assam,Tele_Density_Percent,-2.7911999225616455,71.64350891113281
+SDG_Index_Score,augmented,Assam,UPI_PerCapita_Transactions,-0.15749001502990723,71.64350891113281
+SDG_Index_Score,augmented,Assam,Log_NSDP,-2.3069369792938232,71.64350891113281
+SDG_Index_Score,augmented,Assam,Urban_Percent_2021,-1.606994867324829,71.64350891113281
+SDG_Index_Score,augmented,Assam,Log_Population,0.17789936065673828,71.64350891113281
+SDG_Index_Score,augmented,Bihar,Tele_Density_Percent,-3.1933867931365967,71.97534942626953
+SDG_Index_Score,augmented,Bihar,UPI_PerCapita_Transactions,-0.23351390659809113,71.97534942626953
+SDG_Index_Score,augmented,Bihar,Log_NSDP,-2.2831876277923584,71.97534942626953
+SDG_Index_Score,augmented,Bihar,Urban_Percent_2021,-0.906296968460083,71.97534942626953
+SDG_Index_Score,augmented,Bihar,Log_Population,0.2914539873600006,71.97534942626953
+SDG_Index_Score,augmented,Chhattisgarh,Tele_Density_Percent,-3.7995784282684326,71.57221984863281
+SDG_Index_Score,augmented,Chhattisgarh,UPI_PerCapita_Transactions,-0.2996988594532013,71.57221984863281
+SDG_Index_Score,augmented,Chhattisgarh,Log_NSDP,-2.3633594512939453,71.57221984863281
+SDG_Index_Score,augmented,Chhattisgarh,Urban_Percent_2021,-0.6442371010780334,71.57221984863281
+SDG_Index_Score,augmented,Chhattisgarh,Log_Population,0.11145243793725967,71.57221984863281
+SDG_Index_Score,augmented,Gujarat,Tele_Density_Percent,0.7964881062507629,71.31295013427734
+SDG_Index_Score,augmented,Gujarat,UPI_PerCapita_Transactions,0.05527470260858536,71.31295013427734
+SDG_Index_Score,augmented,Gujarat,Log_NSDP,1.5327951908111572,71.31295013427734
+SDG_Index_Score,augmented,Gujarat,Urban_Percent_2021,0.6881124973297119,71.31295013427734
+SDG_Index_Score,augmented,Gujarat,Log_Population,0.20636749267578125,71.31295013427734
+SDG_Index_Score,augmented,Haryana,Tele_Density_Percent,2.869860887527466,71.31694030761719
+SDG_Index_Score,augmented,Haryana,UPI_PerCapita_Transactions,0.2208251655101776,71.31694030761719
+SDG_Index_Score,augmented,Haryana,Log_NSDP,1.6970938444137573,71.31694030761719
+SDG_Index_Score,augmented,Haryana,Urban_Percent_2021,1.1677747964859009,71.31694030761719
+SDG_Index_Score,augmented,Haryana,Log_Population,0.7394497990608215,71.31694030761719
+SDG_Index_Score,augmented,Himachal Pradesh,Tele_Density_Percent,0.9518603086471558,71.11188507080078
+SDG_Index_Score,augmented,Himachal Pradesh,UPI_PerCapita_Transactions,0.18193215131759644,71.11188507080078
+SDG_Index_Score,augmented,Himachal Pradesh,Log_NSDP,0.6101819276809692,71.11188507080078
+SDG_Index_Score,augmented,Himachal Pradesh,Urban_Percent_2021,-3.431488037109375,71.11188507080078
+SDG_Index_Score,augmented,Himachal Pradesh,Log_Population,-0.35345858335494995,71.11188507080078
+SDG_Index_Score,augmented,Jharkhand,Tele_Density_Percent,-3.775909662246704,71.86029815673828
+SDG_Index_Score,augmented,Jharkhand,UPI_PerCapita_Transactions,-0.6052078008651733,71.86029815673828
+SDG_Index_Score,augmented,Jharkhand,Log_NSDP,-2.160708427429199,71.86029815673828
+SDG_Index_Score,augmented,Jharkhand,Urban_Percent_2021,-1.680651307106018,71.86029815673828
+SDG_Index_Score,augmented,Jharkhand,Log_Population,0.2774989902973175,71.86029815673828
+SDG_Index_Score,augmented,Karnataka,Tele_Density_Percent,0.6663205623626709,71.29662322998047
+SDG_Index_Score,augmented,Karnataka,UPI_PerCapita_Transactions,-0.6499351263046265,71.29662322998047
+SDG_Index_Score,augmented,Karnataka,Log_NSDP,1.0542017221450806,71.29662322998047
+SDG_Index_Score,augmented,Karnataka,Urban_Percent_2021,0.6832528710365295,71.29662322998047
+SDG_Index_Score,augmented,Karnataka,Log_Population,0.16074103116989136,71.29662322998047
+SDG_Index_Score,augmented,Kerala,Tele_Density_Percent,1.5997850894927979,71.12710571289062
+SDG_Index_Score,augmented,Kerala,UPI_PerCapita_Transactions,0.8771482110023499,71.12710571289062
+SDG_Index_Score,augmented,Kerala,Log_NSDP,1.3163421154022217,71.12710571289062
+SDG_Index_Score,augmented,Kerala,Urban_Percent_2021,0.4617886543273926,71.12710571289062
+SDG_Index_Score,augmented,Kerala,Log_Population,0.06879694014787674,71.12710571289062
+SDG_Index_Score,augmented,Madhya Pradesh,Tele_Density_Percent,-3.904292583465576,71.71280670166016
+SDG_Index_Score,augmented,Madhya Pradesh,UPI_PerCapita_Transactions,-0.13763527572155,71.71280670166016
+SDG_Index_Score,augmented,Madhya Pradesh,Log_NSDP,-2.8129665851593018,71.71280670166016
+SDG_Index_Score,augmented,Madhya Pradesh,Urban_Percent_2021,0.35200706124305725,71.71280670166016
+SDG_Index_Score,augmented,Madhya Pradesh,Log_Population,-0.49631738662719727,71.71280670166016
+SDG_Index_Score,augmented,Maharashtra,Tele_Density_Percent,0.8131316304206848,71.46314239501953
+SDG_Index_Score,augmented,Maharashtra,UPI_PerCapita_Transactions,-0.34139448404312134,71.46314239501953
+SDG_Index_Score,augmented,Maharashtra,Log_NSDP,1.4115585088729858,71.46314239501953
+SDG_Index_Score,augmented,Maharashtra,Urban_Percent_2021,0.7209440469741821,71.46314239501953
+SDG_Index_Score,augmented,Maharashtra,Log_Population,-0.1070115864276886,71.46314239501953
+SDG_Index_Score,augmented,Mizoram,Tele_Density_Percent,2.189656972885132,71.53654479980469
+SDG_Index_Score,augmented,Mizoram,UPI_PerCapita_Transactions,0.6966274380683899,71.53654479980469
+SDG_Index_Score,augmented,Mizoram,Log_NSDP,1.5685319900512695,71.53654479980469
+SDG_Index_Score,augmented,Mizoram,Urban_Percent_2021,0.8538778424263,71.53654479980469
+SDG_Index_Score,augmented,Mizoram,Log_Population,0.22097060084342957,71.53654479980469
+SDG_Index_Score,augmented,Odisha,Tele_Density_Percent,-2.5809707641601562,71.79655456542969
+SDG_Index_Score,augmented,Odisha,UPI_PerCapita_Transactions,-0.1600572168827057,71.79655456542969
+SDG_Index_Score,augmented,Odisha,Log_NSDP,-1.7564367055892944,71.79655456542969
+SDG_Index_Score,augmented,Odisha,Urban_Percent_2021,-1.5291831493377686,71.79655456542969
+SDG_Index_Score,augmented,Odisha,Log_Population,0.14700105786323547,71.79655456542969
+SDG_Index_Score,augmented,Punjab,Tele_Density_Percent,1.606137990951538,71.3082504272461
+SDG_Index_Score,augmented,Punjab,UPI_PerCapita_Transactions,-0.3178703486919403,71.3082504272461
+SDG_Index_Score,augmented,Punjab,Log_NSDP,1.030043601989746,71.3082504272461
+SDG_Index_Score,augmented,Punjab,Urban_Percent_2021,0.676948070526123,71.3082504272461
+SDG_Index_Score,augmented,Punjab,Log_Population,0.14384500682353973,71.3082504272461
+SDG_Index_Score,augmented,Rajasthan,Tele_Density_Percent,-0.7126349806785583,71.7186508178711
+SDG_Index_Score,augmented,Rajasthan,UPI_PerCapita_Transactions,1.740838885307312,71.7186508178711
+SDG_Index_Score,augmented,Rajasthan,Log_NSDP,-0.6855297684669495,71.7186508178711
+SDG_Index_Score,augmented,Rajasthan,Urban_Percent_2021,-0.4861934185028076,71.7186508178711
+SDG_Index_Score,augmented,Rajasthan,Log_Population,0.19988106191158295,71.7186508178711
+SDG_Index_Score,augmented,Sikkim,Tele_Density_Percent,1.7931276559829712,71.31389617919922
+SDG_Index_Score,augmented,Sikkim,UPI_PerCapita_Transactions,1.4706414937973022,71.31389617919922
+SDG_Index_Score,augmented,Sikkim,Log_NSDP,1.3319156169891357,71.31389617919922
+SDG_Index_Score,augmented,Sikkim,Urban_Percent_2021,0.5231543183326721,71.31389617919922
+SDG_Index_Score,augmented,Sikkim,Log_Population,-0.14545926451683044,71.31389617919922
+SDG_Index_Score,augmented,Tamil Nadu,Tele_Density_Percent,1.6411607265472412,71.23420715332031
+SDG_Index_Score,augmented,Tamil Nadu,UPI_PerCapita_Transactions,1.122348427772522,71.23420715332031
+SDG_Index_Score,augmented,Tamil Nadu,Log_NSDP,1.2027654647827148,71.23420715332031
+SDG_Index_Score,augmented,Tamil Nadu,Urban_Percent_2021,0.4655396342277527,71.23420715332031
+SDG_Index_Score,augmented,Tamil Nadu,Log_Population,0.018724434077739716,71.23420715332031
+SDG_Index_Score,augmented,Telangana,Tele_Density_Percent,1.9276825189590454,71.40137481689453
+SDG_Index_Score,augmented,Telangana,UPI_PerCapita_Transactions,-0.34187617897987366,71.40137481689453
+SDG_Index_Score,augmented,Telangana,Log_NSDP,1.1033575534820557,71.40137481689453
+SDG_Index_Score,augmented,Telangana,Urban_Percent_2021,0.6212798953056335,71.40137481689453
+SDG_Index_Score,augmented,Telangana,Log_Population,0.26569634675979614,71.40137481689453
+SDG_Index_Score,augmented,Tripura,Tele_Density_Percent,-3.74312162399292,71.56515502929688
+SDG_Index_Score,augmented,Tripura,UPI_PerCapita_Transactions,-0.9706815481185913,71.56515502929688
+SDG_Index_Score,augmented,Tripura,Log_NSDP,-0.07520152628421783,71.56515502929688
+SDG_Index_Score,augmented,Tripura,Urban_Percent_2021,0.8553463220596313,71.56515502929688
+SDG_Index_Score,augmented,Tripura,Log_Population,-0.07067031413316727,71.56515502929688
+SDG_Index_Score,augmented,Uttarakhand,Tele_Density_Percent,1.798972725868225,71.22982025146484
+SDG_Index_Score,augmented,Uttarakhand,UPI_PerCapita_Transactions,0.4225347638130188,71.22982025146484
+SDG_Index_Score,augmented,Uttarakhand,Log_NSDP,1.1813981533050537,71.22982025146484
+SDG_Index_Score,augmented,Uttarakhand,Urban_Percent_2021,0.09392467141151428,71.22982025146484
+SDG_Index_Score,augmented,Uttarakhand,Log_Population,0.03609417378902435,71.22982025146484
+SDG_Index_Score,augmented,West Bengal,Tele_Density_Percent,-1.8257405757904053,71.68036651611328
+SDG_Index_Score,augmented,West Bengal,UPI_PerCapita_Transactions,-1.4278886318206787,71.68036651611328
+SDG_Index_Score,augmented,West Bengal,Log_NSDP,-2.173631429672241,71.68036651611328
+SDG_Index_Score,augmented,West Bengal,Urban_Percent_2021,0.5927683115005493,71.68036651611328
+SDG_Index_Score,augmented,West Bengal,Log_Population,-0.356698215007782,71.68036651611328

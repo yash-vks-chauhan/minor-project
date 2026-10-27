@@ -1,0 +1,16 @@
+ANALYSIS 5: Mediation Analysis (Baron & Kenny)
+============================================================
+100% VERIFIED REAL DATA | 16 states
+
+X: Tele-density (TRAI Q2 2024)
+M: UPI Per Capita (NPCI/Dataful 2024-25)
+Y: CE Behavior Score (Composite)
+
+Path c (total):   β=0.5047, p=0.0004
+Path a (X→M):     β=1.4992, p=0.0034
+Path b (M→Y|X):   β=-0.0170, p=0.8128
+Path c' (direct): β=0.5302, p=0.0044
+
+Indirect effect: -0.0255
+Sobel z: -0.2411, p=0.8095
+Mediation type: No significant mediation detected

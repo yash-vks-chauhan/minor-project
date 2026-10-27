@@ -1,0 +1,397 @@
+target,features,model,State,actual,prediction
+Log_EWaste_Per_Million,none,TrainingMean,Andhra Pradesh,3.66981440219,4.256014020071858
+Log_EWaste_Per_Million,none,TrainingMean,Assam,1.06672441204,4.379970686269478
+Log_EWaste_Per_Million,none,TrainingMean,Bihar,0.286701358069,4.417114641220477
+Log_EWaste_Per_Million,none,TrainingMean,Chhattisgarh,4.95423523675,4.194851123188049
+Log_EWaste_Per_Million,none,TrainingMean,Gujarat,6.08047578118,4.141220621072335
+Log_EWaste_Per_Million,none,TrainingMean,Haryana,9.02128938909,4.001181877838525
+Log_EWaste_Per_Million,none,TrainingMean,Himachal Pradesh,3.93947423683,4.243173075565192
+Log_EWaste_Per_Million,none,TrainingMean,Jharkhand,2.35053312382,4.318836938089477
+Log_EWaste_Per_Million,none,TrainingMean,Karnataka,6.37239767026,4.127319578735192
+Log_EWaste_Per_Million,none,TrainingMean,Kerala,3.58805398044,4.2599073734885256
+Log_EWaste_Per_Million,none,TrainingMean,Madhya Pradesh,2.0180405241,4.334669919028525
+Log_EWaste_Per_Million,none,TrainingMean,Maharashtra,5.00901821757,4.192242409815668
+Log_EWaste_Per_Million,none,TrainingMean,Mizoram,2.57886109956,4.3079641773399535
+Log_EWaste_Per_Million,none,TrainingMean,Odisha,2.43608673172,4.314762956760906
+Log_EWaste_Per_Million,none,TrainingMean,Punjab,6.83977001422,4.105063752832335
+Log_EWaste_Per_Million,none,TrainingMean,Rajasthan,5.86609153864,4.1514293945266205
+Log_EWaste_Per_Million,none,TrainingMean,Sikkim,2.6021432672,4.306855502690429
+Log_EWaste_Per_Million,none,TrainingMean,Tamil Nadu,6.01178803911,4.144491465932811
+Log_EWaste_Per_Million,none,TrainingMean,Telangana,7.02183848673,4.096393825569954
+Log_EWaste_Per_Million,none,TrainingMean,Tripura,1.47009979594,4.360762334655192
+Log_EWaste_Per_Million,none,TrainingMean,Uttarakhand,8.41332855979,4.0301323935194775
+Log_EWaste_Per_Million,none,TrainingMean,West Bengal,1.44934295845,4.361750755488049
+Log_EWaste_Per_Million,digital,Ridge,Andhra Pradesh,3.66981440219,4.202424964886546
+Log_EWaste_Per_Million,digital,Ridge,Assam,1.06672441204,2.943944243565669
+Log_EWaste_Per_Million,digital,Ridge,Bihar,0.286701358069,2.033430229643702
+Log_EWaste_Per_Million,digital,Ridge,Chhattisgarh,4.95423523675,2.128665004194184
+Log_EWaste_Per_Million,digital,Ridge,Gujarat,6.08047578118,3.644438311118346
+Log_EWaste_Per_Million,digital,Ridge,Haryana,9.02128938909,5.186933845911372
+Log_EWaste_Per_Million,digital,Ridge,Himachal Pradesh,3.93947423683,5.470629882382246
+Log_EWaste_Per_Million,digital,Ridge,Jharkhand,2.35053312382,2.037468367010571
+Log_EWaste_Per_Million,digital,Ridge,Karnataka,6.37239767026,5.776296674070474
+Log_EWaste_Per_Million,digital,Ridge,Kerala,3.58805398044,5.979801368037131
+Log_EWaste_Per_Million,digital,Ridge,Madhya Pradesh,2.0180405241,3.1326316501635265
+Log_EWaste_Per_Million,digital,Ridge,Maharashtra,5.00901821757,5.637145967035567
+Log_EWaste_Per_Million,digital,Ridge,Mizoram,2.57886109956,4.994718300903877
+Log_EWaste_Per_Million,digital,Ridge,Odisha,2.43608673172,3.5250379442943904
+Log_EWaste_Per_Million,digital,Ridge,Punjab,6.83977001422,4.2997424912114965
+Log_EWaste_Per_Million,digital,Ridge,Rajasthan,5.86609153864,3.5642894193778782
+Log_EWaste_Per_Million,digital,Ridge,Sikkim,2.6021432672,5.361593008918615
+Log_EWaste_Per_Million,digital,Ridge,Tamil Nadu,6.01178803911,4.611479652356017
+Log_EWaste_Per_Million,digital,Ridge,Telangana,7.02183848673,7.397319154031594
+Log_EWaste_Per_Million,digital,Ridge,Tripura,1.47009979594,2.7225807884311384
+Log_EWaste_Per_Million,digital,Ridge,Uttarakhand,8.41332855979,4.696379541199498
+Log_EWaste_Per_Million,digital,Ridge,West Bengal,1.44934295845,3.1063232402449668
+Log_EWaste_Per_Million,digital,ElasticNet,Andhra Pradesh,3.66981440219,4.204668846315735
+Log_EWaste_Per_Million,digital,ElasticNet,Assam,1.06672441204,2.994925056463332
+Log_EWaste_Per_Million,digital,ElasticNet,Bihar,0.286701358069,2.120713056240377
+Log_EWaste_Per_Million,digital,ElasticNet,Chhattisgarh,4.95423523675,2.1989982020946504
+Log_EWaste_Per_Million,digital,ElasticNet,Gujarat,6.08047578118,3.661199175712908
+Log_EWaste_Per_Million,digital,ElasticNet,Haryana,9.02128938909,5.445620951935991
+Log_EWaste_Per_Million,digital,ElasticNet,Himachal Pradesh,3.93947423683,5.423457737980706
+Log_EWaste_Per_Million,digital,ElasticNet,Jharkhand,2.35053312382,2.11800675120903
+Log_EWaste_Per_Million,digital,ElasticNet,Karnataka,6.37239767026,6.119584099319029
+Log_EWaste_Per_Million,digital,ElasticNet,Kerala,3.58805398044,5.917680703570392
+Log_EWaste_Per_Million,digital,ElasticNet,Madhya Pradesh,2.0180405241,2.8568796041628417
+Log_EWaste_Per_Million,digital,ElasticNet,Maharashtra,5.00901821757,5.963779077454221
+Log_EWaste_Per_Million,digital,ElasticNet,Mizoram,2.57886109956,5.242731070416835
+Log_EWaste_Per_Million,digital,ElasticNet,Odisha,2.43608673172,3.734679650610178
+Log_EWaste_Per_Million,digital,ElasticNet,Punjab,6.83977001422,4.249020019663952
+Log_EWaste_Per_Million,digital,ElasticNet,Rajasthan,5.86609153864,3.716256389404856
+Log_EWaste_Per_Million,digital,ElasticNet,Sikkim,2.6021432672,5.091966708860255
+Log_EWaste_Per_Million,digital,ElasticNet,Tamil Nadu,6.01178803911,4.488176035546481
+Log_EWaste_Per_Million,digital,ElasticNet,Telangana,7.02183848673,8.10798383408202
+Log_EWaste_Per_Million,digital,ElasticNet,Tripura,1.47009979594,2.7797708790784514
+Log_EWaste_Per_Million,digital,ElasticNet,Uttarakhand,8.41332855979,4.694109332548661
+Log_EWaste_Per_Million,digital,ElasticNet,West Bengal,1.44934295845,3.149993346945549
+Log_EWaste_Per_Million,digital,RandomForest,Andhra Pradesh,3.66981440219,4.896385263222968
+Log_EWaste_Per_Million,digital,RandomForest,Assam,1.06672441204,2.45530336504393
+Log_EWaste_Per_Million,digital,RandomForest,Bihar,0.286701358069,2.475809240164855
+Log_EWaste_Per_Million,digital,RandomForest,Chhattisgarh,4.95423523675,1.615813948679926
+Log_EWaste_Per_Million,digital,RandomForest,Gujarat,6.08047578118,3.7331582400874455
+Log_EWaste_Per_Million,digital,RandomForest,Haryana,9.02128938909,3.758263071106057
+Log_EWaste_Per_Million,digital,RandomForest,Himachal Pradesh,3.93947423683,5.30895035127405
+Log_EWaste_Per_Million,digital,RandomForest,Jharkhand,2.35053312382,2.288742792506321
+Log_EWaste_Per_Million,digital,RandomForest,Karnataka,6.37239767026,5.768428246496014
+Log_EWaste_Per_Million,digital,RandomForest,Kerala,3.58805398044,5.583734555000131
+Log_EWaste_Per_Million,digital,RandomForest,Madhya Pradesh,2.0180405241,2.7441503901867734
+Log_EWaste_Per_Million,digital,RandomForest,Maharashtra,5.00901821757,6.058515648511854
+Log_EWaste_Per_Million,digital,RandomForest,Mizoram,2.57886109956,5.333296764031586
+Log_EWaste_Per_Million,digital,RandomForest,Odisha,2.43608673172,3.188248808817595
+Log_EWaste_Per_Million,digital,RandomForest,Punjab,6.83977001422,3.9388189313096693
+Log_EWaste_Per_Million,digital,RandomForest,Rajasthan,5.86609153864,2.765304124611564
+Log_EWaste_Per_Million,digital,RandomForest,Sikkim,2.6021432672,5.827982632274853
+Log_EWaste_Per_Million,digital,RandomForest,Tamil Nadu,6.01178803911,5.675807989308583
+Log_EWaste_Per_Million,digital,RandomForest,Telangana,7.02183848673,5.580220050092457
+Log_EWaste_Per_Million,digital,RandomForest,Tripura,1.47009979594,2.4729376415863684
+Log_EWaste_Per_Million,digital,RandomForest,Uttarakhand,8.41332855979,5.243545303071309
+Log_EWaste_Per_Million,digital,RandomForest,West Bengal,1.44934295845,3.696100981939225
+Log_EWaste_Per_Million,digital,XGBoost,Andhra Pradesh,3.66981440219,5.667442798614502
+Log_EWaste_Per_Million,digital,XGBoost,Assam,1.06672441204,3.0961649417877197
+Log_EWaste_Per_Million,digital,XGBoost,Bihar,0.286701358069,2.4577431678771973
+Log_EWaste_Per_Million,digital,XGBoost,Chhattisgarh,4.95423523675,1.7794108390808105
+Log_EWaste_Per_Million,digital,XGBoost,Gujarat,6.08047578118,3.8621652126312256
+Log_EWaste_Per_Million,digital,XGBoost,Haryana,9.02128938909,3.0734288692474365
+Log_EWaste_Per_Million,digital,XGBoost,Himachal Pradesh,3.93947423683,4.852249622344971
+Log_EWaste_Per_Million,digital,XGBoost,Jharkhand,2.35053312382,2.0176844596862793
+Log_EWaste_Per_Million,digital,XGBoost,Karnataka,6.37239767026,6.109042167663574
+Log_EWaste_Per_Million,digital,XGBoost,Kerala,3.58805398044,5.395965576171875
+Log_EWaste_Per_Million,digital,XGBoost,Madhya Pradesh,2.0180405241,2.950507640838623
+Log_EWaste_Per_Million,digital,XGBoost,Maharashtra,5.00901821757,6.587969779968262
+Log_EWaste_Per_Million,digital,XGBoost,Mizoram,2.57886109956,5.281912326812744
+Log_EWaste_Per_Million,digital,XGBoost,Odisha,2.43608673172,2.8576717376708984
+Log_EWaste_Per_Million,digital,XGBoost,Punjab,6.83977001422,4.318087100982666
+Log_EWaste_Per_Million,digital,XGBoost,Rajasthan,5.86609153864,2.8523130416870117
+Log_EWaste_Per_Million,digital,XGBoost,Sikkim,2.6021432672,5.711060047149658
+Log_EWaste_Per_Million,digital,XGBoost,Tamil Nadu,6.01178803911,5.382065773010254
+Log_EWaste_Per_Million,digital,XGBoost,Telangana,7.02183848673,5.980488300323486
+Log_EWaste_Per_Million,digital,XGBoost,Tripura,1.47009979594,2.203601837158203
+Log_EWaste_Per_Million,digital,XGBoost,Uttarakhand,8.41332855979,4.921821594238281
+Log_EWaste_Per_Million,digital,XGBoost,West Bengal,1.44934295845,2.524876594543457
+Log_EWaste_Per_Million,augmented,Ridge,Andhra Pradesh,3.66981440219,4.510150534921472
+Log_EWaste_Per_Million,augmented,Ridge,Assam,1.06672441204,3.1994184635081497
+Log_EWaste_Per_Million,augmented,Ridge,Bihar,0.286701358069,2.2021121704141704
+Log_EWaste_Per_Million,augmented,Ridge,Chhattisgarh,4.95423523675,2.474659198010375
+Log_EWaste_Per_Million,augmented,Ridge,Gujarat,6.08047578118,4.442559511272332
+Log_EWaste_Per_Million,augmented,Ridge,Haryana,9.02128938909,5.386978806292971
+Log_EWaste_Per_Million,augmented,Ridge,Himachal Pradesh,3.93947423683,4.929234794474379
+Log_EWaste_Per_Million,augmented,Ridge,Jharkhand,2.35053312382,2.1680714166614146
+Log_EWaste_Per_Million,augmented,Ridge,Karnataka,6.37239767026,6.136699810496593
+Log_EWaste_Per_Million,augmented,Ridge,Kerala,3.58805398044,6.421793686469699
+Log_EWaste_Per_Million,augmented,Ridge,Madhya Pradesh,2.0180405241,3.2829991507717056
+Log_EWaste_Per_Million,augmented,Ridge,Maharashtra,5.00901821757,6.148529955403194
+Log_EWaste_Per_Million,augmented,Ridge,Mizoram,2.57886109956,4.197171585769763
+Log_EWaste_Per_Million,augmented,Ridge,Odisha,2.43608673172,3.46505923591788
+Log_EWaste_Per_Million,augmented,Ridge,Punjab,6.83977001422,4.321067357315222
+Log_EWaste_Per_Million,augmented,Ridge,Rajasthan,5.86609153864,3.7066808307708516
+Log_EWaste_Per_Million,augmented,Ridge,Sikkim,2.6021432672,6.094487894079547
+Log_EWaste_Per_Million,augmented,Ridge,Tamil Nadu,6.01178803911,5.30195162911227
+Log_EWaste_Per_Million,augmented,Ridge,Telangana,7.02183848673,6.959508042254232
+Log_EWaste_Per_Million,augmented,Ridge,Tripura,1.47009979594,2.5443070931523586
+Log_EWaste_Per_Million,augmented,Ridge,Uttarakhand,8.41332855979,4.256999738098237
+Log_EWaste_Per_Million,augmented,Ridge,West Bengal,1.44934295845,3.777875198425192
+Log_EWaste_Per_Million,augmented,ElasticNet,Andhra Pradesh,3.66981440219,4.411103487502407
+Log_EWaste_Per_Million,augmented,ElasticNet,Assam,1.06672441204,3.460610734310069
+Log_EWaste_Per_Million,augmented,ElasticNet,Bihar,0.286701358069,2.7423032291861427
+Log_EWaste_Per_Million,augmented,ElasticNet,Chhattisgarh,4.95423523675,2.9235530409879003
+Log_EWaste_Per_Million,augmented,ElasticNet,Gujarat,6.08047578118,4.244613955413249
+Log_EWaste_Per_Million,augmented,ElasticNet,Haryana,9.02128938909,4.968630578617152
+Log_EWaste_Per_Million,augmented,ElasticNet,Himachal Pradesh,3.93947423683,4.703779597350626
+Log_EWaste_Per_Million,augmented,ElasticNet,Jharkhand,2.35053312382,1.5138440230200279
+Log_EWaste_Per_Million,augmented,ElasticNet,Karnataka,6.37239767026,5.565599547245082
+Log_EWaste_Per_Million,augmented,ElasticNet,Kerala,3.58805398044,7.031727226249791
+Log_EWaste_Per_Million,augmented,ElasticNet,Madhya Pradesh,2.0180405241,3.4790320978755376
+Log_EWaste_Per_Million,augmented,ElasticNet,Maharashtra,5.00901821757,5.516937836762104
+Log_EWaste_Per_Million,augmented,ElasticNet,Mizoram,2.57886109956,4.621541828098311
+Log_EWaste_Per_Million,augmented,ElasticNet,Odisha,2.43608673172,3.649128814591582
+Log_EWaste_Per_Million,augmented,ElasticNet,Punjab,6.83977001422,4.198427539131424
+Log_EWaste_Per_Million,augmented,ElasticNet,Rajasthan,5.86609153864,3.7127565527694015
+Log_EWaste_Per_Million,augmented,ElasticNet,Sikkim,2.6021432672,6.219092655281184
+Log_EWaste_Per_Million,augmented,ElasticNet,Tamil Nadu,6.01178803911,4.8511375555359715
+Log_EWaste_Per_Million,augmented,ElasticNet,Telangana,7.02183848673,6.368116084189323
+Log_EWaste_Per_Million,augmented,ElasticNet,Tripura,1.47009979594,3.2798597885501706
+Log_EWaste_Per_Million,augmented,ElasticNet,Uttarakhand,8.41332855979,4.266357996456004
+Log_EWaste_Per_Million,augmented,ElasticNet,West Bengal,1.44934295845,3.783882290293238
+Log_EWaste_Per_Million,augmented,RandomForest,Andhra Pradesh,3.66981440219,4.967456149087697
+Log_EWaste_Per_Million,augmented,RandomForest,Assam,1.06672441204,2.582457748194786
+Log_EWaste_Per_Million,augmented,RandomForest,Bihar,0.286701358069,2.5757448728116428
+Log_EWaste_Per_Million,augmented,RandomForest,Chhattisgarh,4.95423523675,1.959043225644122
+Log_EWaste_Per_Million,augmented,RandomForest,Gujarat,6.08047578118,4.418457588927837
+Log_EWaste_Per_Million,augmented,RandomForest,Haryana,9.02128938909,4.7841309805812084
+Log_EWaste_Per_Million,augmented,RandomForest,Himachal Pradesh,3.93947423683,4.979196576183445
+Log_EWaste_Per_Million,augmented,RandomForest,Jharkhand,2.35053312382,2.3774966375347906
+Log_EWaste_Per_Million,augmented,RandomForest,Karnataka,6.37239767026,5.808122696752255
+Log_EWaste_Per_Million,augmented,RandomForest,Kerala,3.58805398044,5.751100291434181
+Log_EWaste_Per_Million,augmented,RandomForest,Madhya Pradesh,2.0180405241,3.2558828206728783
+Log_EWaste_Per_Million,augmented,RandomForest,Maharashtra,5.00901821757,5.655671560751848
+Log_EWaste_Per_Million,augmented,RandomForest,Mizoram,2.57886109956,5.101616360893897
+Log_EWaste_Per_Million,augmented,RandomForest,Odisha,2.43608673172,3.22721112653027
+Log_EWaste_Per_Million,augmented,RandomForest,Punjab,6.83977001422,3.273121775928982
+Log_EWaste_Per_Million,augmented,RandomForest,Rajasthan,5.86609153864,2.6741492800911844
+Log_EWaste_Per_Million,augmented,RandomForest,Sikkim,2.6021432672,6.281910740167095
+Log_EWaste_Per_Million,augmented,RandomForest,Tamil Nadu,6.01178803911,5.593348480311404
+Log_EWaste_Per_Million,augmented,RandomForest,Telangana,7.02183848673,5.434849845704203
+Log_EWaste_Per_Million,augmented,RandomForest,Tripura,1.47009979594,3.4546944878248227
+Log_EWaste_Per_Million,augmented,RandomForest,Uttarakhand,8.41332855979,4.470761965388396
+Log_EWaste_Per_Million,augmented,RandomForest,West Bengal,1.44934295845,3.7003251411840874
+Log_EWaste_Per_Million,augmented,XGBoost,Andhra Pradesh,3.66981440219,5.320156097412109
+Log_EWaste_Per_Million,augmented,XGBoost,Assam,1.06672441204,3.5923643112182617
+Log_EWaste_Per_Million,augmented,XGBoost,Bihar,0.286701358069,2.713625907897949
+Log_EWaste_Per_Million,augmented,XGBoost,Chhattisgarh,4.95423523675,2.2703232765197754
+Log_EWaste_Per_Million,augmented,XGBoost,Gujarat,6.08047578118,4.059701442718506
+Log_EWaste_Per_Million,augmented,XGBoost,Haryana,9.02128938909,4.653644561767578
+Log_EWaste_Per_Million,augmented,XGBoost,Himachal Pradesh,3.93947423683,4.210934638977051
+Log_EWaste_Per_Million,augmented,XGBoost,Jharkhand,2.35053312382,2.2780749797821045
+Log_EWaste_Per_Million,augmented,XGBoost,Karnataka,6.37239767026,5.9884257316589355
+Log_EWaste_Per_Million,augmented,XGBoost,Kerala,3.58805398044,6.020567417144775
+Log_EWaste_Per_Million,augmented,XGBoost,Madhya Pradesh,2.0180405241,2.891767978668213
+Log_EWaste_Per_Million,augmented,XGBoost,Maharashtra,5.00901821757,5.626728534698486
+Log_EWaste_Per_Million,augmented,XGBoost,Mizoram,2.57886109956,4.974485874176025
+Log_EWaste_Per_Million,augmented,XGBoost,Odisha,2.43608673172,2.9115896224975586
+Log_EWaste_Per_Million,augmented,XGBoost,Punjab,6.83977001422,4.089560508728027
+Log_EWaste_Per_Million,augmented,XGBoost,Rajasthan,5.86609153864,2.681586980819702
+Log_EWaste_Per_Million,augmented,XGBoost,Sikkim,2.6021432672,6.874111652374268
+Log_EWaste_Per_Million,augmented,XGBoost,Tamil Nadu,6.01178803911,5.185124397277832
+Log_EWaste_Per_Million,augmented,XGBoost,Telangana,7.02183848673,5.510800361633301
+Log_EWaste_Per_Million,augmented,XGBoost,Tripura,1.47009979594,2.997529983520508
+Log_EWaste_Per_Million,augmented,XGBoost,Uttarakhand,8.41332855979,4.392882823944092
+Log_EWaste_Per_Million,augmented,XGBoost,West Bengal,1.44934295845,2.896852970123291
+SDG_Index_Score,none,TrainingMean,Andhra Pradesh,74.0,71.28571428571429
+SDG_Index_Score,none,TrainingMean,Assam,65.0,71.71428571428571
+SDG_Index_Score,none,TrainingMean,Bihar,57.0,72.0952380952381
+SDG_Index_Score,none,TrainingMean,Chhattisgarh,67.0,71.61904761904762
+SDG_Index_Score,none,TrainingMean,Gujarat,74.0,71.28571428571429
+SDG_Index_Score,none,TrainingMean,Haryana,72.0,71.38095238095238
+SDG_Index_Score,none,TrainingMean,Himachal Pradesh,77.0,71.14285714285714
+SDG_Index_Score,none,TrainingMean,Jharkhand,62.0,71.85714285714286
+SDG_Index_Score,none,TrainingMean,Karnataka,75.0,71.23809523809524
+SDG_Index_Score,none,TrainingMean,Kerala,79.0,71.04761904761905
+SDG_Index_Score,none,TrainingMean,Madhya Pradesh,67.0,71.61904761904762
+SDG_Index_Score,none,TrainingMean,Maharashtra,73.0,71.33333333333333
+SDG_Index_Score,none,TrainingMean,Mizoram,72.0,71.38095238095238
+SDG_Index_Score,none,TrainingMean,Odisha,66.0,71.66666666666667
+SDG_Index_Score,none,TrainingMean,Punjab,76.0,71.19047619047619
+SDG_Index_Score,none,TrainingMean,Rajasthan,67.0,71.61904761904762
+SDG_Index_Score,none,TrainingMean,Sikkim,76.0,71.19047619047619
+SDG_Index_Score,none,TrainingMean,Tamil Nadu,78.0,71.0952380952381
+SDG_Index_Score,none,TrainingMean,Telangana,74.0,71.28571428571429
+SDG_Index_Score,none,TrainingMean,Tripura,71.0,71.42857142857143
+SDG_Index_Score,none,TrainingMean,Uttarakhand,79.0,71.04761904761905
+SDG_Index_Score,none,TrainingMean,West Bengal,70.0,71.47619047619048
+SDG_Index_Score,digital,Ridge,Andhra Pradesh,74.0,68.88759360608734
+SDG_Index_Score,digital,Ridge,Assam,65.0,66.93431055739332
+SDG_Index_Score,digital,Ridge,Bihar,57.0,64.03675184647703
+SDG_Index_Score,digital,Ridge,Chhattisgarh,67.0,65.66575163910078
+SDG_Index_Score,digital,Ridge,Gujarat,74.0,70.685972826479
+SDG_Index_Score,digital,Ridge,Haryana,72.0,78.16271378916086
+SDG_Index_Score,digital,Ridge,Himachal Pradesh,77.0,77.48518191465908
+SDG_Index_Score,digital,Ridge,Jharkhand,62.0,64.61079290301694
+SDG_Index_Score,digital,Ridge,Karnataka,75.0,73.62074329276524
+SDG_Index_Score,digital,Ridge,Kerala,79.0,77.47883305234446
+SDG_Index_Score,digital,Ridge,Madhya Pradesh,67.0,65.65678650946185
+SDG_Index_Score,digital,Ridge,Maharashtra,73.0,73.53520198783633
+SDG_Index_Score,digital,Ridge,Mizoram,72.0,77.14251791939358
+SDG_Index_Score,digital,Ridge,Odisha,66.0,67.78671631497424
+SDG_Index_Score,digital,Ridge,Punjab,76.0,75.4010148252897
+SDG_Index_Score,digital,Ridge,Rajasthan,67.0,68.875692308974
+SDG_Index_Score,digital,Ridge,Sikkim,76.0,76.4770765631488
+SDG_Index_Score,digital,Ridge,Tamil Nadu,78.0,73.71915833226048
+SDG_Index_Score,digital,Ridge,Telangana,74.0,76.88465963807312
+SDG_Index_Score,digital,Ridge,Tripura,71.0,67.61669678258427
+SDG_Index_Score,digital,Ridge,Uttarakhand,79.0,74.38184210682967
+SDG_Index_Score,digital,Ridge,West Bengal,70.0,68.48812881411104
+SDG_Index_Score,digital,ElasticNet,Andhra Pradesh,74.0,68.90741033841944
+SDG_Index_Score,digital,ElasticNet,Assam,65.0,67.06730850665761
+SDG_Index_Score,digital,ElasticNet,Bihar,57.0,63.9861678319954
+SDG_Index_Score,digital,ElasticNet,Chhattisgarh,67.0,65.62459080540273
+SDG_Index_Score,digital,ElasticNet,Gujarat,74.0,70.73165676786907
+SDG_Index_Score,digital,ElasticNet,Haryana,72.0,77.95527845335799
+SDG_Index_Score,digital,ElasticNet,Himachal Pradesh,77.0,77.42792162502093
+SDG_Index_Score,digital,ElasticNet,Jharkhand,62.0,64.849210735159
+SDG_Index_Score,digital,ElasticNet,Karnataka,75.0,73.68762762116337
+SDG_Index_Score,digital,ElasticNet,Kerala,79.0,77.22351609473678
+SDG_Index_Score,digital,ElasticNet,Madhya Pradesh,67.0,65.72817028984896
+SDG_Index_Score,digital,ElasticNet,Maharashtra,73.0,73.40675421555913
+SDG_Index_Score,digital,ElasticNet,Mizoram,72.0,77.14343244557078
+SDG_Index_Score,digital,ElasticNet,Odisha,66.0,67.91282495849174
+SDG_Index_Score,digital,ElasticNet,Punjab,76.0,75.54476261906305
+SDG_Index_Score,digital,ElasticNet,Rajasthan,67.0,68.96483855091576
+SDG_Index_Score,digital,ElasticNet,Sikkim,76.0,76.55194294240457
+SDG_Index_Score,digital,ElasticNet,Tamil Nadu,78.0,73.63264519075483
+SDG_Index_Score,digital,ElasticNet,Telangana,74.0,76.73836755860007
+SDG_Index_Score,digital,ElasticNet,Tripura,71.0,67.73479190475469
+SDG_Index_Score,digital,ElasticNet,Uttarakhand,79.0,74.27711184539548
+SDG_Index_Score,digital,ElasticNet,West Bengal,70.0,68.57104113482245
+SDG_Index_Score,digital,RandomForest,Andhra Pradesh,74.0,69.88929960317463
+SDG_Index_Score,digital,RandomForest,Assam,65.0,66.02248809523812
+SDG_Index_Score,digital,RandomForest,Bihar,57.0,66.79620238095237
+SDG_Index_Score,digital,RandomForest,Chhattisgarh,67.0,64.242625
+SDG_Index_Score,digital,RandomForest,Gujarat,74.0,72.91774404761907
+SDG_Index_Score,digital,RandomForest,Haryana,72.0,76.39296031746034
+SDG_Index_Score,digital,RandomForest,Himachal Pradesh,77.0,74.95689880952382
+SDG_Index_Score,digital,RandomForest,Jharkhand,62.0,64.66498214285718
+SDG_Index_Score,digital,RandomForest,Karnataka,75.0,74.1802976190476
+SDG_Index_Score,digital,RandomForest,Kerala,79.0,76.04620238095242
+SDG_Index_Score,digital,RandomForest,Madhya Pradesh,67.0,64.99871428571433
+SDG_Index_Score,digital,RandomForest,Maharashtra,73.0,74.46089484126983
+SDG_Index_Score,digital,RandomForest,Mizoram,72.0,75.98984722222227
+SDG_Index_Score,digital,RandomForest,Odisha,66.0,69.3405588023088
+SDG_Index_Score,digital,RandomForest,Punjab,76.0,74.21127976190475
+SDG_Index_Score,digital,RandomForest,Rajasthan,67.0,72.06859722222224
+SDG_Index_Score,digital,RandomForest,Sikkim,76.0,76.25907936507934
+SDG_Index_Score,digital,RandomForest,Tamil Nadu,78.0,75.71474603174607
+SDG_Index_Score,digital,RandomForest,Telangana,74.0,74.74059523809525
+SDG_Index_Score,digital,RandomForest,Tripura,71.0,65.29868849206346
+SDG_Index_Score,digital,RandomForest,Uttarakhand,79.0,75.97936038961038
+SDG_Index_Score,digital,RandomForest,West Bengal,70.0,68.79059523809524
+SDG_Index_Score,digital,XGBoost,Andhra Pradesh,74.0,71.35641479492188
+SDG_Index_Score,digital,XGBoost,Assam,65.0,65.22567749023438
+SDG_Index_Score,digital,XGBoost,Bihar,57.0,65.50025177001953
+SDG_Index_Score,digital,XGBoost,Chhattisgarh,67.0,62.89570617675781
+SDG_Index_Score,digital,XGBoost,Gujarat,74.0,73.08076477050781
+SDG_Index_Score,digital,XGBoost,Haryana,72.0,76.03736114501953
+SDG_Index_Score,digital,XGBoost,Himachal Pradesh,77.0,72.5882797241211
+SDG_Index_Score,digital,XGBoost,Jharkhand,62.0,63.33441162109375
+SDG_Index_Score,digital,XGBoost,Karnataka,75.0,73.1890869140625
+SDG_Index_Score,digital,XGBoost,Kerala,79.0,75.78848266601562
+SDG_Index_Score,digital,XGBoost,Madhya Pradesh,67.0,66.27336120605469
+SDG_Index_Score,digital,XGBoost,Maharashtra,73.0,73.71443176269531
+SDG_Index_Score,digital,XGBoost,Mizoram,72.0,75.8948974609375
+SDG_Index_Score,digital,XGBoost,Odisha,66.0,67.84284973144531
+SDG_Index_Score,digital,XGBoost,Punjab,76.0,73.87400817871094
+SDG_Index_Score,digital,XGBoost,Rajasthan,67.0,74.86202239990234
+SDG_Index_Score,digital,XGBoost,Sikkim,76.0,76.52471923828125
+SDG_Index_Score,digital,XGBoost,Tamil Nadu,78.0,75.73400115966797
+SDG_Index_Score,digital,XGBoost,Telangana,74.0,75.3699951171875
+SDG_Index_Score,digital,XGBoost,Tripura,71.0,64.62903594970703
+SDG_Index_Score,digital,XGBoost,Uttarakhand,79.0,74.66790008544922
+SDG_Index_Score,digital,XGBoost,West Bengal,70.0,67.02226257324219
+SDG_Index_Score,augmented,Ridge,Andhra Pradesh,74.0,70.32034098302213
+SDG_Index_Score,augmented,Ridge,Assam,65.0,66.58447051280594
+SDG_Index_Score,augmented,Ridge,Bihar,57.0,63.06635269374402
+SDG_Index_Score,augmented,Ridge,Chhattisgarh,67.0,66.23186111497067
+SDG_Index_Score,augmented,Ridge,Gujarat,74.0,74.76326376770942
+SDG_Index_Score,augmented,Ridge,Haryana,72.0,78.43198509784258
+SDG_Index_Score,augmented,Ridge,Himachal Pradesh,77.0,70.62318371073928
+SDG_Index_Score,augmented,Ridge,Jharkhand,62.0,63.852764598720434
+SDG_Index_Score,augmented,Ridge,Karnataka,75.0,74.32726213442591
+SDG_Index_Score,augmented,Ridge,Kerala,79.0,77.9406952447501
+SDG_Index_Score,augmented,Ridge,Madhya Pradesh,67.0,66.16464710047639
+SDG_Index_Score,augmented,Ridge,Maharashtra,73.0,74.12637523309671
+SDG_Index_Score,augmented,Ridge,Mizoram,72.0,76.71455320902841
+SDG_Index_Score,augmented,Ridge,Odisha,66.0,67.20622252971995
+SDG_Index_Score,augmented,Ridge,Punjab,76.0,74.34319791625418
+SDG_Index_Score,augmented,Ridge,Rajasthan,67.0,69.02887170964307
+SDG_Index_Score,augmented,Ridge,Sikkim,76.0,82.64653012964975
+SDG_Index_Score,augmented,Ridge,Tamil Nadu,78.0,75.93322159590073
+SDG_Index_Score,augmented,Ridge,Telangana,74.0,73.86906353121087
+SDG_Index_Score,augmented,Ridge,Tripura,71.0,66.75388066276031
+SDG_Index_Score,augmented,Ridge,Uttarakhand,79.0,73.14802240924278
+SDG_Index_Score,augmented,Ridge,West Bengal,70.0,69.38094451419516
+SDG_Index_Score,augmented,ElasticNet,Andhra Pradesh,74.0,70.36908294058212
+SDG_Index_Score,augmented,ElasticNet,Assam,65.0,66.61068176606246
+SDG_Index_Score,augmented,ElasticNet,Bihar,57.0,64.38269174445608
+SDG_Index_Score,augmented,ElasticNet,Chhattisgarh,67.0,66.36328158226712
+SDG_Index_Score,augmented,ElasticNet,Gujarat,74.0,72.86066477823677
+SDG_Index_Score,augmented,ElasticNet,Haryana,72.0,78.38153177903834
+SDG_Index_Score,augmented,ElasticNet,Himachal Pradesh,77.0,70.78698327282783
+SDG_Index_Score,augmented,ElasticNet,Jharkhand,62.0,64.18686685742175
+SDG_Index_Score,augmented,ElasticNet,Karnataka,75.0,74.41354530899035
+SDG_Index_Score,augmented,ElasticNet,Kerala,79.0,77.74396935748959
+SDG_Index_Score,augmented,ElasticNet,Madhya Pradesh,67.0,66.25901427752964
+SDG_Index_Score,augmented,ElasticNet,Maharashtra,73.0,74.1512749609047
+SDG_Index_Score,augmented,ElasticNet,Mizoram,72.0,76.91318745549653
+SDG_Index_Score,augmented,ElasticNet,Odisha,66.0,67.25547512299022
+SDG_Index_Score,augmented,ElasticNet,Punjab,76.0,74.03881244182622
+SDG_Index_Score,augmented,ElasticNet,Rajasthan,67.0,68.9520826880446
+SDG_Index_Score,augmented,ElasticNet,Sikkim,76.0,82.50933832106668
+SDG_Index_Score,augmented,ElasticNet,Tamil Nadu,78.0,75.53925508932649
+SDG_Index_Score,augmented,ElasticNet,Telangana,74.0,74.80667663300889
+SDG_Index_Score,augmented,ElasticNet,Tripura,71.0,66.81359778189591
+SDG_Index_Score,augmented,ElasticNet,Uttarakhand,79.0,73.1463608806295
+SDG_Index_Score,augmented,ElasticNet,West Bengal,70.0,69.35261773732654
+SDG_Index_Score,augmented,RandomForest,Andhra Pradesh,74.0,72.63376853701858
+SDG_Index_Score,augmented,RandomForest,Assam,65.0,64.79703571428573
+SDG_Index_Score,augmented,RandomForest,Bihar,57.0,65.48292261904764
+SDG_Index_Score,augmented,RandomForest,Chhattisgarh,67.0,65.23792063492064
+SDG_Index_Score,augmented,RandomForest,Gujarat,74.0,74.45059722222223
+SDG_Index_Score,augmented,RandomForest,Haryana,72.0,76.54413888888885
+SDG_Index_Score,augmented,RandomForest,Himachal Pradesh,77.0,71.32453058053058
+SDG_Index_Score,augmented,RandomForest,Jharkhand,62.0,65.97643885281386
+SDG_Index_Score,augmented,RandomForest,Karnataka,75.0,74.56923215673213
+SDG_Index_Score,augmented,RandomForest,Kerala,79.0,74.94341668054167
+SDG_Index_Score,augmented,RandomForest,Madhya Pradesh,67.0,65.76231425518928
+SDG_Index_Score,augmented,RandomForest,Maharashtra,73.0,75.04931225718728
+SDG_Index_Score,augmented,RandomForest,Mizoram,72.0,76.81795039682542
+SDG_Index_Score,augmented,RandomForest,Odisha,66.0,67.20701635864138
+SDG_Index_Score,augmented,RandomForest,Punjab,76.0,73.83661797924292
+SDG_Index_Score,augmented,RandomForest,Rajasthan,67.0,71.57923076923079
+SDG_Index_Score,augmented,RandomForest,Sikkim,76.0,74.97350965700969
+SDG_Index_Score,augmented,RandomForest,Tamil Nadu,78.0,74.46858345820844
+SDG_Index_Score,augmented,RandomForest,Telangana,74.0,75.07766405816409
+SDG_Index_Score,augmented,RandomForest,Tripura,71.0,67.10250144300143
+SDG_Index_Score,augmented,RandomForest,Uttarakhand,79.0,74.3617381923632
+SDG_Index_Score,augmented,RandomForest,West Bengal,70.0,67.4722932900433
+SDG_Index_Score,augmented,XGBoost,Andhra Pradesh,74.0,75.08541107177734
+SDG_Index_Score,augmented,XGBoost,Assam,65.0,64.95877838134766
+SDG_Index_Score,augmented,XGBoost,Bihar,57.0,65.650390625
+SDG_Index_Score,augmented,XGBoost,Chhattisgarh,67.0,64.57679748535156
+SDG_Index_Score,augmented,XGBoost,Gujarat,74.0,74.59197998046875
+SDG_Index_Score,augmented,XGBoost,Haryana,72.0,78.0119400024414
+SDG_Index_Score,augmented,XGBoost,Himachal Pradesh,77.0,69.07093048095703
+SDG_Index_Score,augmented,XGBoost,Jharkhand,62.0,63.915321350097656
+SDG_Index_Score,augmented,XGBoost,Karnataka,75.0,73.2112045288086
+SDG_Index_Score,augmented,XGBoost,Kerala,79.0,75.45097351074219
+SDG_Index_Score,augmented,XGBoost,Madhya Pradesh,67.0,64.71361541748047
+SDG_Index_Score,augmented,XGBoost,Maharashtra,73.0,73.96038055419922
+SDG_Index_Score,augmented,XGBoost,Mizoram,72.0,77.06622314453125
+SDG_Index_Score,augmented,XGBoost,Odisha,66.0,65.91693878173828
+SDG_Index_Score,augmented,XGBoost,Punjab,76.0,74.4473648071289
+SDG_Index_Score,augmented,XGBoost,Rajasthan,67.0,71.77503967285156
+SDG_Index_Score,augmented,XGBoost,Sikkim,76.0,76.28726959228516
+SDG_Index_Score,augmented,XGBoost,Tamil Nadu,78.0,75.68474578857422
+SDG_Index_Score,augmented,XGBoost,Telangana,74.0,74.97752380371094
+SDG_Index_Score,augmented,XGBoost,Tripura,71.0,67.56078338623047
+SDG_Index_Score,augmented,XGBoost,Uttarakhand,79.0,74.76274108886719
+SDG_Index_Score,augmented,XGBoost,West Bengal,70.0,66.48921203613281

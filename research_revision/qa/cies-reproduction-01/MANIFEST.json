@@ -1,0 +1,1957 @@
+[
+  {
+    "file": "README.txt",
+    "sha256": "d0564414c8664a77c1c7483b8abb6efc5181a1db3e33c77d067d527d847b0f0f",
+    "bytes": 2733
+  },
+  {
+    "file": "data/raw/niti_sdg_index_2023_24.csv",
+    "sha256": "01850a3b32129b6e6f2685da5d6129e372c4f2998cbd1de601d813e46b6693b2",
+    "bytes": 1453
+  },
+  {
+    "file": "data/unified_state_dataset.csv",
+    "sha256": "531b0b6b2b00b45d448d5986ba5711ffc7953f73b402919b29d2084ca6d5718d",
+    "bytes": 1791
+  },
+  {
+    "file": "research_revision/ANALYSIS_PROTOCOL.md",
+    "sha256": "74a3cf32f21f8da41f5a01219fe2920ae344c6914344b0d9c351c26d3235a0b2",
+    "bytes": 4048
+  },
+  {
+    "file": "research_revision/DATA_PROVENANCE.md",
+    "sha256": "f04a5215f8d4266bcb57f42ac15cffe998e8ab675df152844f2a3529dbaafcc1",
+    "bytes": 6100
+  },
+  {
+    "file": "research_revision/data/raw/cpcb_ewaste_2021_22.csv",
+    "sha256": "4829d42bc29cc5735977fac4436a55ee1c80d91da4bdfdf8691c298aac37a8d2",
+    "bytes": 1456
+  },
+  {
+    "file": "research_revision/data/raw/nsdp_2023_24.csv",
+    "sha256": "df333d994040d29b9d2adc634e955976a82bc99637505374e180e1ea80dce175",
+    "bytes": 2117
+  },
+  {
+    "file": "research_revision/data/raw/population_2021.csv",
+    "sha256": "8394290da1e524651be618efba819c06276eeb149a9385df75d4562dcf921473",
+    "bytes": 1618
+  },
+  {
+    "file": "research_revision/data/raw/sdg_2023_24.csv",
+    "sha256": "9582c12d629ee18811607b098b269dd0015b9f08e25c6a2490e0772b27db4f40",
+    "bytes": 2495
+  },
+  {
+    "file": "research_revision/data/raw/trai_teledensity_2024_06.csv",
+    "sha256": "fe072eaffb60a50fa668f92b98abdd17415af58963455d732ef12d3263a15b7c",
+    "bytes": 1711
+  },
+  {
+    "file": "research_revision/data/raw/upi_percapita_2024_25.csv",
+    "sha256": "85e13aac10a3008427abeeb0dd543e7a1e4646e37da421d1002d82da9cf9d25c",
+    "bytes": 1263
+  },
+  {
+    "file": "research_revision/data/raw/urban_share_2021.csv",
+    "sha256": "9defbf41b88677677ad44373239fa165dc81a87c53d3b98ac950f5c4e0276f5d",
+    "bytes": 1583
+  },
+  {
+    "file": "research_revision/data/revised_state_dataset.csv",
+    "sha256": "c88029332e6d8ab5e372f365098ceb6288d4da45086b11f7784a06f09c23a945",
+    "bytes": 4929
+  },
+  {
+    "file": "research_revision/data/sample_coverage.csv",
+    "sha256": "815186af301fd6c0fcb08ea5f2a90010085780e1ed5ce5a642729c82a202d796",
+    "bytes": 625
+  },
+  {
+    "file": "research_revision/evidence/cpcb_pib.html",
+    "sha256": "c49ab16a458fb8fdeb03c898385d78e3a784dce7a7c4e9c7d67f4e9ba013f68c",
+    "bytes": 81808
+  },
+  {
+    "file": "research_revision/evidence/cpcb_pib_table.json",
+    "sha256": "7714c7ccd81ff11b34ddafeff0319d725e493751d9376aa34f61152625c44f91",
+    "bytes": 2003
+  },
+  {
+    "file": "research_revision/evidence/mohfw_population_projection_2020_mirror.txt",
+    "sha256": "cd435cd630d239b36ca2cc557e9b8b44be17c60ea78cae57705efa119db186b5",
+    "bytes": 965592
+  },
+  {
+    "file": "research_revision/evidence/nsdp_economic_survey_2025_26.txt",
+    "sha256": "a1da0b85815f8f12944f160f5d96caff476e7c8877fe2d0d8d4a48e77196aa1a",
+    "bytes": 4837
+  },
+  {
+    "file": "research_revision/evidence/sdg_india_2023_24.txt",
+    "sha256": "f35e36268f47cccefdce2403aba5f15911a3bb156540e526caa500acce415e25",
+    "bytes": 356
+  },
+  {
+    "file": "research_revision/evidence/sdg_state_ranking_pib.jpeg",
+    "sha256": "4c6c73d69006fb9492007e793dc2f6648a1a6228209b37c2b654752a3e0f256f",
+    "bytes": 91633
+  },
+  {
+    "file": "research_revision/evidence/source_urls.json",
+    "sha256": "f6ea9fe564493b470f83bf1b3915ba8d8c3fab78f1039fb5ae68a6dd86495c0a",
+    "bytes": 367
+  },
+  {
+    "file": "research_revision/evidence/trai_pib.html",
+    "sha256": "64755170f2cfea122d055704340cc274de8b23e389ccef0d824f81d309e93d99",
+    "bytes": 77919
+  },
+  {
+    "file": "research_revision/evidence/trai_pib_table.json",
+    "sha256": "3ab2372a346d86dc155142e6d128360c602b55c2846a1963ac2e26b7b6e4a9f4",
+    "bytes": 1989
+  },
+  {
+    "file": "research_revision/requirements.lock.txt",
+    "sha256": "e033f8f95675a8b7685846a0b8a1b98d3d72b8e0bbc154b9e8daa3d81568b3ca",
+    "bytes": 680
+  },
+  {
+    "file": "research_revision/results/descriptive_statistics.csv",
+    "sha256": "5f95fe9762228d269c443cf58b2a9056a53e22b08e69bfa440e8ba3a7e4353a4",
+    "bytes": 2340
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__00.json",
+    "sha256": "569b3f6ad1b52ad889e87bf2c73dbf89d6d8fd8fa4f9528ccd281a99c1838357",
+    "bytes": 3442
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__01.json",
+    "sha256": "9e883069df7a2127d5337122d64dcd846341c1c84ebdb1a776f866e7e8fe3674",
+    "bytes": 3431
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__02.json",
+    "sha256": "c8775db35b47ffdd38863ef7349ac6a1a8792c236cc920b039d748d15a14324e",
+    "bytes": 3435
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__03.json",
+    "sha256": "44b2411724b24fb047d84b9f06c8486427575480432182b96241b1172f3a4c92",
+    "bytes": 3438
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__04.json",
+    "sha256": "eb70d4cb1136dd156580d793f295acb42e25ae658b4529dca6b1ba108c3ab331",
+    "bytes": 3432
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__05.json",
+    "sha256": "e512f152a7dd9ca44e4c69de4c90382b68f282b0ba4784c2c06dab549a5c697b",
+    "bytes": 3436
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__06.json",
+    "sha256": "5192854c1d93cd0f6f97b31248d5e2219296d4977272120b4833744ae43aa4bc",
+    "bytes": 3438
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__07.json",
+    "sha256": "0dad774034b9963f6a3638585dab2a0c69770db6847c7b0cc3b6ad3c06f51992",
+    "bytes": 3439
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__08.json",
+    "sha256": "0a009310b5fb1daecec51222a3304edd8a35c4bd809f9aff75af1a1c21bd5910",
+    "bytes": 3436
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__09.json",
+    "sha256": "b2b27b963768b712a7fc40d1c97194df465f793d995e848781231cbe4b8c1d12",
+    "bytes": 3435
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__10.json",
+    "sha256": "f137a00a918e40eaa7c3825de876cf0b15f91b79ccecfee6228d0dbfca5dd72f",
+    "bytes": 3438
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__11.json",
+    "sha256": "8cbb9204aac10036324fcb34fcf75fe0c7bb5be6b266574972ede6e3739f9c12",
+    "bytes": 3433
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__12.json",
+    "sha256": "e8cd4235f9cb0b9a42d50ceaaf9a65ffe0660d858a80556c7f848593bf46ac16",
+    "bytes": 3432
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__13.json",
+    "sha256": "a975b1a8695fb94ea3638d84a575564953b3e20b612ae50b3e9196bd90872a51",
+    "bytes": 3429
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__14.json",
+    "sha256": "42d4ffa4def54c28c66c8a5c7811051c629bcfbb67acc521768a96f605f22abb",
+    "bytes": 3427
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__15.json",
+    "sha256": "ce6d489c0fc7d6d81e36db71fb4dd341042bf11c6b43c24a90a295dc9f3d6e5d",
+    "bytes": 3431
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__16.json",
+    "sha256": "9b9312c5641ea7e90f3cee9d83f95aa8d2f52849a6aad2d7bc4d4ed0b3dda7a0",
+    "bytes": 3428
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__17.json",
+    "sha256": "009c1a0d863548a8335ae1bb30f0e8df8200020003a8d17a14fadddcd56a34ec",
+    "bytes": 3433
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__18.json",
+    "sha256": "add27d33dff6413c79011cfdc1bd94d0ee0cfd6f2536a8c51cf19fe477b6a227",
+    "bytes": 3434
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__19.json",
+    "sha256": "7b72773c9cc89823ae4980b1cf51c58297a18bc91199c5260788498ce93fd828",
+    "bytes": 3432
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__20.json",
+    "sha256": "17ce50fa899ddfba89722ee1bc0f082d895a5a9c7b0d629a8beb2715f7587bb9",
+    "bytes": 3436
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__ElasticNet__21.json",
+    "sha256": "956eaf43de966efecbf2dfabd640f9edc55399fa19931c19602566464f4148b1",
+    "bytes": 3436
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__00.json",
+    "sha256": "9113511db6e280b247f46647e3ad9878300f4940a69d42c04e7ce9cf69bd6630",
+    "bytes": 2749
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__01.json",
+    "sha256": "7adace49394a70ed1633e06a31929386521720727a0882804da6f4ef90419807",
+    "bytes": 2740
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__02.json",
+    "sha256": "c888da2e33c30d416afca0cd1e1edfec0b9230625a89fcf46d77b177c4a2630a",
+    "bytes": 2742
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__03.json",
+    "sha256": "d644f8750379dc5741af8c134605fbf357513bfe611174f86b33f323ee1be9bd",
+    "bytes": 2745
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__04.json",
+    "sha256": "0f035311dd04c2309b9608b4e28d570facf094c77b998682396811484d8cdbe1",
+    "bytes": 2743
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__05.json",
+    "sha256": "29f25e181fd7e6f91eae90f4f750f5fada08902cebd9a68afe58578ae20ae4d5",
+    "bytes": 2743
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__06.json",
+    "sha256": "3949908fb31d5ca4c015de6c7e2fa6c821f2cc632eecc66c0910195b095f6ab1",
+    "bytes": 2751
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__07.json",
+    "sha256": "6e3a2efad22d6bef17e868ca39c7d20e8ce49344d8c64e16bbc5a09a13793d95",
+    "bytes": 2745
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__08.json",
+    "sha256": "8e9c7c32e9bd73344e3a37d890ed5b72ee5fb5369af448128da3eb56bbe5fcb4",
+    "bytes": 2744
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__09.json",
+    "sha256": "78ad906bcd30c689e0f593571a511f9aeaea5ce9b7d005b794bb97942cdf6296",
+    "bytes": 2741
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__10.json",
+    "sha256": "e6dbd19ca1d25b20753416e83e5ab7b5800f50a548ad9d1bc76afcba30255ae1",
+    "bytes": 2746
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__11.json",
+    "sha256": "6e310b68b68357e4202ffd7f02aea15c7ec47d835ad57f8c46e15a3df86d31be",
+    "bytes": 2743
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__12.json",
+    "sha256": "850b955a7eb4609517addcb47c5ed5531a956cf92cbf2966c0cc2d0a61ada95a",
+    "bytes": 2737
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__13.json",
+    "sha256": "ec10732841e92a4456b63d3ac599b62eea955b289dead51b9190233abfc1a225",
+    "bytes": 2736
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__14.json",
+    "sha256": "0d1c69d3d9fed6624c7e27ba1f5d894301d4913b9974de54e1fe331ca51ea939",
+    "bytes": 2738
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__15.json",
+    "sha256": "7f821d17bf2b59ddc12bec0004cf0ff51a9e56c89796d1063b814d8d8c42e560",
+    "bytes": 2741
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__16.json",
+    "sha256": "f88d3d7c63d096a2fe92f78d763f8f5ea625840c737d576a01a66b77f0f2749c",
+    "bytes": 2738
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__17.json",
+    "sha256": "4958cedecd72da6b46efcf59ddafa5a1a569522f08fc54e9047e1a5a9bb4ecd5",
+    "bytes": 2742
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__18.json",
+    "sha256": "f3a8366da4fd5bf47712d79365c6808a30b6702c042f0e21f13bbd29be631218",
+    "bytes": 2744
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__19.json",
+    "sha256": "9dec4effcde0f570ac8f7881d3c77e3f5e0f4afd570a4db91cd804e6fbb50dac",
+    "bytes": 2740
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__20.json",
+    "sha256": "634a69c554a3991cb574c7734dc2344acfb4960eb86a7da09e4be889ede2dd89",
+    "bytes": 2740
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__RandomForest__21.json",
+    "sha256": "63d71d1e233b1d8175a86f375ee0e3d749939279c306fde2832c47c778c937d4",
+    "bytes": 2745
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__00.json",
+    "sha256": "6f0b7d16a775f3b6a4385405de6274b5cd0659db008b64cce894cd5fc754cff7",
+    "bytes": 2551
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__01.json",
+    "sha256": "70c006db2255096843165321df375df3e98b79d42fa8f40a1cd548129c97f8d3",
+    "bytes": 2542
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__02.json",
+    "sha256": "6cb02f6152f96b4dac7b89df0cb707947291f6a5093e6b7c656de92719ac46a4",
+    "bytes": 2542
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__03.json",
+    "sha256": "db51a14791722236073bafc980ddf9c5f0a19bdcd3a8d3e11c82f358a49573a6",
+    "bytes": 2550
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__04.json",
+    "sha256": "63618ac2b93f229c0f38588d562b2c9a15a377add17a58b7b5cbe7209993d212",
+    "bytes": 2544
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__05.json",
+    "sha256": "44a527154f83f9e84093f19eb431d069ad02239e64fda87e73c535b5c94c0e8b",
+    "bytes": 2545
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__06.json",
+    "sha256": "ba7025fb1092a0206ff51a18249101cab07e2cd2482ef2fe557bb662a01074d6",
+    "bytes": 2553
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__07.json",
+    "sha256": "51be980de476ce3ed7535b7007a1843eed5d69e50e727b4298d9fc5966c20bed",
+    "bytes": 2545
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__08.json",
+    "sha256": "2c66092ccd3a42f293f41a55a1cc3250deb9fb2d8f7074937b7c5124f0bdb9e2",
+    "bytes": 2544
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__09.json",
+    "sha256": "f679298793ba97a58790ae919b00d3796abb70fdd217d8f4c480474015e6e6e9",
+    "bytes": 2544
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__10.json",
+    "sha256": "c7e64ece6a8f480d44e191fe351c07c09ab61f1751027ae7e2eb8b13c2026a83",
+    "bytes": 2545
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__11.json",
+    "sha256": "72f3b49a8366837078ddfd7fe1b32209ee31b3072c57169be3eec4bdcbe8e4b5",
+    "bytes": 2542
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__12.json",
+    "sha256": "d98b4eaaebc3c167d7b4761a64f238014116a5d616d7cae14b2c6fbfaeaca7ef",
+    "bytes": 2540
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__13.json",
+    "sha256": "9267bddc1f520ca97c14388834cc173a72d03ef00363be95e6eb7f733b1e8a9d",
+    "bytes": 2538
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__14.json",
+    "sha256": "d584acc16628f7a8ae0eed8289519e3a77cdfe4b222ff6495bd4a2c19db672e9",
+    "bytes": 2539
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__15.json",
+    "sha256": "87bdc7e0cc87d895d6a5de55e5036853359ba65b20d100222cd3efb1417cbd8f",
+    "bytes": 2543
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__16.json",
+    "sha256": "b975dbc9a9af9b015867822ed1b9b9ea657109b269eec14fdf0d5f7e240d0a5a",
+    "bytes": 2540
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__17.json",
+    "sha256": "651282fc84ce3661272b0807c0f92f40aa4a17d68fbeaaab366d8636a4d0dbac",
+    "bytes": 2542
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__18.json",
+    "sha256": "94b755220d1b8847ca8125b00c1f4aadae6fbb952ba69ae9bae0141bbb1b2e90",
+    "bytes": 2542
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__19.json",
+    "sha256": "799adb582c5cc66b322bfdee42e608f4c6d89b89bd62c23376d91606df461064",
+    "bytes": 2540
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__20.json",
+    "sha256": "a708ca57e0ff9208f3cf72190b4473ef5e7129a9fe84fad256a4311dd6add804",
+    "bytes": 2544
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__Ridge__21.json",
+    "sha256": "d8114b063071b1d0eca3830105851da1897908c1577a287c769997be674689f9",
+    "bytes": 2545
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__00.json",
+    "sha256": "568e73dd3a1daba25e6d791fccea7664abaccfdb31383930f01ad75b8aebc6bf",
+    "bytes": 3988
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__01.json",
+    "sha256": "bb5bf4560b9f1d0316e0311f95260354bb61dab5115823c644fe9bfb99f3866e",
+    "bytes": 3981
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__02.json",
+    "sha256": "37e318bdcb89c9f30d4b56da8a472e46287de57d9f41f03287ddd9839c2af2f3",
+    "bytes": 3982
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__03.json",
+    "sha256": "f9bd289dda7785646cf53c307b9776e2f4c55fb3ef207301ab9c0f7e59584578",
+    "bytes": 3986
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__04.json",
+    "sha256": "2b50525cb50eb9802035a0b6b69077857e18f0ccfdbef1ce956a1146fccc6f81",
+    "bytes": 3979
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__05.json",
+    "sha256": "7ab02be59394c7aa7cb723697890206603173329d63253af4aea388da734be87",
+    "bytes": 3981
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__06.json",
+    "sha256": "a38bc4c70328a5401ea975ae9df03a357961dd5b3540c20ff892838133dbecba",
+    "bytes": 3989
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__07.json",
+    "sha256": "e0f906e7e1c4239233509e39bb6282793af014c185942f832af74e8b176be8ba",
+    "bytes": 3983
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__08.json",
+    "sha256": "bcec861ea314280ecf86b14b7a452b75febb6f39ec378e868159053f7ad4b827",
+    "bytes": 3980
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__09.json",
+    "sha256": "b2f96e863236d3d6b26998f02f75a59988f9d5d8beb77bafc2e2a5eb4ab10d11",
+    "bytes": 3978
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__10.json",
+    "sha256": "564af6fdb9e1fe8a3404e124ee4f86d8012e2416d984dd60a2a2a5a10b150403",
+    "bytes": 3984
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__11.json",
+    "sha256": "bfd857dfdd5ca1db09adecb76721291992ae08d8ee966938c71e46df43fbbaf4",
+    "bytes": 3971
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__12.json",
+    "sha256": "b92a06ffb5e0a67e2b36f60f650529683bc8b42ea7dbc8a843a972e9f286f07f",
+    "bytes": 3977
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__13.json",
+    "sha256": "f28726e884ffe4adbc54fa49d29ef4fbda1f6f692eab9e6818c81d0d28f6d00e",
+    "bytes": 3978
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__14.json",
+    "sha256": "d0d18bec8e63582847542fb45e2a6fe167bf6f13afcef5109d8f668b17339aa7",
+    "bytes": 3975
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__15.json",
+    "sha256": "62e019dc66db7f93354c9fc7a13324b4a4b1a66aaa0cd234d6f68e95e5859efa",
+    "bytes": 3985
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__16.json",
+    "sha256": "65c02bdef47e4e2420b8f0ad082f05febc881c6abad9e48131f0a0ac4f17aec0",
+    "bytes": 3971
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__17.json",
+    "sha256": "1dfeae6986d6e768fba071e336fe0c6e8c702d8f8fd5bb3960787776804f3347",
+    "bytes": 3979
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__18.json",
+    "sha256": "16b824155156ddc8b6b606f55b501b5b35aa1e4636c6af2f8a7c3a38428de93a",
+    "bytes": 3977
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__19.json",
+    "sha256": "534f2476ed513a97efe9864abe50290abdd274f7350e67289892bc281961d08a",
+    "bytes": 3974
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__20.json",
+    "sha256": "090a4fb28e5e48b346893a0bc2dcb55887b0160f6527c8b1246ea7d6ac9642e0",
+    "bytes": 3982
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__augmented__XGBoost__21.json",
+    "sha256": "35caa508cea4bd22ee668c61bfb24600dee2efbde4731f392478f8acdbd09709",
+    "bytes": 3982
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__00.json",
+    "sha256": "2aa115a45c70752c5ce5531d0574642b267e91f7b30f724049b8c1d6e6743cfe",
+    "bytes": 3372
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__01.json",
+    "sha256": "79cb3edb2851b377a17f18a598d42ffa4842b7cabca06ac78c108e3178bfe5a9",
+    "bytes": 3365
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__02.json",
+    "sha256": "d8b8555c9c0d8a252395d5d03979faec18c0b9da1053eb0cc4bf51eb8f9183ad",
+    "bytes": 3365
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__03.json",
+    "sha256": "d56c56b1c424aba82afec2a91d68a915af17b902c432c072c6838e9a4d23e007",
+    "bytes": 3376
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__04.json",
+    "sha256": "6666d51ac1b62823bd640598f687e727d4db5927f49627aed8f819fcd99b070a",
+    "bytes": 3368
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__05.json",
+    "sha256": "ce695047a7332c791bdcf1dec311a97a187859fe08211726859cf28d611614fa",
+    "bytes": 3369
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__06.json",
+    "sha256": "dd954b55dcc74978281a1c0b3170335e01c4e0405b4dc176bb6bf88cd6ecb514",
+    "bytes": 3379
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__07.json",
+    "sha256": "5ac27468c3b00d718ef6241a434d2c49d20d8d932dd6f40c0992900aafc185af",
+    "bytes": 3371
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__08.json",
+    "sha256": "d795782b782b63850e818eaa3468d57c0131b323c2809d642be829dad27f8375",
+    "bytes": 3371
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__09.json",
+    "sha256": "37f279d9d5630cb20bfac7ba560c2cab1dab084972286162c50480a2a7124e0e",
+    "bytes": 3370
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__10.json",
+    "sha256": "467566f99d57aac90ed3f7625104ebea2c12a2dcc845c547bd911e34497c7aa5",
+    "bytes": 3372
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__11.json",
+    "sha256": "f70b80a4f06f70586e47adb3b197e10090db0b132ecb6ec55c9aa9be1e018c30",
+    "bytes": 3368
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__12.json",
+    "sha256": "ba9fdb99362c7fc7c38f04e23d05a9f5d96bc10262af0da1e2a6f4dd851dd833",
+    "bytes": 3362
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__13.json",
+    "sha256": "9b2f9d927fb9ba6a1f8fe688d3e883b40ca1bb24889ca3a16c25dc76f337204d",
+    "bytes": 3363
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__14.json",
+    "sha256": "32bdc1a1215a9d565cf452ca6674fcaf481af823acf7911dd0da86a3cc7c2f55",
+    "bytes": 3363
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__15.json",
+    "sha256": "d4228450d80677d9a1088ff0dbbc7971bdcaeb0470eafbe89174b1a2e9861c1c",
+    "bytes": 3366
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__16.json",
+    "sha256": "49a128a75a51d384ed486f492421df21bba3ee769ed1475a394a7738c8fe6e4b",
+    "bytes": 3362
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__17.json",
+    "sha256": "a148db77c5844f2249404c1e8be353e34208dd1bf743047dfa9518c104d9c39d",
+    "bytes": 3368
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__18.json",
+    "sha256": "a5927e7448f08ed3ff84969a3517ab55bd258513935b146c33a6c6a787bb4bb9",
+    "bytes": 3365
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__19.json",
+    "sha256": "955cfb11dd368689fefcf7595e5004760503fd4c9df3a96b617f822f07f5d35b",
+    "bytes": 3369
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__20.json",
+    "sha256": "c9185866af46eab4ca8df7524c715c5d5e21d306916debe99907df7144d2b2e4",
+    "bytes": 3372
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__ElasticNet__21.json",
+    "sha256": "a7b8405a0314ab83af81b337de65e92b260db4d958d8b1bd6a57f265ef4b13ba",
+    "bytes": 3369
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__00.json",
+    "sha256": "f97e8b048db7e6c41d3dde6ab839301a7f5f79a6aeeb22ea4db6205c3830b427",
+    "bytes": 2683
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__01.json",
+    "sha256": "038208621a0b5fa9f94004d2f171ff408b2e882f2ec66aa31ddb166d9aa59edf",
+    "bytes": 2673
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__02.json",
+    "sha256": "21339b851dc6e64c8927973d1daa20cf236f2289de17bf8a6b1f969633ac106b",
+    "bytes": 2673
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__03.json",
+    "sha256": "36d389b10ce3b318d5527c97ea12166edac569a90caccd67327eb80e30ea26e9",
+    "bytes": 2681
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__04.json",
+    "sha256": "eee57232550b7820cb817a5ac84c2e184aff54a74ead848c4447d6140f5b9949",
+    "bytes": 2678
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__05.json",
+    "sha256": "562027cb679ae8129d6b8123b1d20eb8ee98a76f8dfaa7953750c4c2fa9bf28c",
+    "bytes": 2676
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__06.json",
+    "sha256": "d9108a58b2157d68f0e7fcf498ab59e164cbcdddfcc8e55e35673d83ca59b0ec",
+    "bytes": 2685
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__07.json",
+    "sha256": "600c4c3f1aa3c74cf665c74d406d892cc4899586a2a1cf0d7948ef522458c4ef",
+    "bytes": 2678
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__08.json",
+    "sha256": "7b3b663f3c0e632979a3cbfcc85fee6e4d2e8b55da309e4e4bf0c296f2ca4f01",
+    "bytes": 2681
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__09.json",
+    "sha256": "7290736d922f75863a319fad35d35f3e96bb8ad0bab952f1366c0831d5495d3c",
+    "bytes": 2675
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__10.json",
+    "sha256": "59c9e621e7167fad836c8d71190ecfbd23d370bdaeb46626fa7042520b45db5d",
+    "bytes": 2680
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__11.json",
+    "sha256": "bd6f3b9518a07d1d53f1acbe74808c2e903023be06e8d6bd6d3357145b39f5d3",
+    "bytes": 2677
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__12.json",
+    "sha256": "2894ecf88df6acd7d2de7e41640e4eedf0b2efaa1473656e23feda17b76f7ac2",
+    "bytes": 2671
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__13.json",
+    "sha256": "748cd95992b4bd5c183676649eb3d4196830f753632f680e092cfb0e2db04b8e",
+    "bytes": 2672
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__14.json",
+    "sha256": "ad2d91b562b8f50ab6b861a6413861ccee81cd2dc6669aaecbad1c1f41026df9",
+    "bytes": 2673
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__15.json",
+    "sha256": "8580b9d991f562d417bd60689f3234c66ea080014eba6b4d216edb07e386b5ab",
+    "bytes": 2675
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__16.json",
+    "sha256": "8d024e7af40e63f7f333969e57de0320e29b198f504ae29ba2ca6c397f7c0774",
+    "bytes": 2674
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__17.json",
+    "sha256": "c50ad85b42e063727053195279cab56de304fb06ac28be915a52b1e5b83954f5",
+    "bytes": 2676
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__18.json",
+    "sha256": "36a3dcff195d8e0af83069b17abac1b91d9d3e58a72eb48831d6028501f2f339",
+    "bytes": 2676
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__19.json",
+    "sha256": "95322c09d0d19701e3e9766e51238fb7ef66a5e785b5a453286e2231ce4176d6",
+    "bytes": 2675
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__20.json",
+    "sha256": "3350e93e42412acddffe67ad04a1481a234b6dccad95541e01d84b07494d7e37",
+    "bytes": 2678
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__RandomForest__21.json",
+    "sha256": "78d22dade7e1945069f1f67a8d69b7256131de4beedc4d475842d18ff1d6f951",
+    "bytes": 2677
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__00.json",
+    "sha256": "c7136f5032304d508e50184c0c61bbe7c6e25cc41cef99276c475414772076ba",
+    "bytes": 2482
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__01.json",
+    "sha256": "766294b5aec748642a3b31fa0e4b28bed69e2033db1a86ee7f285bad5383ec66",
+    "bytes": 2473
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__02.json",
+    "sha256": "1e7ba8c7bbb363fbe4ab045100bfa02083a9af640fbe304f196167adf04311d3",
+    "bytes": 2475
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__03.json",
+    "sha256": "b47591f5e941311f3f149960337c54d92e16172a30fc7d816104a611923b11af",
+    "bytes": 2485
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__04.json",
+    "sha256": "377ed08a0c71199aa06866f2e346389a086f3bc92dcccc4f7fec7360ede1bd60",
+    "bytes": 2475
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__05.json",
+    "sha256": "338487c9c143a6f0a7b92061dda23393fb36f6c541f26f2283221ba2224e5156",
+    "bytes": 2479
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__06.json",
+    "sha256": "4a39a7eef81fe5b8eeae92ad5c478d463e053b55548d86b6b3b9e0099c21f211",
+    "bytes": 2489
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__07.json",
+    "sha256": "b6df644c89d57639718b996d97a3d51971387da0035af2ef28573f6f86c056fe",
+    "bytes": 2478
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__08.json",
+    "sha256": "4e2f6451ac8883b22ea1898b5dc5cf58e2328cd0bba1cdefb3f41b5b0b7c2e23",
+    "bytes": 2482
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__09.json",
+    "sha256": "6a780a952627ac8bf832ac8acb8c4e21f48231954ffe68b7505819c6ceaf6301",
+    "bytes": 2477
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__10.json",
+    "sha256": "f5d91691d88d03fdae1f9450017bf9a29224f9e2417fb6548479754bd0725dd8",
+    "bytes": 2481
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__11.json",
+    "sha256": "839cec96408a61a4c937eb7b78fc1a828ee27f43e2cf5375aa0ba7c96961d857",
+    "bytes": 2478
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__12.json",
+    "sha256": "a4f97ce6e5832d6a6adff53496bd1a657ed9193e9257a7d433a234da7cb2a8b1",
+    "bytes": 2476
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__13.json",
+    "sha256": "9cdd6cfcb9c5062c87f728954ae98feec4b9a6350e377e35b47a080c97d6118f",
+    "bytes": 2474
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__14.json",
+    "sha256": "319ad3fd82bbb84ef66d3cff93a7a4ba64236c4430a41dcdf126602f307ada20",
+    "bytes": 2475
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__15.json",
+    "sha256": "be9e9909c6042b6ca8fa48c1c15a32d89bb15cc88bcb3817ce6e8a28a9b01d90",
+    "bytes": 2478
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__16.json",
+    "sha256": "94c626e72bab0124d69ca1c5f87d8f5ba214af512649cb8bde80f32cc671689a",
+    "bytes": 2473
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__17.json",
+    "sha256": "cf38daa60a3dc30e0c26b865d251c2e45ddd86b59705847ff182153a21398cf9",
+    "bytes": 2477
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__18.json",
+    "sha256": "0e09fcc6d68114705d04e78de2f0cc3bb9459f6edc3046cc0de9eaa61310a1ed",
+    "bytes": 2477
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__19.json",
+    "sha256": "c201f2ddb58c61271b34dd693fad0ab07b9d8c8c41e0982464908e71d2620738",
+    "bytes": 2475
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__20.json",
+    "sha256": "928b02903db043c2671b9fd115aa43090a7bd94650a5868cb8bebe3b2c205de8",
+    "bytes": 2478
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__Ridge__21.json",
+    "sha256": "400b5e56b6ca9549041c894ccd2b10304fbe259b40969152c65f72708bdfa02f",
+    "bytes": 2479
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__00.json",
+    "sha256": "968b79fe135d2e43bed8838323e17e24409c852fc7843604820039493a44a369",
+    "bytes": 3787
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__01.json",
+    "sha256": "7f831f5e47f6c1c296000ae173b6f4525e9201e8ebedde2e4d487d9e7844bee3",
+    "bytes": 3780
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__02.json",
+    "sha256": "20cf209aa0708b7b6c5f0d64772fbbc3b205e56cc69f78159f4a1ae3928bae65",
+    "bytes": 3778
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__03.json",
+    "sha256": "645514c55f637a471999af804557efc0714211648d4f3b31ae866d9b4945505a",
+    "bytes": 3784
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__04.json",
+    "sha256": "47a30e31995e4043f4ebcfbe2c89006cdc5ea407ad07559582e3684ee7bce854",
+    "bytes": 3780
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__05.json",
+    "sha256": "d5f7a47962bef870babec189744b28019bc678feaf5e711706a437a41687e633",
+    "bytes": 3786
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__06.json",
+    "sha256": "ee89db7dcfe24ec60a1df45d13cdc20866f3d5689e52295e105c183e6cd8fb10",
+    "bytes": 3789
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__07.json",
+    "sha256": "3e360e6192987a28b54c1ceb1686e107417244bf9a7109edc0fade8075b9ee54",
+    "bytes": 3783
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__08.json",
+    "sha256": "3ee98a94f8c1753005887956b427936a3d88add11bf373e25daee3e0faa550e4",
+    "bytes": 3780
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__09.json",
+    "sha256": "7fbd5e90481a9c11aa9aa7f9772d54a73fefa360c7cd0687ab77c65b3b8d1c26",
+    "bytes": 3775
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__10.json",
+    "sha256": "952375b6be14ce0fbaad156b61818fe941d688e976a804782341a8e3812ad82a",
+    "bytes": 3783
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__11.json",
+    "sha256": "fa6b2c6274521c63888d8de97081682786f0eb02c4c435a2dbf395d481abbae0",
+    "bytes": 3779
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__12.json",
+    "sha256": "4a68d7be38d65bb0c6637f052e29d3e5998eb72a6b575771dfe910e905cdd59b",
+    "bytes": 3777
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__13.json",
+    "sha256": "7ffd453fc82814f97539e2fd54018029fe428e3fd2cc318ef40b0a57d3f44233",
+    "bytes": 3777
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__14.json",
+    "sha256": "635e6208c23b6a1b5d466492f8058d0b78b2b008d4deae02d5f94cf3ec0f7a32",
+    "bytes": 3776
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__15.json",
+    "sha256": "dc114bdbd7df9a90e1dae579b8ce4c969c219ba017b23f2e9bd775e5caa57283",
+    "bytes": 3777
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__16.json",
+    "sha256": "12d5e732e400df6086e5f309c500efa53ce8ca0852b21d0cb02ce95a36ece064",
+    "bytes": 3773
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__17.json",
+    "sha256": "e46612d69c3b13514e8c519a229f63499ec5e3441da534a041c3ef7fbeeabbbb",
+    "bytes": 3780
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__18.json",
+    "sha256": "9b6d90b8056134a919b3bb5a99d47e7e8577b3f780c9225fe530427009eb05dd",
+    "bytes": 3774
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__19.json",
+    "sha256": "84674131a0cea717d96d3b2fbaaeea4f47dcea4e42784a5b24ac544357c4df84",
+    "bytes": 3775
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__20.json",
+    "sha256": "f25c5b8accd7efb8ea4a27d16cd2b4b09f955bd226dae0153a11dcdc2954b14e",
+    "bytes": 3782
+  },
+  {
+    "file": "research_revision/results/folds/Log_EWaste_Per_Million__digital__XGBoost__21.json",
+    "sha256": "a6ae126e697ab6238abd2a4e8f643f2c75428e8535aca8d1ab01970810323052",
+    "bytes": 3782
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__00.json",
+    "sha256": "8bc7dbc9174081c27808899d035cdbb95bf5c535235803b75a97a0075c3d1b57",
+    "bytes": 3434
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__01.json",
+    "sha256": "48990e0b015339b3e4eca3a9ee685f1e6eb838b3cd9cbafbdb3d09f460c8980d",
+    "bytes": 3423
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__02.json",
+    "sha256": "4d0789cf02864951b5f5499b413f9657f6bf69958a4c1a54fec0b480d332c069",
+    "bytes": 3425
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__03.json",
+    "sha256": "9f8b0b8c480d499e3c772c4c2e0df3d729fcc845c689e6042f9d62865180eed4",
+    "bytes": 3431
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__04.json",
+    "sha256": "83e90b6712f6c758d96ee0ae0ac1757b00776047a634f0e3aab58fb34abd259b",
+    "bytes": 3423
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__05.json",
+    "sha256": "b2f4c69a482a8d81fb01e4cfe020df3b80412936110a2eb87dcc6f932954c492",
+    "bytes": 3417
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__06.json",
+    "sha256": "3bfb99db2da06abb2f43f6f92a5492a7dce79621da3d652d244afb99dfa2ebfe",
+    "bytes": 3426
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__07.json",
+    "sha256": "ae59ad13dfb62724f96ec970981bbecf6868e3b26d9ecc2b91c9d80aae4f0809",
+    "bytes": 3426
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__08.json",
+    "sha256": "a85adc7a236ae6f02e82f4d424ceb08a74ee00c3c93778fe0439b512a9e7d3e4",
+    "bytes": 3425
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__09.json",
+    "sha256": "3ee638d2e2087bfba05cb411ed128d4d3303a689da8d6e75872748e5ae349a40",
+    "bytes": 3423
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__10.json",
+    "sha256": "77a37e235230a9b16fbef276f64b7280f7805e96b1a14244f173067c553bddcb",
+    "bytes": 3429
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__11.json",
+    "sha256": "ce2d43188bea6cfc9bfb67b9ec506745eb22243b62bcac2d52ac065500b5f16e",
+    "bytes": 3425
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__12.json",
+    "sha256": "d009a17a93c341080a672eca28d7f2ef664f6fc70cb3c568499a864722600e99",
+    "bytes": 3421
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__13.json",
+    "sha256": "86d2aaf83945b9d1669fa56d35d1a91be0ed98ca10cd01885aef93f34f77e831",
+    "bytes": 3423
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__14.json",
+    "sha256": "7fc3ba1cb48ae0f8c5d5687639344ec8ea90c5c838ba35c9d115f002c1fe8a2e",
+    "bytes": 3421
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__15.json",
+    "sha256": "e35d52ffd159efeec58177ea869926a63997c0120e2187efb6641c3555673827",
+    "bytes": 3424
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__16.json",
+    "sha256": "ba7fbc684a2f56c4d18eb0d7061297f61d2b827d596c1fb36982fed5566bd500",
+    "bytes": 3414
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__17.json",
+    "sha256": "492bbc3f2f8bc4b7fc3aaa87c32703ccdc82fb73e46b87587b38c4d37666e35c",
+    "bytes": 3419
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__18.json",
+    "sha256": "5714c9c701b6b913254d5f6a99a0f98584166fecc967913b685d1c33c88d1dff",
+    "bytes": 3416
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__19.json",
+    "sha256": "95de61225cab0376ab89ba9a4fb90df96e02627c59be65871c4c8501b225b399",
+    "bytes": 3415
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__20.json",
+    "sha256": "3883d94630f907f15614d96d5de262fc6b774b88b5d191fcd421af4c50dbde1e",
+    "bytes": 3418
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__ElasticNet__21.json",
+    "sha256": "175d4b0c9d715d2357af4534ed03f514b9b62cb845354b461a6358784a148b7b",
+    "bytes": 3422
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__00.json",
+    "sha256": "4d4eca1e542019ad76f3ea3834363f2bf76c94629d192b56c399a3e28928d59e",
+    "bytes": 2738
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__01.json",
+    "sha256": "c3c2f0854b199650dab966db555f442c494d1124c425525649de38369ddb31b6",
+    "bytes": 2729
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__02.json",
+    "sha256": "fcac9f6a97a3adab511a310041babe98d170395c22826b3f9c8f454a198e3867",
+    "bytes": 2724
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__03.json",
+    "sha256": "c7fb334882aa9e0be7f95277f136fd2cd080dffe757401a2b436c9c690be677f",
+    "bytes": 2734
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__04.json",
+    "sha256": "b0bd21757260db45128736376243ce0f58a0de4801eb90150b1ace77f0da429d",
+    "bytes": 2729
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__05.json",
+    "sha256": "9f207417f5fb4c7dcc31e176d8781c4693febd7d93456eb017e5f842a93c8e7a",
+    "bytes": 2731
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__06.json",
+    "sha256": "8e7b6e4925e322b95165cadb7fa5f2d107f3eecc79f3842099b6bfb82997c807",
+    "bytes": 2737
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__07.json",
+    "sha256": "cd41462aaf8d50b75538f22898dd3306e3725fbb664f89913875c99e12100a8b",
+    "bytes": 2732
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__08.json",
+    "sha256": "a4374582cb0e3cf5fb8964ec04b9c0c7ec6b4814bb9704118e0d9bb212b7aeed",
+    "bytes": 2733
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__09.json",
+    "sha256": "a8db86bc09895326f840a160918bfa23bc903cb20bf930243fcf2a54136981c9",
+    "bytes": 2728
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__10.json",
+    "sha256": "0126e73e09241b199f1da1e2fa0ceb527aabbd487cad412b99b727d728522d31",
+    "bytes": 2733
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__11.json",
+    "sha256": "5e00e85407bc1bbdd80f75b6169f2f483eb82e770807b47f3fec2b899ee308f0",
+    "bytes": 2732
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__12.json",
+    "sha256": "c3010fa3b6565470200e9a45ec524e4b338d71b521fa86e5d6c3767566e0bf6d",
+    "bytes": 2724
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__13.json",
+    "sha256": "d6eb49a4f04fe7771689b88de82d7970cd7b199fdba1634ca9bde6bd0f57e45b",
+    "bytes": 2727
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__14.json",
+    "sha256": "de25edfce7996528150a072df3637761d7aae9ce2cd1264082724f6b1ed39051",
+    "bytes": 2727
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__15.json",
+    "sha256": "d65f3dc79d50de4e0edf2246c00cb0e11f19d2423967c7676a7c4bd4328e22f9",
+    "bytes": 2725
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__16.json",
+    "sha256": "ac0bdf7c1130b4155ad9eab531fa8e4d7a9dd7f287281b4245d490201e72f0ea",
+    "bytes": 2726
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__17.json",
+    "sha256": "2d171c25712603b4502021a16b842c140c5d52603cd5716162d812338a67a469",
+    "bytes": 2731
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__18.json",
+    "sha256": "612a808cf21ff778dbbda2743605a1aa8d8ac6a38ef9c13793bcbb439bd13746",
+    "bytes": 2730
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__19.json",
+    "sha256": "9b63e023ff79eba39401deaa2664d5c94b029482191fbd3b2acc6a39d1257358",
+    "bytes": 2728
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__20.json",
+    "sha256": "2ba4bcd023d8ae65c5819edeccbaf072a7b33b69419180250811e94d399d8139",
+    "bytes": 2730
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__RandomForest__21.json",
+    "sha256": "d9be2439d7036a6a3081e55f1bff19399b6134f7dba668bb026d957fc5811e72",
+    "bytes": 2726
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__00.json",
+    "sha256": "818f66023d46b57eb82596ad8ac38fc8e0e8dd3f6e947415c1d9580cb3341db5",
+    "bytes": 2538
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__01.json",
+    "sha256": "64a87dacbde0191575b882f34f58728b43375172116e84cc666d6c5394d7b424",
+    "bytes": 2527
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__02.json",
+    "sha256": "571592911cff0722a10dc6ef7d5715db3e62445b389f9e09a4720fd35d4b0a8f",
+    "bytes": 2529
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__03.json",
+    "sha256": "dd971bd6c9e32a774547ad0d58f077be0bddc7c0fc1e99d8b5045ee54e9bf51e",
+    "bytes": 2535
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__04.json",
+    "sha256": "07735dd8d61d6af4cca62604e573c6ebb94cd414c03000810673f5f1adbfadb5",
+    "bytes": 2531
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__05.json",
+    "sha256": "6fcaeb97f7a8eb3605b83981415f46af741c18cb9ef72c5bf57b176975dc22d2",
+    "bytes": 2528
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__06.json",
+    "sha256": "7a95f088b1ae848b14b6b0049779dfb44672b05bd925fad0315c051c506c788b",
+    "bytes": 2535
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__07.json",
+    "sha256": "04640af3d121b76acc134367232574a2b6570141943688629b5b69e0737cd872",
+    "bytes": 2534
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__08.json",
+    "sha256": "f36b12c78e84482cf3266f599eab729b99f1e9602e124ce913e79e79935c8a87",
+    "bytes": 2531
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__09.json",
+    "sha256": "b174cf8e23d3b2bb1a1ca09462f8ccbd598993c6fa3df3c8a4c555c4af126611",
+    "bytes": 2525
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__10.json",
+    "sha256": "d0f4f3e65598b91ab070f95d6c4bdd4f0626266446638865c2e5f478a9acdaf2",
+    "bytes": 2534
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__11.json",
+    "sha256": "f63357af1962dfa7155ab7ff6064fb084504f3b8e3188732a81955989748c557",
+    "bytes": 2529
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__12.json",
+    "sha256": "e97df3e34083190f39455ad5cdfbc6390fff196b8d4b5ed841adff70712ef6b3",
+    "bytes": 2527
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__13.json",
+    "sha256": "b3131bc97d06e134c4ab040384e3ecf996719fe1c12f2209f1b64baaeb524720",
+    "bytes": 2525
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__14.json",
+    "sha256": "aa7e7dd4e7b3ad06d137299b050720f34e3fca0b349afda900179f92b5d57216",
+    "bytes": 2527
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__15.json",
+    "sha256": "7d0740043ec4d4c60ec67f15a92d469ccc8e6fb9db072af69c63bea4ee88f530",
+    "bytes": 2529
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__16.json",
+    "sha256": "22ad3afe0956967e46ce0404ea54baef56fc768b92a24306987025f7b39a4f6f",
+    "bytes": 2525
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__17.json",
+    "sha256": "e42a3b7661ab291538e8f69d40673537d15a1f311db5ca710db72d541e99d1e7",
+    "bytes": 2527
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__18.json",
+    "sha256": "5ba571404d6bf40cdf98258d296878c4159e5fd59eab0b5ad44d92d5e604f99b",
+    "bytes": 2525
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__19.json",
+    "sha256": "977934ba04e4cf83738a6d6bb9bf2c066eb66acac2eb5da9dd96cfa62d77be5c",
+    "bytes": 2524
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__20.json",
+    "sha256": "634ac24e9f829992ccf21344a4c760305938154f23e8f7bc5d94bb203a63cdf8",
+    "bytes": 2528
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__Ridge__21.json",
+    "sha256": "cfd79180a9e92f9bb9474f840b3c117bf1f0f9d1d8f1580df66c2da7ba565985",
+    "bytes": 2530
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__00.json",
+    "sha256": "6d3b39c12e510a69669db59f7b28e0e669712db3418ce3a1cbc8b0d86907374b",
+    "bytes": 3972
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__01.json",
+    "sha256": "a84d2076455c809fb9c3cf23d2245f4ea8c87a58e4b00d36c0dffe81adc630b0",
+    "bytes": 3970
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__02.json",
+    "sha256": "57ff8867de7a77c16f8d7f7a1029bb80ca84f8fd4efabe41d9e550dc8847cdea",
+    "bytes": 3961
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__03.json",
+    "sha256": "d0a55bdfbfc0c18e576db047bd4716f99734a7574812cec46c7324fc65885cd0",
+    "bytes": 3976
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__04.json",
+    "sha256": "68a4012fc8275421d6fae749c1e1e4f0253da81972196f7db6b21f0e9ae98368",
+    "bytes": 3967
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__05.json",
+    "sha256": "4b8a948e8e1dee4b46d2ee132bc9ce60549dec4edc9b7bd9d46ff6cc22d49745",
+    "bytes": 3962
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__06.json",
+    "sha256": "afec075fbbf6ebce5ca607889a587e04cffd3d075f2ab5ba8c3a0b2f019e26ac",
+    "bytes": 3973
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__07.json",
+    "sha256": "e7eb9d7039671b876d0483066c2ace7d4322887c3ac0d98670606c9bed8ccd68",
+    "bytes": 3969
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__08.json",
+    "sha256": "de0e08dc78647d723e9c72ec2da20b03a451270915066d9f5695c2affec5e751",
+    "bytes": 3968
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__09.json",
+    "sha256": "b4e16559ba54b10890051c373695e40b59bcda6d25d08cae92ce3268506299f6",
+    "bytes": 3966
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__10.json",
+    "sha256": "89f54fdb49bf1bb997607d232e5b9aa1758e6e0dd9f7f97005fb6ea0b18d304b",
+    "bytes": 3973
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__11.json",
+    "sha256": "4053377bbb4c512bfc768ad2ff8670c892fe61539bcd9bc2b4a61df68676609b",
+    "bytes": 3969
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__12.json",
+    "sha256": "79a2e3d83f1f6d1392cfd3b4c2577fc7665bcc287ad629d0e43af2f5951764f0",
+    "bytes": 3956
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__13.json",
+    "sha256": "4886b38f75039bedd0a4f412bfba34dee7d5d8bc6b26ada9cc4d6f420fb6fb98",
+    "bytes": 3968
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__14.json",
+    "sha256": "30c436d932bd89867aabf93fd3153999a44c97e1e1ebc58fb1889ce0daa110d4",
+    "bytes": 3959
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__15.json",
+    "sha256": "c7a5fd4b61b5762e58c10f3f6440cb73a1b06603e88e22d132b49711320a01ab",
+    "bytes": 3964
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__16.json",
+    "sha256": "2a20025a2424b3b0456618a61ad7fd1576c18a89e86403e541b010d85e0a20f1",
+    "bytes": 3964
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__17.json",
+    "sha256": "3c91e24a64bb832b21a288d4c8c9d6a9ebd4d135e0b9f783f8e0edfca60d14a4",
+    "bytes": 3966
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__18.json",
+    "sha256": "66eddadebd195efcc0c88dc4849098939ce94488d63d280c2103a4bde9a349f9",
+    "bytes": 3969
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__19.json",
+    "sha256": "7715fa9772e10c42e225ede07b98a995b3fc4b3cecf6926d42ef0ad1200cea77",
+    "bytes": 3968
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__20.json",
+    "sha256": "a32726ae1a1ea6a53c3ba94e2f827a63221ac7b3794914fe1e076718a04bde31",
+    "bytes": 3969
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__augmented__XGBoost__21.json",
+    "sha256": "461fccabb44f5ef6ebdee6446d7b67a05bd7b996ca85643bfd9ae9ca71f3b35f",
+    "bytes": 3968
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__00.json",
+    "sha256": "174a18d1e4fca047021672e90b28b49c9936f31df41cd48d14604f2ab4a6b171",
+    "bytes": 3368
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__01.json",
+    "sha256": "bbc3772cd341dfed028765b5fa9b24703be43bb981e259eb2ffb183e04b763ea",
+    "bytes": 3357
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__02.json",
+    "sha256": "c6589c4bbe9b361f732edfe05dc9c7f8525ece3e231872bf4d472b8b8e42f918",
+    "bytes": 3351
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__03.json",
+    "sha256": "73ca4bed15adabe5ad7a74dc3550e9594fc4a3db9664ed0926d9670863d47764",
+    "bytes": 3363
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__04.json",
+    "sha256": "1872e2b9e4ff212fc4d067f030c318624c60b9355f1c9e5f20e289d8a973d372",
+    "bytes": 3360
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__05.json",
+    "sha256": "c89b3af2834fccde554209ca16b05b09c9801909bdc3ccd9a3d9854dd7f27a7b",
+    "bytes": 3353
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__06.json",
+    "sha256": "5166148a0e93c333fa8b0bb8f7157cc21bad23361e22c09bf6f876a656ce78d3",
+    "bytes": 3368
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__07.json",
+    "sha256": "8f4105d5c2c2626525459a8b3a6ec3f2c7c189ee673f1f5247ecea16ac4bc4d6",
+    "bytes": 3359
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__08.json",
+    "sha256": "ad61a25832c4748e88fd5c0c19f0a6c9567075cfb93a5685495bfb5880b10f5c",
+    "bytes": 3362
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__09.json",
+    "sha256": "6737ee90dad9fc29972f3dc96c772a79faf7c884886dcebb4f118ba5fd05225a",
+    "bytes": 3359
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__10.json",
+    "sha256": "f395bc2d6c1e590b33596e0a7537343160b110d3d2ce10ed415a53aaf2b9f566",
+    "bytes": 3360
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__11.json",
+    "sha256": "19230160f321e9bcf083f59f37b87dbff267a19d99db729cd2488136ee2a0c5c",
+    "bytes": 3360
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__12.json",
+    "sha256": "815b0e08bd414c2ad4187a0ba4bef22eca225b1c44b1a150e307e9423a9612df",
+    "bytes": 3356
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__13.json",
+    "sha256": "9a3ccb54ab9b14e4f61da07de639b3f989f73e7837a3673299e8a249f3b1a7c2",
+    "bytes": 3357
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__14.json",
+    "sha256": "3eaab5afe910c98ea9f6274284434e2b92340722117117d7be7abe134dd27a23",
+    "bytes": 3355
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__15.json",
+    "sha256": "4cecf7e816946442f23cf655010d70bd7262fe0996b016b6cc3fcfa29865df13",
+    "bytes": 3356
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__16.json",
+    "sha256": "c9c76a3c021ac22aba8f73e954351a5a3664e3cb76dd5a2b5927eaa954b55cb7",
+    "bytes": 3354
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__17.json",
+    "sha256": "8e613d674dbb04ddc8ef5334e6bc70c8e02c4d752a6914f960aa052b6732ef81",
+    "bytes": 3358
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__18.json",
+    "sha256": "f098f3eb6a3ac9c1d3e41cbb7939e6a95c80f13d33b5a57e1417593282ee4f54",
+    "bytes": 3359
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__19.json",
+    "sha256": "d4898b4cf9b2bbea37d94cd379d5c84e46daa5f672abc4101091fda98682a818",
+    "bytes": 3357
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__20.json",
+    "sha256": "352300763a8364e3f92e954b17edffd8ece95ee1ae0411cdd8ba93c8020f7acf",
+    "bytes": 3362
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__ElasticNet__21.json",
+    "sha256": "077a17dbb999a1132ff71ca8d4de245abdcec17fdf11858d39738d9359c3bcac",
+    "bytes": 3361
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__00.json",
+    "sha256": "c3f23c0e65f26a2d961ce337aa00038da7e0b91c0573c0a02425ceb240275f24",
+    "bytes": 2669
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__01.json",
+    "sha256": "710211fd1f913eb81bab6b2bb3451a381637f76ac484c9bb0a8aff47de81637f",
+    "bytes": 2663
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__02.json",
+    "sha256": "6b12b171d4356e0df594beb06c71104ef2b30e6adaa2e40d6082750823b095dd",
+    "bytes": 2663
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__03.json",
+    "sha256": "43489cdd21f9be698c50982ace63836748f07abc9090da1ee5c284ce3d2331d1",
+    "bytes": 2660
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__04.json",
+    "sha256": "9af5c1c42af92fbf76f664ad19d805756c0a7a879ba10c0c8818b3571538070f",
+    "bytes": 2663
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__05.json",
+    "sha256": "ac058e9a0420402af5367568c099364da9c1f53718219ba112f440315a29c7ae",
+    "bytes": 2662
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__06.json",
+    "sha256": "629e39e559a61454ff0e914364755c75cc178f075d6818f29efcf3917b07a36b",
+    "bytes": 2670
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__07.json",
+    "sha256": "0d56d1df96d6c792c4ec903ef3ac3ad16c237978a00a6ea86531abd652aae524",
+    "bytes": 2663
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__08.json",
+    "sha256": "0e24e90d8e19ed9e7b2458405e1ffa42394d1c79f1994e1fc38a799d69325661",
+    "bytes": 2666
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__09.json",
+    "sha256": "92fb0af7b91e3dc64f59b0fcf12821a27293d50260c9280dfe987e504c9f92bb",
+    "bytes": 2664
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__10.json",
+    "sha256": "1ce76c311bb60754c49075513ac8eba768287dc8ce57d3e7c53699e32ac8d538",
+    "bytes": 2669
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__11.json",
+    "sha256": "abcade10165d1fbe305b30dacf82be81996be5edfcccd3e121180bdcb0566898",
+    "bytes": 2664
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__12.json",
+    "sha256": "9c04df227ab71c7ac09797badd6d6f24d4b03a50e906c989f0e37e4dbbb18d00",
+    "bytes": 2662
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__13.json",
+    "sha256": "348db1d8d9937a02cd14a26d55a89c85e679ec0477c7884bf702957edad3e138",
+    "bytes": 2657
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__14.json",
+    "sha256": "1de334b0d49eeb17b428140ef2819a318bd979098881a67f182e3801e096e2f6",
+    "bytes": 2661
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__15.json",
+    "sha256": "e72ef18940ddcabe7ccaad325748fdf8d05d2fc1f444eb9a1eea86c29f855777",
+    "bytes": 2664
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__16.json",
+    "sha256": "dfaab9689a380bfe90891bc11ee511b5b74e81f162c287f7847b1330d820aa4b",
+    "bytes": 2659
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__17.json",
+    "sha256": "2b400a26c36373a46259264e1eb997a719238fa0a13175bc8683fdfc464e5848",
+    "bytes": 2665
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__18.json",
+    "sha256": "6a44b2d1ef2f34039cf26d47a23a6317fd4c32c97eaf9b7c4227096e012447a1",
+    "bytes": 2662
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__19.json",
+    "sha256": "9da39b2032259a7648735d72b20b821c412e0d884b1822e392eeebd2a3fda97c",
+    "bytes": 2662
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__20.json",
+    "sha256": "a50e30409027cc5c531482bc497b6ca420d1acd632e5d6b285ed96f51461ea73",
+    "bytes": 2666
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__RandomForest__21.json",
+    "sha256": "3eaaadc0f7816222d406e3a75cb69f12671a970f2a6b7b4b75b23a142949f77d",
+    "bytes": 2666
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__00.json",
+    "sha256": "1604ff1571290f8fb2a5dd0d35f2d7972c55e66fb5322be9624ca603ea159a87",
+    "bytes": 2472
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__01.json",
+    "sha256": "da1c4dc6bfdca156523b7831c0f60dfd2ba0107c6c1b7a77bd3301f1689f1379",
+    "bytes": 2461
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__02.json",
+    "sha256": "b50b4b840cb235dfb83d9124c0d9308d7634bd8d18119620021fce5ca633ae91",
+    "bytes": 2462
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__03.json",
+    "sha256": "deb454a0363b46419ee190fde4a84fa7f67e367d7611aeb30251ff5acf1b38dc",
+    "bytes": 2469
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__04.json",
+    "sha256": "62f9965e0a866099ee2deb11cfdea1be0f97a073d64c7c4a68426658ba79b434",
+    "bytes": 2463
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__05.json",
+    "sha256": "614cdc06c8247861912006c87947db31f99cbbf26a1d6fc2b4d5721d822aa4e2",
+    "bytes": 2456
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__06.json",
+    "sha256": "83dd1e7c4055813b55336607bc6981b7d6e97e50a00a766ea8186be3373e6d20",
+    "bytes": 2473
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__07.json",
+    "sha256": "fc9de0fdc7b8bd5c9de1efb86003f9166c6889b5c6678e0b6ab67a8270553419",
+    "bytes": 2467
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__08.json",
+    "sha256": "afde4241fc9d7d02de1a3df63cd9bddcfbac4d28677fcda5d277a066b9143203",
+    "bytes": 2467
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__09.json",
+    "sha256": "cfe28147c2e4f737568a7afe6246962f84321174c453ac49598164150b9251ed",
+    "bytes": 2464
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__10.json",
+    "sha256": "54f2502353cd659fefc3148479de3e23cb14666dd9e6520c1f03778d36fe06e2",
+    "bytes": 2469
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__11.json",
+    "sha256": "2f1f2d16cee99d8aff4c14ab725e890488b96e0816264acee7ecbccbaa6267df",
+    "bytes": 2466
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__12.json",
+    "sha256": "91695a46b49f7b47d0102c71be6d9016b6780fce79ecc87ab379bc98ec384a30",
+    "bytes": 2462
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__13.json",
+    "sha256": "06325ccf947a7260508a571b25482dd69f692440e80956ccc0c14d479e14c65a",
+    "bytes": 2461
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__14.json",
+    "sha256": "6aa0ecdfad31283b5984b024b59a650083a2857792e2ecea37bfcc171dc8fa33",
+    "bytes": 2455
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__15.json",
+    "sha256": "ae1f23f3b427ba75128b771d1c25f8930c0076e16447277dd062b9616a8af8a1",
+    "bytes": 2459
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__16.json",
+    "sha256": "93b447ed1fd05546e0d38531f9270e85b9bc9abc7c9876e4f117fbc0cbd0e708",
+    "bytes": 2457
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__17.json",
+    "sha256": "45ac03b614002226969db200812ae31456b275580b63e3725f5a87b5a65dac49",
+    "bytes": 2463
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__18.json",
+    "sha256": "a347b73e902889d36b7765873c68fb9a6babe299070ed6785730c7a3c3c41755",
+    "bytes": 2462
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__19.json",
+    "sha256": "d4176f7c0337e3bf447d2aeb4c5cd424eafe940c035a9e2dfd29e492bb510536",
+    "bytes": 2462
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__20.json",
+    "sha256": "62f129cef0f605ae3ac00d68e645a873df390e098630ea999b97a6ed3d63dbe8",
+    "bytes": 2465
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__Ridge__21.json",
+    "sha256": "50f8ccf227a892cbf9ea9d04980a1205dc91d5cb396378f4afcdf275204fbd15",
+    "bytes": 2466
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__00.json",
+    "sha256": "302103c05390476acfe53d78a7a8b1c020bccdd866d763bf3dbf6145593ba0d8",
+    "bytes": 3774
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__01.json",
+    "sha256": "e4766337d4c96f25c3397d3bf30541d2d03aafaeacdd9e25dc9210805924e0d8",
+    "bytes": 3762
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__02.json",
+    "sha256": "ab53e49afdd2fb18016f0dcd8b82c21f48456a802d6090c99ad9e5825c543379",
+    "bytes": 3765
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__03.json",
+    "sha256": "1a649ee131c683cf81a1ec4d7423ca638ee1145b40e28413c22e703103cda65d",
+    "bytes": 3774
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__04.json",
+    "sha256": "e45688640210c9f38a1233a652506ca363e1c004e93324fb00866c125910028d",
+    "bytes": 3771
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__05.json",
+    "sha256": "6e8f6b4d4d0cd05df5553d454371e84a532b47f3d247b64b8988bb0fee16e299",
+    "bytes": 3768
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__06.json",
+    "sha256": "f03a79ff368694b3147bf4d100e650df3b993ea491f144d37a753442ca18b8ff",
+    "bytes": 3777
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__07.json",
+    "sha256": "fc325afe65e3ef1f4cc2b78833c6247cf2288ef22dd2bc99d26ada265b07e55c",
+    "bytes": 3768
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__08.json",
+    "sha256": "cfd998b1df5a07984a29720f8ba3ba652e05c0cc3c964bc5d8ee63cd1dd7e52b",
+    "bytes": 3771
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__09.json",
+    "sha256": "98da609a9c4b476354c5cd03034489bf4b09b71d59797548f08766a1924b932c",
+    "bytes": 3766
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__10.json",
+    "sha256": "69f57f724b28180b799cfbb2b868f483ae28d87cdcb382641bf501574267b77c",
+    "bytes": 3774
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__11.json",
+    "sha256": "61f6b29150f1437c8cfc45510796214462e09885422a7536a1280890af2de96b",
+    "bytes": 3772
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__12.json",
+    "sha256": "5019e6e6f8757023d6ddc7050574898bbe7f3cc33fbe16a3f5e2b225bf5c93e1",
+    "bytes": 3763
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__13.json",
+    "sha256": "c316dca26e402c2a683c65066fcb102201fa26ddbe77ba126af876a785853edf",
+    "bytes": 3762
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__14.json",
+    "sha256": "43c26fc3a0de02caeaafebbcf15ee9d4ab61996fe6f358332f5035bbe7344bbf",
+    "bytes": 3765
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__15.json",
+    "sha256": "e7a4b5d7f9376a92368a66c9a935fb29fc3ad922f7dd7c17457b3618566aacb4",
+    "bytes": 3770
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__16.json",
+    "sha256": "57f921d17300e154c144e6ebe588ffb9b64964a7e095d7ee8f2b2bd2befa6fd9",
+    "bytes": 3761
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__17.json",
+    "sha256": "055c260697ce110fbf0f2037b34f0702568b7b5c73dfd2390d48144a14566bca",
+    "bytes": 3766
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__18.json",
+    "sha256": "db6325a96d074382090efa31c2216472cf8ff6260a5b9fe02979368d256d1196",
+    "bytes": 3769
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__19.json",
+    "sha256": "6528e17bddcf6be175b824dc24bbdc864a9c8a0f942b71bcfd32dac4763c7e3f",
+    "bytes": 3767
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__20.json",
+    "sha256": "6bfc76810c0e87f01fde25881624c6223c582167e31989740436e5b15a544366",
+    "bytes": 3770
+  },
+  {
+    "file": "research_revision/results/folds/SDG_Index_Score__digital__XGBoost__21.json",
+    "sha256": "7299c2041d388d2801b10fc38fe7a427c407ee64a6d7de645ef0ad10acdb4009",
+    "bytes": 3772
+  },
+  {
+    "file": "research_revision/results/held_out_shap.csv",
+    "sha256": "a465a4aac7d94af45df7dd6966647f5f6b0b6056b2dbea64fb4b40dd935f6a5a",
+    "bytes": 29737
+  },
+  {
+    "file": "research_revision/results/input_changes.csv",
+    "sha256": "3d46abc8b84570b22526467151c1965615ad83c152f1fe9be9471791bc06b377",
+    "bytes": 4088
+  },
+  {
+    "file": "research_revision/results/leave_one_state_out_associations.csv",
+    "sha256": "e1d4348c582232a795520711c1e64dab0c3529579b498341f06153378023d162",
+    "bytes": 2114
+  },
+  {
+    "file": "research_revision/results/nested_cv_audit.json",
+    "sha256": "27db5cc04d094845f7615ce75d139a341114fe3604d167fb5256c607c2341610",
+    "bytes": 1384880
+  },
+  {
+    "file": "research_revision/results/nested_cv_results.csv",
+    "sha256": "08fb9897fe2954813991f0f1eb24ec8f6b02609ff8f5cc651a97a9af131154a4",
+    "bytes": 1731
+  },
+  {
+    "file": "research_revision/results/outer_predictions.csv",
+    "sha256": "4ad58ce7070c8424b1bc1ea6d74e817a4aa643f02ae0ffaab891bdb6710e3c4b",
+    "bytes": 29901
+  },
+  {
+    "file": "research_revision/results/runtime.json",
+    "sha256": "72a25ecb19fbba47e56a5b1218fa28a634337f8fe98b2d410dfb1f87ec4bd988",
+    "bytes": 225
+  },
+  {
+    "file": "research_revision/results/sensitivity_correlations.csv",
+    "sha256": "2f41d71097e320164342e4371fea0058c5ab7fbb05c6f7265834521acd7b2762",
+    "bytes": 816
+  },
+  {
+    "file": "research_revision/results/statistical_results.json",
+    "sha256": "7fba1675e7d16fca0b3257e917876c2a55fc52f56ea32f6a0cab425bfcda396e",
+    "bytes": 6860
+  },
+  {
+    "file": "research_revision/src/analyze.py",
+    "sha256": "95405c995b78f4cb65aa4e212999b56e193175f922377b20d90a1ff37baec80a",
+    "bytes": 14994
+  },
+  {
+    "file": "research_revision/src/build_manuscript_tables.py",
+    "sha256": "343e2d90265aeb73503d7e85f86cb11f308a0b369a96d2f67a6b7802e29869ca",
+    "bytes": 5000
+  },
+  {
+    "file": "research_revision/src/rebuild_inputs.py",
+    "sha256": "c6076535bba42e0aa0358a7da46df9995240b6e753754f2a10ef869c3a346e6d",
+    "bytes": 7736
+  },
+  {
+    "file": "research_revision/src/render_journal_figure.py",
+    "sha256": "c5dd7b957e35a316a576dd7e969d69a5de2769ddc73d6b0990b4bccec7d9d3e3",
+    "bytes": 2422
+  },
+  {
+    "file": "source_evidence_inventory_original.json",
+    "sha256": "e4f8e1a5c74e3ab387092356548e86afc86fca1fefe4028746df6f001a7c52e5",
+    "bytes": 3006
+  }
+]

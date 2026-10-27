@@ -1,0 +1,29 @@
+[
+  {
+    "author": "Yash Chauhan",
+    "roles": [
+      "Conceptualization",
+      "Methodology",
+      "Software",
+      "Validation",
+      "Formal analysis",
+      "Data curation",
+      "Writing - original draft",
+      "Writing - review and editing",
+      "Visualization"
+    ]
+  },
+  {
+    "author": "Suresh Kumar Chelliah",
+    "roles": [
+      "Supervision"
+    ]
+  },
+  {
+    "author": "Shreya Srivastava",
+    "roles": [
+      "Investigation",
+      "Writing - review and editing"
+    ]
+  }
+]

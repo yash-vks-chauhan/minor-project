@@ -1,0 +1,67 @@
+{
+  "conference": "The 2nd International Online Conference on Environments (IOCE 2027)",
+  "submission_id": "Sciforum-217212",
+  "title": "Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States",
+  "status": "Submitted",
+  "platform_status": "Pending MDPI check",
+  "submitted_on_local": "2026-10-26",
+  "verification_captured_utc": "2026-10-26T16:57:27.730Z",
+  "dashboard_url": "https://sciforum.net/profile/dashboard/submissions?tab=0",
+  "success_url": "https://sciforum.net/submissions/IOCE2027/success",
+  "author_order": [
+    "Yash Chauhan",
+    "Suresh Kumar Chelliah",
+    "Shreya Srivastava"
+  ],
+  "corresponding_author": "Yash Chauhan",
+  "presenter": "Yash Chauhan",
+  "contact_email": "yash.vks.chauhan@gmail.com",
+  "contribution_roles": [
+    {
+      "author": "Yash Chauhan",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Software",
+        "Validation",
+        "Formal analysis",
+        "Data curation",
+        "Writing - original draft",
+        "Writing - review and editing",
+        "Visualization"
+      ]
+    },
+    {
+      "author": "Suresh Kumar Chelliah",
+      "roles": [
+        "Supervision"
+      ]
+    },
+    {
+      "author": "Shreya Srivastava",
+      "roles": [
+        "Investigation",
+        "Writing - review and editing"
+      ]
+    }
+  ],
+  "session": "S1. Urban Systems vs Rural and Forest Surroundings",
+  "contribution_types": [
+    "Poster",
+    "Oral"
+  ],
+  "publication_preference": "I choose none of the above.",
+  "abstract_word_count_displayed": 280,
+  "ai_disclosure_in_abstract": true,
+  "no_external_funding": true,
+  "no_conflicts": true,
+  "manuscript_file_uploaded": false,
+  "confirmation_evidence": [
+    "success_page.txt",
+    "submission_dashboard_confirmation.txt",
+    "../../qa/ioce-submission-success.jpg",
+    "../../qa/ioce-submitted-dashboard.jpg"
+  ],
+  "submitted_abstract_file": "submitted_abstract.txt",
+  "submitted_abstract_sha256": "1ec5474da39e235c8e8930bdeddf9348a0f75333d3551c26294f0b38e8cd49cd"
+}

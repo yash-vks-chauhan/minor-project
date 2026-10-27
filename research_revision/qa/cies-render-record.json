@@ -1,0 +1,22 @@
+[
+  {
+    "file": "submissions/06-circular-economy-sustainability/journal_manuscript.pdf",
+    "pages": 10,
+    "sha256": "dfa2062b60bc8742c1d4327f25bf181ce2a36d4775501a5c169e4f34b6d49f27"
+  },
+  {
+    "file": "submissions/06-circular-economy-sustainability/cover_letter.pdf",
+    "pages": 1,
+    "sha256": "f555df9dd43d0f825f70af78a44a3fc613471edc658fd8527552461a7a85544b"
+  },
+  {
+    "file": "submissions/06-circular-economy-sustainability/related_abstracts_editor_only.pdf",
+    "pages": 4,
+    "sha256": "3e135c79cff1fe889f4cefa5c67b7d12931ef7198533bda137ffce83a149d150"
+  },
+  {
+    "file": "submissions/06-circular-economy-sustainability/source/Fig1.pdf",
+    "pages": 1,
+    "sha256": "c93dadf51c114cef7fd60a06989b8bdd623b74e7f60aea04081a1c7a6fb0c084"
+  }
+]

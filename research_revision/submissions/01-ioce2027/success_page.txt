@@ -1,0 +1,79 @@
+- banner:
+  - generic "Go to dashboard or home":
+    - img "Sciforum"
+  - button:
+  - button "avatar":
+    - img "avatar"
+  - button "Open navigation menu":
+    - generic: Open navigation menu
+  - navigation:
+    - list:
+      - link "Find Events":
+        - /url: /events
+      - button "Help":
+        - generic: Help
+  - button "Organize Event":
+    - generic: Organize Event
+  - button "Log out":
+    - generic: Log out
+- generic: Success!
+- generic: The event organizers will contact you shortly.
+- button "Go to event":
+  - generic: Go to event
+- button "Check my submissions":
+  - generic: Check my submissions
+- contentinfo:
+  - generic "Go to dashboard or home":
+    - img "Sciforum"
+  - heading "Further Information" [level=3]
+  - list:
+    - link "Find events":
+      - /url: /events
+    - link "Pricing":
+      - /url: /pricing
+  - heading "Resources" [level=3]
+  - list:
+    - link "Contact":
+      - /url: /contact?topic=technical_and_product_support
+    - link "FAQs":
+      - /url: /help
+  - heading "Follow Sciforum" [level=3]
+  - list:
+    - link "Twitter":
+      - /url: https://twitter.com/sciforum
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/showcase/mdpisciforum/
+    - link "Facebook":
+      - /url: https://www.facebook.com/mdpisciforum/info?tab=overview
+  - heading "MDPI Initiatives" [level=3]
+  - list:
+    - link "MDPI Books":
+      - /url: https://www.mdpi.com/books/
+    - link "Preprints":
+      - /url: https://www.preprints.org/
+    - link "Scilit":
+      - /url: https://www.scilit.com/
+    - link "SciProfiles":
+      - /url: https://sciprofiles.com/
+  - list:
+    - link "Encyclopedia":
+      - /url: https://encyclopedia.pub/
+    - link "JAMS":
+      - /url: https://jams.pub/
+    - link "Proceedings Series":
+      - /url: https://www.mdpi.com/about/proceedings
+    - link "Author Services":
+      - /url: https://www.mdpi.com/authors/english
+  - separator
+  - text: © 2026
+  - link "MDPI":
+    - /url: https://www.mdpi.com/
+  - text: (Basel, Switzerland) unless otherwise stated
+  - generic: Disclaimer
+  - link "Terms and Conditions":
+    - /url: /terms-of-use
+  - link "Privacy Policy":
+    - /url: /privacy
+  - button "Privacy Settings"
+  - link "Accessibility":
+    - /url: https://www.mdpi.com/accessibility

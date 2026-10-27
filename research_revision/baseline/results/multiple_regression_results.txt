@@ -1,0 +1,42 @@
+ANALYSIS 2: Multiple Regression with Controls
+============================================================
+100% VERIFIED REAL DATA | 16 states
+
+                    Results: Ordinary least squares
+=======================================================================
+Model:                 OLS                Adj. R-squared:      0.644   
+Dependent Variable:    CE_Behavior_Score  AIC:                 117.5634
+Date:                  2026-03-11 20:08   BIC:                 122.1989
+No. Observations:      16                 Log-Likelihood:      -52.782 
+Df Model:              5                  F-statistic:         6.436   
+Df Residuals:          10                 Prob (F-statistic):  0.00632 
+R-squared:             0.763              Scale:               68.706  
+-----------------------------------------------------------------------
+                       Coef.  Std.Err.    t    P>|t|   [0.025   0.975] 
+-----------------------------------------------------------------------
+const                 48.6527  26.6395  1.8263 0.0978 -10.7038 108.0092
+Digital_Access_Score   0.1239   0.3533  0.3508 0.7330  -0.6632   0.9111
+Per_Capita_NSDP_Rs     0.0001   0.0001  1.7731 0.1066  -0.0000   0.0003
+Urban_Percent         -0.0218   0.2778 -0.0786 0.9389  -0.6409   0.5972
+Literacy_Rate_Percent -0.4501   0.4355 -1.0336 0.3257  -1.4205   0.5202
+Population_Mn         -0.0809   0.0711 -1.1378 0.2817  -0.2394   0.0776
+-----------------------------------------------------------------------
+Omnibus:               22.837         Durbin-Watson:            2.363  
+Prob(Omnibus):         0.000          Jarque-Bera (JB):         28.151 
+Skew:                  2.090          Prob(JB):                 0.000  
+Kurtosis:              7.975          Condition No.:            2949663
+=======================================================================
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is
+correctly specified.
+[2] The condition number is large, 2.95e+06. This might indicate
+that there are strong multicollinearity or other numerical
+problems.
+
+Variance Inflation Factors:
+              Feature       VIF
+ Digital_Access_Score 10.566187
+   Per_Capita_NSDP_Rs  9.469861
+        Urban_Percent  2.810106
+Literacy_Rate_Percent  2.504003
+        Population_Mn  1.306692

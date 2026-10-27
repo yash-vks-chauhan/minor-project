@@ -1,0 +1,36 @@
+{
+  "venue": "Urban e-Planning 2027",
+  "status": "submission email sent; organizer receipt confirmation pending",
+  "sent_at": "2026-10-26T17:17:27.000Z",
+  "message_id": "1a1793793543aa3b",
+  "thread_id": "1a1793793543aa3b",
+  "gmail_labels": [
+    "SENT"
+  ],
+  "to": "ijepr.conference@gmail.com",
+  "from": "yash.vks.chauhan@gmail.com",
+  "reply_to": "yc0810@srmist.edu.in",
+  "subject": "Urban e-Planning 2027 abstract submission - Digital Access and Circularity-Related Regional Indicators in Indian States",
+  "attachment": {
+    "filename": "Urban_ePlanning_2027_Yash_Chauhan.docx",
+    "bytes": 23430,
+    "sha256": "98e2db621f3818d5e480f3173f9ab6e16c41f20d3c6ac11ce44fc2bb5822a2fe"
+  },
+  "requested_track": "Track 1. Smart Urban Governance and e-Planning",
+  "requested_mode": "online",
+  "presenter": "Yash Chauhan",
+  "corresponding_author": "Yash Chauhan",
+  "author_order": [
+    "Yash Chauhan",
+    "Suresh Kumar Chelliah",
+    "Shreya Srivastava"
+  ],
+  "abstract_words": 206,
+  "bio_words": 99,
+  "related_submissions_disclosed": [
+    "IOCE 2027 Sciforum-217212, pending MDPI check",
+    "WEAVE 2027 submission email sent; organizer confirmation pending"
+  ],
+  "verification": "Read back from Gmail with SENT label, correct recipient, institutional Reply-To, matching email body and official DOCX attachment. Organizer receipt and acceptance have not been verified.",
+  "attendance_condition": "Full attendance is required 5-9 April 2027; confirm availability before registration."
+}

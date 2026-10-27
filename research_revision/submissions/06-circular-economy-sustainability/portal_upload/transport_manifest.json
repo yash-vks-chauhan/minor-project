@@ -1,0 +1,9 @@
+{
+  "transport": "portal_upload/ESM_1.7z",
+  "reason": "Portal recursively unpacks ZIP archives and separates code folders; 7z contains the unchanged approved ESM_1.zip.",
+  "bytes": 739157,
+  "sha256": "5d65b9787384ca81ff82d8cb4ecaa6786701a08da11d202b91796a8ae811b6d8",
+  "contained_file": "ESM_1.zip",
+  "contained_sha256": "ae35a3948b5f4a8e52fbec6f8f9babf276416507b73ecda8901e5a199a20aab7",
+  "verified_byte_identical_to_approved_zip": true
+}

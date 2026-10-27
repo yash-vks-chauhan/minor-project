@@ -1,0 +1,8 @@
+{
+  "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-26.6-arm64-arm-64bit-Mach-O",
+  "seed": 20261026,
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "xgboost": "3.4.1"
+}

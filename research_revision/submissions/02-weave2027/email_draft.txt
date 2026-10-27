@@ -1,0 +1,29 @@
+To: weave@hs-bremen.de
+Subject: WEAVE 2027 extended abstract - Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States
+Attachment: extended_abstract_blind.pdf
+
+Dear WEAVE 2027 Scientific Committee,
+
+Please consider the attached anonymized extended abstract, "Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States," for WEAVE 2027.
+
+The study connects digital transformation, circular economy measurement, and regional development through a source-reconciled exploratory analysis of 22 Indian states. It distinguishes broad sustainability associations from formal e-waste processing and reports income-adjusted estimates and nested predictive evaluation.
+
+Authors, in order:
+Yash Chauhan
+Suresh Kumar Chelliah
+Shreya Srivastava
+
+Affiliation for all authors:
+Department of Computational Intelligence, SRM Institute of Science & Technology, Kattankulathur, Tamil Nadu, India.
+
+Corresponding and presenting author: Yash Chauhan.
+Preferred presentation mode: fully online session.
+
+A related abstract from this study was submitted to IOCE 2027 on 26 October 2026 (Sciforum-217212) and is currently pending MDPI check. No acceptance or publication has been verified.
+
+Generative AI assistance: OpenAI Codex assisted with source checking, Python analysis implementation, manuscript revision, and submission text preparation. The authors remain responsible for the final work.
+
+Thank you for considering our submission.
+
+Kind regards,
+Yash Chauhan

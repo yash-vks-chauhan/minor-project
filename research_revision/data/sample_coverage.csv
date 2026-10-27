@@ -1,0 +1,29 @@
+State,Missing_Columns,Included
+Andhra Pradesh,,True
+Arunachal Pradesh,EWaste_Processed_Tonnes,False
+Assam,,True
+Bihar,,True
+Chhattisgarh,,True
+Goa,EWaste_Processed_Tonnes,False
+Gujarat,,True
+Haryana,,True
+Himachal Pradesh,,True
+Jharkhand,,True
+Karnataka,,True
+Kerala,,True
+Madhya Pradesh,,True
+Maharashtra,,True
+Manipur,EWaste_Processed_Tonnes,False
+Meghalaya,EWaste_Processed_Tonnes,False
+Mizoram,,True
+Nagaland,EWaste_Processed_Tonnes,False
+Odisha,,True
+Punjab,,True
+Rajasthan,,True
+Sikkim,,True
+Tamil Nadu,,True
+Telangana,,True
+Tripura,,True
+Uttar Pradesh,EWaste_Processed_Tonnes,False
+Uttarakhand,,True
+West Bengal,,True

@@ -1,0 +1,5204 @@
+{
+  "section": {
+    "tag": "sectPr",
+    "attributes": {
+      "rsidR": "00913076",
+      "rsidSect": "00913076"
+    },
+    "children": [
+      {
+        "tag": "headerReference",
+        "attributes": {
+          "type": "even",
+          "id": "rId6"
+        },
+        "children": []
+      },
+      {
+        "tag": "headerReference",
+        "attributes": {
+          "type": "default",
+          "id": "rId7"
+        },
+        "children": []
+      },
+      {
+        "tag": "footerReference",
+        "attributes": {
+          "type": "even",
+          "id": "rId8"
+        },
+        "children": []
+      },
+      {
+        "tag": "footerReference",
+        "attributes": {
+          "type": "default",
+          "id": "rId9"
+        },
+        "children": []
+      },
+      {
+        "tag": "headerReference",
+        "attributes": {
+          "type": "first",
+          "id": "rId10"
+        },
+        "children": []
+      },
+      {
+        "tag": "footerReference",
+        "attributes": {
+          "type": "first",
+          "id": "rId11"
+        },
+        "children": []
+      },
+      {
+        "tag": "pgSz",
+        "attributes": {
+          "w": "11906",
+          "h": "16838"
+        },
+        "children": []
+      },
+      {
+        "tag": "pgMar",
+        "attributes": {
+          "top": "1417",
+          "right": "1701",
+          "bottom": "1417",
+          "left": "1701",
+          "header": "708",
+          "footer": "708",
+          "gutter": "0"
+        },
+        "children": []
+      },
+      {
+        "tag": "pgNumType",
+        "attributes": {
+          "start": "1"
+        },
+        "children": []
+      },
+      {
+        "tag": "cols",
+        "attributes": {
+          "space": "720"
+        },
+        "children": []
+      }
+    ]
+  },
+  "table_properties": {
+    "tag": "tblPr",
+    "attributes": {},
+    "children": [
+      {
+        "tag": "tblStyle",
+        "attributes": {
+          "val": "a0"
+        },
+        "children": []
+      },
+      {
+        "tag": "tblW",
+        "attributes": {
+          "w": "10065",
+          "type": "dxa"
+        },
+        "children": []
+      },
+      {
+        "tag": "tblInd",
+        "attributes": {
+          "w": "-318",
+          "type": "dxa"
+        },
+        "children": []
+      },
+      {
+        "tag": "tblBorders",
+        "attributes": {},
+        "children": [
+          {
+            "tag": "top",
+            "attributes": {
+              "val": "single",
+              "sz": "4",
+              "space": "0",
+              "color": "000000"
+            },
+            "children": []
+          },
+          {
+            "tag": "left",
+            "attributes": {
+              "val": "single",
+              "sz": "4",
+              "space": "0",
+              "color": "000000"
+            },
+            "children": []
+          },
+          {
+            "tag": "bottom",
+            "attributes": {
+              "val": "single",
+              "sz": "4",
+              "space": "0",
+              "color": "000000"
+            },
+            "children": []
+          },
+          {
+            "tag": "right",
+            "attributes": {
+              "val": "single",
+              "sz": "4",
+              "space": "0",
+              "color": "000000"
+            },
+            "children": []
+          },
+          {
+            "tag": "insideH",
+            "attributes": {
+              "val": "single",
+              "sz": "4",
+              "space": "0",
+              "color": "000000"
+            },
+            "children": []
+          },
+          {
+            "tag": "insideV",
+            "attributes": {
+              "val": "single",
+              "sz": "4",
+              "space": "0",
+              "color": "000000"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "tag": "tblLayout",
+        "attributes": {
+          "type": "fixed"
+        },
+        "children": []
+      },
+      {
+        "tag": "tblLook",
+        "attributes": {
+          "val": "0400",
+          "firstRow": "0",
+          "lastRow": "0",
+          "firstColumn": "0",
+          "lastColumn": "0",
+          "noHBand": "0",
+          "noVBand": "1"
+        },
+        "children": []
+      }
+    ]
+  },
+  "table_grid": {
+    "tag": "tblGrid",
+    "attributes": {},
+    "children": [
+      {
+        "tag": "gridCol",
+        "attributes": {
+          "w": "3261"
+        },
+        "children": []
+      },
+      {
+        "tag": "gridCol",
+        "attributes": {
+          "w": "6804"
+        },
+        "children": []
+      }
+    ]
+  },
+  "paragraph_patterns": [
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8932",
+        "textId": "253B7854",
+        "rsidR": "00913076",
+        "rsidRDefault": "00000000",
+        "rsidP": "00947149"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "widowControl",
+              "attributes": {
+                "val": "0"
+              },
+              "children": []
+            },
+            {
+              "tag": "pBdr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "top",
+                  "attributes": {
+                    "val": "nil"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "left",
+                  "attributes": {
+                    "val": "nil"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "bottom",
+                  "attributes": {
+                    "val": "nil"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "right",
+                  "attributes": {
+                    "val": "nil"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "between",
+                  "attributes": {
+                    "val": "nil"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "spacing",
+              "attributes": {
+                "line": "276",
+                "lineRule": "auto"
+              },
+              "children": []
+            },
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "pict",
+              "attributes": {
+                "anchorId": "031F8966"
+              },
+              "children": [
+                {
+                  "tag": "shapetype",
+                  "attributes": {
+                    "id": "_x0000_t136",
+                    "coordsize": "21600,21600",
+                    "spt": "136",
+                    "adj": "10800",
+                    "path": "m@7,l@8,m@5,21600l@6,21600e"
+                  },
+                  "children": [
+                    {
+                      "tag": "formulas",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "sum #0 0 10800"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "prod #0 2 1"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "sum 21600 0 @1"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "sum 0 0 @2"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "sum 21600 0 @3"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "if @0 @3 0"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "if @0 21600 @1"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "if @0 0 @2"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "if @0 @4 21600"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "mid @5 @6"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "mid @8 @5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "mid @7 @8"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "mid @6 @7"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "f",
+                          "attributes": {
+                            "eqn": "sum @6 0 @5"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "path",
+                      "attributes": {
+                        "textpathok": "t",
+                        "connecttype": "custom",
+                        "connectlocs": "@9,0;@10,10800;@11,21600;@12,10800",
+                        "connectangles": "270,180,90,0"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "textpath",
+                      "attributes": {
+                        "on": "t",
+                        "fitshape": "t"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "handles",
+                      "attributes": {},
+                      "children": [
+                        {
+                          "tag": "h",
+                          "attributes": {
+                            "position": "#0,bottomRight",
+                            "xrange": "6629,14971"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "lock",
+                      "attributes": {
+                        "ext": "edit",
+                        "text": "t",
+                        "shapetype": "t"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "shape",
+                  "attributes": {
+                    "id": "_x0000_s2050",
+                    "type": "#_x0000_t136",
+                    "style": "position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:50pt;height:50pt;z-index:251657728;visibility:hidden"
+                  },
+                  "children": [
+                    {
+                      "tag": "lock",
+                      "attributes": {
+                        "ext": "edit",
+                        "selection": "t"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00411004"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00EC0631"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "005A160E",
+            "rsidRPr": "00947149"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "vertAlign",
+                  "attributes": {
+                    "val": "superscript"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "005A160E"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8933",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "28"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8934",
+        "textId": "17195D63",
+        "rsidR": "00913076",
+        "rsidRDefault": "00480A12"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "4A102A56",
+        "textId": "77777777",
+        "rsidR": "00480A12",
+        "rsidRDefault": "00480A12"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "3EC66496",
+        "textId": "77777777",
+        "rsidR": "00947149",
+        "rsidRDefault": "00947149"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "11546489",
+        "textId": "67839A61",
+        "rsidR": "006C57A9",
+        "rsidRDefault": "006C57A9"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "59E32A6D",
+        "textId": "77777777",
+        "rsidR": "00480A12",
+        "rsidRDefault": "00480A12"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8937",
+        "textId": "58286A35",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "jc",
+              "attributes": {
+                "val": "center"
+              },
+              "children": []
+            },
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00480A12"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00EC0631"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00EC0631"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00411004"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00EC0631"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8938",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8939",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F893A",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F893B",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F893D",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F893E",
+        "textId": "3042B2BB",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00411004"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00947149"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F893F",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8940",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8942",
+        "textId": "316B9FB0",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8943",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8944",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8946",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8947",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8949",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F894A",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F894B",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F894D",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F894E",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8950",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8951",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8952",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8954",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8955",
+        "textId": "663B79A5",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {
+            "rsidR": "00817D2A"
+          },
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8956",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8958",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8959",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F895A",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F895C",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F895D",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "u",
+                  "attributes": {
+                    "val": "single"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "proofErr",
+          "attributes": {
+            "type": "spellStart"
+          },
+          "children": []
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "u",
+                  "attributes": {
+                    "val": "single"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "proofErr",
+          "attributes": {
+            "type": "spellEnd"
+          },
+          "children": []
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "u",
+                  "attributes": {
+                    "val": "single"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {
+                "space": "preserve"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "proofErr",
+          "attributes": {
+            "type": "spellStart"
+          },
+          "children": []
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "u",
+                  "attributes": {
+                    "val": "single"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "proofErr",
+          "attributes": {
+            "type": "spellEnd"
+          },
+          "children": []
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "u",
+                  "attributes": {
+                    "val": "single"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F895E",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8960",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8961",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "b",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8962",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "005A160E"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "r",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "t",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8963",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "paraId": "031F8965",
+        "textId": "77777777",
+        "rsidR": "00913076",
+        "rsidRDefault": "00913076"
+      },
+      "children": [
+        {
+          "tag": "pPr",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "rPr",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "rFonts",
+                  "attributes": {
+                    "ascii": "Candara",
+                    "eastAsia": "Candara",
+                    "hAnsi": "Candara",
+                    "cs": "Candara"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "sz",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "szCs",
+                  "attributes": {
+                    "val": "24"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "field_count": 0,
+  "control_count": 0
+}

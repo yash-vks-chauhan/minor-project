@@ -1,0 +1,81 @@
+State,Variable,Legacy,Revised,Changed
+Andhra Pradesh,UPI_PerCapita_Transactions,83.0,122.0,True
+Andhra Pradesh,Per_Capita_NSDP_Rs,237951.0,237951.0,False
+Andhra Pradesh,Tele_Density_Percent,84.99,84.99,False
+Andhra Pradesh,SDG_Index_Score,74.0,74.0,False
+Andhra Pradesh,EWaste_Processed_Tonnes,2021.19,2021.19,False
+Assam,UPI_PerCapita_Transactions,38.0,61.0,True
+Assam,Per_Capita_NSDP_Rs,139783.0,143852.0,True
+Assam,Tele_Density_Percent,74.25,74.25,False
+Assam,SDG_Index_Score,65.0,65.0,False
+Assam,EWaste_Processed_Tonnes,67.0,67.0,False
+Bihar,UPI_PerCapita_Transactions,44.0,44.0,False
+Bihar,Per_Capita_NSDP_Rs,60180.0,62201.0,True
+Bihar,Tele_Density_Percent,55.8,55.8,False
+Bihar,SDG_Index_Score,57.0,57.0,False
+Bihar,EWaste_Processed_Tonnes,41.07,41.07,False
+Chhattisgarh,UPI_PerCapita_Transactions,77.0,53.0,True
+Chhattisgarh,Per_Capita_NSDP_Rs,148922.0,148922.0,False
+Chhattisgarh,Tele_Density_Percent,69.5,69.5,False
+Chhattisgarh,SDG_Index_Score,67.0,67.0,False
+Chhattisgarh,EWaste_Processed_Tonnes,4167.9,4167.9,False
+Gujarat,UPI_PerCapita_Transactions,107.0,76.0,True
+Gujarat,Per_Capita_NSDP_Rs,297722.0,300957.0,True
+Gujarat,Tele_Density_Percent,91.4,91.4,False
+Gujarat,SDG_Index_Score,74.0,74.0,False
+Gujarat,EWaste_Processed_Tonnes,30569.32,30569.32,False
+Haryana,UPI_PerCapita_Transactions,109.0,136.0,True
+Haryana,Per_Capita_NSDP_Rs,319363.0,319363.0,False
+Haryana,Tele_Density_Percent,118.77,118.77,False
+Haryana,SDG_Index_Score,72.0,72.0,False
+Haryana,EWaste_Processed_Tonnes,245015.82,245015.82,False
+Himachal Pradesh,UPI_PerCapita_Transactions,119.0,86.0,True
+Himachal Pradesh,Per_Capita_NSDP_Rs,234782.0,234721.0,True
+Himachal Pradesh,Tele_Density_Percent,119.81,119.81,False
+Himachal Pradesh,SDG_Index_Score,77.0,77.0,False
+Himachal Pradesh,EWaste_Processed_Tonnes,373.2,373.2,False
+Jharkhand,UPI_PerCapita_Transactions,64.0,50.0,True
+Jharkhand,Per_Capita_NSDP_Rs,105274.0,106529.0,True
+Jharkhand,Tele_Density_Percent,62.62,62.62,False
+Jharkhand,SDG_Index_Score,62.0,62.0,False
+Jharkhand,EWaste_Processed_Tonnes,366.71,366.71,False
+Karnataka,UPI_PerCapita_Transactions,203.0,203.0,False
+Karnataka,Per_Capita_NSDP_Rs,339813.0,339813.0,False
+Karnataka,Tele_Density_Percent,103.99,103.99,False
+Karnataka,SDG_Index_Score,75.0,75.0,False
+Karnataka,EWaste_Processed_Tonnes,39150.63,39150.63,False
+Kerala,UPI_PerCapita_Transactions,147.0,112.0,True
+Kerala,Per_Capita_NSDP_Rs,279751.0,281269.0,True
+Kerala,Tele_Density_Percent,120.93,120.93,False
+Kerala,SDG_Index_Score,79.0,79.0,False
+Kerala,EWaste_Processed_Tonnes,1249.61,1249.61,False
+Madhya Pradesh,UPI_PerCapita_Transactions,106.0,72.0,True
+Madhya Pradesh,Per_Capita_NSDP_Rs,139713.0,139713.0,False
+Madhya Pradesh,Tele_Density_Percent,69.37,69.37,False
+Madhya Pradesh,SDG_Index_Score,67.0,67.0,False
+Madhya Pradesh,EWaste_Processed_Tonnes,553.59,553.59,False
+Maharashtra,UPI_PerCapita_Transactions,185.0,185.0,False
+Maharashtra,Per_Capita_NSDP_Rs,278681.0,278681.0,False
+Maharashtra,Tele_Density_Percent,102.14,102.14,False
+Maharashtra,SDG_Index_Score,73.0,73.0,False
+Maharashtra,EWaste_Processed_Tonnes,18559.3,18559.3,False
+Odisha,UPI_PerCapita_Transactions,61.0,81.0,True
+Odisha,Per_Capita_NSDP_Rs,165068.0,150414.0,True
+Odisha,Tele_Density_Percent,78.05,78.05,False
+Odisha,SDG_Index_Score,66.0,66.0,False
+Odisha,EWaste_Processed_Tonnes,477.54,477.54,False
+Punjab,UPI_PerCapita_Transactions,132.0,72.0,True
+Punjab,Per_Capita_NSDP_Rs,195031.0,205374.0,True
+Punjab,Tele_Density_Percent,111.56,111.56,False
+Punjab,SDG_Index_Score,76.0,76.0,False
+Punjab,EWaste_Processed_Tonnes,28375.27,28375.27,False
+Rajasthan,UPI_PerCapita_Transactions,133.0,87.0,True
+Rajasthan,Per_Capita_NSDP_Rs,166647.0,166647.0,False
+Rajasthan,Tele_Density_Percent,82.66,82.66,False
+Rajasthan,SDG_Index_Score,67.0,67.0,False
+Rajasthan,EWaste_Processed_Tonnes,27998.77,27998.77,False
+Tamil Nadu,UPI_PerCapita_Transactions,133.0,107.0,True
+Tamil Nadu,Per_Capita_NSDP_Rs,315220.0,313329.0,True
+Tamil Nadu,Tele_Density_Percent,104.29,104.29,False
+Tamil Nadu,SDG_Index_Score,78.0,78.0,False
+Tamil Nadu,EWaste_Processed_Tonnes,31143.21,31143.21,False

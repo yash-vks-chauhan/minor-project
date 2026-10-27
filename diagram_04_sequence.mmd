@@ -1,0 +1,43 @@
+sequenceDiagram
+    actor Researcher
+    participant GP as Government Portals
+    participant S1 as 01_data_engineering.py
+    participant S2 as 02_eda_visualizations.py
+    participant S3 as 03_statistical_analysis.py
+    participant S4 as 04_reviewer_defense.py
+    participant S5 as 05_predictive_modeling.py
+    participant S6 as 06_advanced_ml.py
+    participant Paper as paper.tex / Final Report
+
+    Researcher->>S1: Start project pipeline
+    S1->>GP: Scrape 7 official sources
+    GP-->>S1: State-wise raw data
+    S1->>S1: Validate, clean, standardize
+    S1->>S1: Inner join across sources
+    S1->>S1: Compute DAS, CEBS, DCI
+    S1-->>S2: Unified analytical dataset
+
+    S2->>S2: Generate EDA figures and rankings
+    S2-->>S3: Dataset + EDA context
+
+    S3->>S3: Run OLS and statistical tests
+    S3-->>S4: Primary results
+
+    S4->>S4: Bootstrap, sensitivity, HC3, permutation
+    S4-->>S5: Defended findings
+
+    loop LOO-CV / Nested CV
+        S5->>S5: Train and validate ML models
+    end
+    S5-->>S6: Predictions and model outputs
+
+    S6->>S6: Compute SHAP values
+    S6->>S6: Run K-Means clustering and PCA
+    S6-->>Paper: Advanced ML figures and findings
+    S2-->>Paper: EDA figures
+    S3-->>Paper: Statistical results
+    S4-->>Paper: Robustness results
+    S5-->>Paper: ML validation results
+
+    Researcher->>Paper: Compile IEEE paper
+    Paper-->>Researcher: Submission-ready deliverables

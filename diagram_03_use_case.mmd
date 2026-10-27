@@ -1,0 +1,34 @@
+flowchart LR
+    Researcher["Researcher"]
+    Portals["Government Portals"]
+    Pipeline["ML Pipeline"]
+
+    UC1([Scrape verified state-wise data])
+    UC2([Validate and clean data])
+    UC3([Merge data with inner join])
+    UC4([Compute DAS, CEBS, and DCI])
+    UC5([Run EDA and create figures])
+    UC6([Test H1, H2, and H3])
+    UC7([Run robustness checks])
+    UC8([Validate findings with ML])
+    UC9([Explain predictions with SHAP])
+    UC10([Cluster states and run PCA])
+    UC11([Generate final report and paper])
+
+    Researcher --> UC1
+    Researcher --> UC4
+    Researcher --> UC5
+    Researcher --> UC6
+    Researcher --> UC7
+    Researcher --> UC8
+    Researcher --> UC9
+    Researcher --> UC10
+    Researcher --> UC11
+
+    Portals --> UC1
+    Portals --> UC2
+    Pipeline --> UC8
+    Pipeline --> UC9
+    Pipeline --> UC10
+
+    UC1 --> UC2 --> UC3 --> UC4 --> UC5 --> UC6 --> UC7 --> UC8 --> UC9 --> UC10 --> UC11

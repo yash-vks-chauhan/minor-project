@@ -1,0 +1,27 @@
+{
+  "venue": "WEAVE 2027",
+  "status": "submission email sent; organizer receipt confirmation pending",
+  "sent_at": "2026-10-26T17:12:23.000Z",
+  "message_id": "1a17932f192eff47",
+  "thread_id": "1a17932f192eff47",
+  "gmail_labels": [
+    "SENT"
+  ],
+  "to": "weave@hs-bremen.de",
+  "from": "yash.vks.chauhan@gmail.com",
+  "subject": "WEAVE 2027 extended abstract - Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States",
+  "attachment": {
+    "filename": "extended_abstract_blind.pdf",
+    "bytes": 88878,
+    "sha256": "68fd42b9672208610bac453562e51b9a734c89303ce3dc148807848623dea6cf"
+  },
+  "requested_mode": "fully online session",
+  "presenter": "Yash Chauhan",
+  "author_order": [
+    "Yash Chauhan",
+    "Suresh Kumar Chelliah",
+    "Shreya Srivastava"
+  ],
+  "related_submission_disclosed": "IOCE 2027 Sciforum-217212, pending MDPI check",
+  "verification": "Read back from Gmail with SENT label, correct recipient/body and PDF attachment. No acceptance or organizer receipt has been verified."
+}

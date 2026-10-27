@@ -1,0 +1,38 @@
+[
+  {
+    "file": "submissions/01-ioce2027/abstract.pdf",
+    "body_words": 236,
+    "limits": [
+      200,
+      300
+    ],
+    "blind": false
+  },
+  {
+    "file": "submissions/02-weave2027/extended_abstract_blind.pdf",
+    "body_words": 941,
+    "limits": [
+      800,
+      1500
+    ],
+    "blind": true
+  },
+  {
+    "file": "submissions/03-tip2027/extended_abstract.pdf",
+    "body_words": 535,
+    "limits": [
+      0,
+      700
+    ],
+    "blind": false
+  },
+  {
+    "file": "submissions/04-urban-eplanning2027/abstract.pdf",
+    "body_words": 206,
+    "limits": [
+      0,
+      250
+    ],
+    "blind": false
+  }
+]

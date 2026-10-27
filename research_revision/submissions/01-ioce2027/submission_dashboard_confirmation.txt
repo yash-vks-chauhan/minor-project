@@ -1,0 +1,88 @@
+- banner:
+  - generic "Go to dashboard or home":
+    - img "Sciforum"
+  - button:
+  - button "avatar":
+    - img "avatar"
+  - button "Open navigation menu":
+    - generic: Open navigation menu
+  - navigation:
+    - list:
+      - link "Find Events":
+        - /url: /events
+      - button "Help":
+        - generic: Help
+  - button "Organize Event":
+    - generic: Organize Event
+  - button "Log out":
+    - generic: Log out
+- banner:
+  - button "Open navigation menu":
+    - generic: Open navigation menu
+  - generic: My submissions
+- tablist:
+  - tab "All non-draft (1)" [selected]:
+    - generic: All non-draft (1)
+  - tab "Updates required (0)":
+    - generic: Updates required (0)
+  - tab "In progress (1)":
+    - generic: In progress (1)
+  - tab "Accepted (0)":
+    - generic: Accepted (0)
+  - tab "Rejected & Archived (0)":
+    - generic: Rejected & Archived (0)
+  - tab "Draft (0)":
+    - generic: Draft (0)
+- textbox "Search by submission ID, title, keywords, event name or event abbreviation."
+- button:
+- table:
+  - rowgroup:
+    - row "Submission Authors Event Session Status Type Submitted Action":
+      - columnheader "Submission":
+        - generic: Submission
+      - columnheader "Authors":
+        - generic: Authors
+      - columnheader "Event":
+        - generic: Event
+      - columnheader "Session":
+        - generic: Session
+      - columnheader "Status":
+        - generic: Status
+      - columnheader "Type":
+        - generic: Type
+      - columnheader "Submitted":
+        - text: Submitted
+      - columnheader "Action":
+        - generic: Action
+  - rowgroup:
+    - row "Sciforum-217212 Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States Yash Chauhan *, Suresh Kumar Chelliah , Shreya Srivastava The 2nd International Online Conference on Environments S1. Urban Systems vs Rural and Forest Surroundings Pending MDPI check Poster / Oral Oct 26, 2026":
+      - cell "Sciforum-217212 Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States":
+        - generic: Sciforum-217212
+        - generic: Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States
+      - cell "Yash Chauhan *, Suresh Kumar Chelliah , Shreya Srivastava":
+        - generic: Yash Chauhan
+        - text: "*,"
+        - generic: Suresh Kumar Chelliah
+        - text: ","
+        - generic: Shreya Srivastava
+      - cell "The 2nd International Online Conference on Environments":
+        - generic: The 2nd International Online Conference on Environments
+      - cell "S1. Urban Systems vs Rural and Forest Surroundings":
+        - generic: S1. Urban Systems vs Rural and Forest Surroundings
+      - cell "Pending MDPI check":
+        - generic: Pending MDPI check
+      - cell "Poster / Oral":
+        - generic: Poster / Oral
+      - cell "Oct 26, 2026":
+        - generic: Oct 26, 2026
+      - cell:
+        - button:
+        - button:
+- button "Prev" [disabled]:
+  - generic: Prev
+- button "1":
+  - generic: "1"
+- generic: "1"
+- generic: of 1
+- button "Next" [disabled]:
+  - generic: Next

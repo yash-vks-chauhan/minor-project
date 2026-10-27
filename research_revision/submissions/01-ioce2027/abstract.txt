@@ -1,0 +1,10 @@
+Digital Access, Sustainability Indicators and Formal E-Waste Processing in Indian States
+
+Introduction: Digital inclusion and circular economy policies both depend on information and service coordination, but broad development indicators may overstate their empirical connection. We examine whether digital access is associated with sustainability and formal e-waste processing across Indian states.
+
+Methods: Seven traceable input tables were assembled for 22 complete-case states, combining tele-density, secondary UPI transactions per person, income, SDG scores, formal e-waste collected and processed, and projected population characteristics. Reference periods span 2021-22 to 2024-25. A digital access score and a circularity-related proxy were constructed without a shared income component. Analysis used state resampling, HC3 regression, and outer leave-one-state-out prediction with four-fold inner tuning by mean squared error. Predictive targets were the SDG composite and log-transformed e-waste tonnes per million residents, analyzed separately.
+
+Results: Digital access and the combined proxy were positively associated (Pearson r=0.779; Spearman rho=0.810; bootstrap interval 0.617-0.901). After log-income adjustment, the digital-access coefficient was uncertain (HC3 p=0.162). The unlogged e-waste-only Pearson association was weaker (r=0.365; p=0.095). Digital-only ElasticNet achieved pooled outer R-squared of 0.658 for SDG scores and 0.292 for log e-waste intensity. XGBoost did not improve these results.
+
+Conclusions: Digital access co-occurs with broader development capacity, while evidence for an independent connection to formal circular material processing remains limited. Mixed reference years, secondary rounded payment data, missing-state selection, and ecological measurement prevent causal or prospective forecasting claims. Policy evaluation should distinguish broad sustainability benchmarks from direct measures of material collection and recovery.
+

@@ -1,0 +1,32 @@
+{
+  "theme": "neutral",
+  "themeVariables": {
+    "fontFamily": "Arial",
+    "fontSize": "30px",
+    "primaryTextColor": "#111111",
+    "secondaryTextColor": "#111111",
+    "tertiaryTextColor": "#111111",
+    "lineColor": "#333333"
+  },
+  "flowchart": {
+    "useMaxWidth": false,
+    "htmlLabels": true,
+    "nodeSpacing": 90,
+    "rankSpacing": 110,
+    "padding": 25
+  },
+  "sequence": {
+    "useMaxWidth": false,
+    "diagramMarginX": 80,
+    "diagramMarginY": 60,
+    "bottomMarginAdj": 280,
+    "boxMargin": 20,
+    "boxTextMargin": 14,
+    "noteMargin": 10,
+    "messageMargin": 70,
+    "mirrorActors": false,
+    "actorMargin": 120,
+    "width": 300,
+    "height": 110
+  }
+}

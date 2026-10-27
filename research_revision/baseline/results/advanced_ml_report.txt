@@ -1,0 +1,92 @@
+================================================================================
+  ADVANCED ML ANALYSIS REPORT
+  Research: Digital Inclusion × Circular Economy Behavior in India
+  Date: February 2026
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+ANALYSIS 1: XGBoost Regression
+────────────────────────────────────────────────────────────────────────────────
+LOO-CV R²:  0.4724
+RMSE:       9.7759
+MAE:        5.6102
+Pearson r:  0.6957 (p=0.002767)
+
+────────────────────────────────────────────────────────────────────────────────
+ANALYSIS 2: Nested LOO-CV (Leak-Free Hyperparameter Tuning)
+────────────────────────────────────────────────────────────────────────────────
+        Model  Nested_R2      RMSE      MAE  Pearson_r  Pearson_p
+      XGBoost   0.510695  9.414325 5.398654   0.721221   0.001615
+Random Forest   0.503822  9.480217 4.914545   0.711471   0.001996
+   ElasticNet   0.471495  9.784178 6.709960   0.722950   0.001554
+        Ridge   0.444513 10.030819 7.003237   0.714250   0.001881
+        Lasso   0.442716 10.047036 7.010548   0.713119   0.001927
+          SVR  -0.023346 13.614785 9.938772  -0.593022   0.015469
+
+Best: XGBoost — Nested R²=0.5107
+This is the MOST RELIABLE performance estimate.
+
+────────────────────────────────────────────────────────────────────────────────
+ANALYSIS 3: Repeated K-Fold CV (100 repeats × 4 folds)
+────────────────────────────────────────────────────────────────────────────────
+        Model   Mean_R2   Std_R2    CI_Low  CI_High  Median_R2     Min_R2   Max_R2
+Random Forest  0.442075 0.686671 -0.706990 0.980767   0.603019  -8.508802 0.990782
+   ElasticNet  0.260251 1.383691 -2.041677 0.963010   0.483149 -13.440467 0.971769
+        Ridge -0.021098 1.651574 -3.794721 0.936764   0.397592 -14.400942 0.971324
+      XGBoost -0.021284 1.670641 -4.126517 0.914391   0.359357 -17.347424 0.954639
+        Lasso -0.250914 2.670297 -5.213693 0.933183   0.401034 -32.613346 0.950633
+
+Most Stable: Random Forest — Mean R²=0.4421
+
+────────────────────────────────────────────────────────────────────────────────
+ANALYSIS 4: SHAP Explainability
+────────────────────────────────────────────────────────────────────────────────
+Global Feature Importance (mean |SHAP|):
+  Tele_Density_Percent                5.0118
+  Per_Capita_NSDP_Rs                  4.8827
+  Population_Mn                       1.7144
+  Urban_Percent                       1.6765
+  Literacy_Rate_Percent               0.9984
+  UPI_PerCapita_Transactions          0.9142
+
+Per-State SHAP Values saved to: results/shap_values_per_state.csv
+
+────────────────────────────────────────────────────────────────────────────────
+ANALYSIS 5: K-Means Clustering (k=2)
+────────────────────────────────────────────────────────────────────────────────
+
+Digital Leaders (n=8):
+  Mean DA=82.0, CE=56.7, DCI=46.7
+  States: Gujarat, Haryana, Himachal Pradesh, Karnataka, Kerala, Maharashtra, Punjab, Tamil Nadu
+
+Emerging States (n=8):
+  Mean DA=47.9, CE=37.2, DCI=18.3
+  States: Andhra Pradesh, Assam, Bihar, Chhattisgarh, Jharkhand, Madhya Pradesh, Odisha, Rajasthan
+
+
+────────────────────────────────────────────────────────────────────────────────
+ANALYSIS 6: PCA
+────────────────────────────────────────────────────────────────────────────────
+PC1: 62.3% variance explained
+PC2: 21.7% variance explained
+Total: 84.0%
+
+Loadings:
+                                 PC1       PC2
+Tele_Density_Percent        0.468508 -0.267730
+UPI_PerCapita_Transactions  0.435335  0.283068
+Per_Capita_NSDP_Rs          0.477568  0.020864
+Literacy_Rate_Percent       0.431413 -0.215778
+Urban_Percent               0.416366  0.322460
+Population_Mn              -0.058602  0.834996
+
+
+================================================================================
+FIGURES GENERATED:
+  fig17_shap_beeswarm.jpg     — SHAP beeswarm plot
+  fig18_shap_importance.jpg   — SHAP global feature importance
+  fig19_shap_waterfall.jpg    — SHAP per-state explanations
+  fig20_clustering.jpg        — K-Means + dendrogram + profiles
+  fig21_pca_biplot.jpg        — PCA biplot with loadings
+  fig22_comprehensive_ml.jpg  — Side-by-side ML comparison
+================================================================================

@@ -1,0 +1,1 @@
+OpenAI Codex assisted with source checking, Python analysis implementation, manuscript revision, and submission text preparation. The authors remain responsible for verifying and approving the sources, analysis, and final text.
